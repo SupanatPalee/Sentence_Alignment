@@ -1,6 +1,8 @@
 # Thai-English parallel Sentence Alignment
 Block Diagram
-(media\blockdiagram edit cut sentence.drawio.png)
+![Block Diagram](media/blockdiagram_edit_cut_sentence.drawio.png)
+
+
 --> File my project: https://drive.google.com/drive/folders/1zwWtStqdU82P4i07khiqbcD3pEC0Xkpi?usp=sharing
 
 --> Link my project Hugginhface: https://huggingface.co/TristanN01/VEC-MT5
