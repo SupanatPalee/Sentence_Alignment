@@ -1,19 +1,18 @@
 # Vecalign
 
 
---> File my project https://drive.google.com/drive/folders/1zwWtStqdU82P4i07khiqbcD3pEC0Xkpi?usp=sharing
-
-```
+--> File my project: https://drive.google.com/drive/folders/1zwWtStqdU82P4i07khiqbcD3pEC0Xkpi?usp=sharing
+--> Link my project Hugginhface: https://huggingface.co/TristanN01/VEC-MT5
 ไฟล์ใน drive ประกอบไปด้วย
 --> ไฟล์ colab ในการฝึกเเบบจำลองเเละการปรับพารามิเตอร์
 --> model ก่อนเเละหลังเพิ่มชุดข้อมูลจาก vecalign
 --> ไฟล์ตัวอย่างของ vecalign เเละ laser ที่ได้ทำการตืดตั้งเเละใช้งานจริง
 ```
 
-```
+
 Github Vecalign --> https://github.com/thompsonb/vecalign
 Github Laser    --> https://github.com/facebookresearch/LASER
-```
+
 
 Vecalign is an accurate sentence alignment algorithm which is fast even for very long documents.
 In conjunction with [LASER](https://github.com/facebookresearch/LASER), Vecalign 
