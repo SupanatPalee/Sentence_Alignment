@@ -1,6 +1,6 @@
-# Vecalign
-
-
+# Thai-English parallel Sentence Alignment
+Block Diagram
+(media\blockdiagram edit cut sentence.drawio.png)
 --> File my project: https://drive.google.com/drive/folders/1zwWtStqdU82P4i07khiqbcD3pEC0Xkpi?usp=sharing
 
 --> Link my project Hugginhface: https://huggingface.co/TristanN01/VEC-MT5
@@ -9,7 +9,7 @@
 ไฟล์ใน drive ประกอบไปด้วย
 --> ไฟล์ colab ในการฝึกเเบบจำลองเเละการปรับพารามิเตอร์
 --> model ก่อนเเละหลังเพิ่มชุดข้อมูลจาก vecalign
---> ไฟล์ตัวอย่างของ vecalign เเละ laser ที่ได้ทำการตืดตั้งเเละใช้งานจริง
+--> ไฟล์ตัวอย่างของ vecalign เเละ laser ที่ได้ทำการติดตั้งเเละใช้งานจริง
 ```
 
 
