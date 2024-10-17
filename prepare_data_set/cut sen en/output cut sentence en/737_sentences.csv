@@ -1,0 +1,7 @@
+This paper proposes a method of estimation and replenishment policy for the new product by improving the accuracy of forecasting and reducing the ending inventory while maintaining the service level at 95%.
+"This study was conducted by using all relevant data that related to the demand behavior of the old products, including the using of the simple linear regression analysis to analyzed the data to select a representative equation from the Coefficient of determination (R-Squared) for a demand estimation, and applied the establish replenishment policy to signify the consistent of the forecasted demand for short product life cycle by applying the basic Economic Order Quantity Policy (EOQ) with a multiple of the Minimum Order Quantity (MOQ)."
+"Finally, test the performance of this policy by comparing the method proposed by this research with the actual demand in the past."
+The appropriate policy must reduce the amount of ending inventory material.
+Then implement this method and policy with a new product.
+"The results shown that by applying the new method can reduce the ratio forecast error, which accounted for 77.69."
+It also shown that when used with the ordering policy can reduce the amount of material ending inventory which accounted for 87.15% and maintaining the service level at 95%.

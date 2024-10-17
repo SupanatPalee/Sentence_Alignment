@@ -1,0 +1,10 @@
+"PM2.5 has become a serious concern in Thailand, particularly in Bangkok and its vicinity."
+"It has significant impacts on human health, economy and society."
+A prediction method based on mathematical models is an alternative approach to obtain estimates of PM2.5 concentrations.
+"This research proposes long short-term memory (LSTM) neural networks to develop models to forecast the levels of fine particulate matter in Bangkok, ambient and roadside areas."
+"Correlation analysis was used to select the key variables, and the RMSE and MAPE criteria were employed as forecasting performance measures."
+Eight different models were constructed using air quality and meteorological data.
+"The results demonstrated that for ambient area, model 2 (which includes the variables PM10, NO2, CO, O3, SO2 and LAGPM2.5) was the best model with an average RMSE of 8.05 and an average MAPE of 27.22."
+"In roadside area, model 8 (which contains the variables PM10, NO2, CO, Temp, Hum, Press, WindSp, WindDir and LAGPM2.5) showed the best performance with an average RMSE of 4.83 and an average MAPE of 22.57."
+"Additionally, the prediction models at roadside site (model 5-8) were more accurate than the others (model 1-4)."
+"Estimates based upon short-term past data, 1 day, tended to have smaller forecast errors."

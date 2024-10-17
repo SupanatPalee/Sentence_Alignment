@@ -1,0 +1,7 @@
+The objective of this research is to find a model for forecasting repair costs of refurbish equipment with the technique of Multiple Regression Model.
+The problem is the open-front freezers have more number of repair reports higher than all types of equipment and also has a long service life.
+Resulting in a large number of open-front freezers that needs to be refurbished.
+"Due to the equipment is not being used, therefore, the research team is interested in finding a model for forecasting the repair cost of the equipment using the multiple linear regression model and examination of the agreement of the multiple regression model."
+"Along with checking all the terms of the multiple linear regression model brought to the regression equation consisting of 3 independent variables that are related to the repair cost at the significant level of 0.05 are the number of times repaired, the purchase price of the equipment, and the service life."
+The estimated regression equation is Repair = -57 + 425.1Numofrepair + 0.00804.
+"Price + 1285.21Lifetime with the adjusted decision coefficient ( ) equal to 83% and the percentage of absolute average error (MAPE) of the model equation, repair forecast value is 25.54%"

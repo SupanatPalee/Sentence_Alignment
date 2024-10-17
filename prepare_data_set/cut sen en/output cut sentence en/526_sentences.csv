@@ -1,0 +1,6 @@
+This paper presents a mathematical model for solving the U-shaped assembly line balancing problem of type 1.
+"The objectives of this study were to minimize the number of workstations, the cycle time of production and the precedence of tasks."
+"The data set used in this study obtained from Armin Scholl (1993), totally 13 problems with 7-53 tasks, each with different cycle time."
+The Lingo V.11.0 was used to find the optimal solution.
+"It was found that this program could solve problems and provided less number of workstations for 7 problems, approximately 9%, compared to the results from Armin Scholl."
+"Seventy-four problems, about 84%, had equal number of workstations and six problems, approximately 7%, could not be solved."

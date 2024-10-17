@@ -1,0 +1,6 @@
+"In this paper, we present the pigment separation for color model of foliage plant using principal component analysis."
+Spatial distributions of pigments lead to the variation of color.
+Leaf color model is based on the Lambert-Beer law by using principal component analysis.
+"In order to separate pigments of leaf, we assume to separate only two groups of pigments as green pigment and aging pigment."
+Results can use to the analysis of leaf texture and the diagnosis of leaf disease.
+Simulation results show that the pigment components are influential factor of different color separated from leaf color image.

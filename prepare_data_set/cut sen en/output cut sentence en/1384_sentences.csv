@@ -1,0 +1,9 @@
+This paper presents the evaluation of indoor positioning system based on DIFF parameter using fingerprinting technique and K-Means clustering algorithm.
+"In training process, RSS values at the reference positions are surveyed and sent to server to generate the DIFF-fingerprint."
+"After that, the similarly DIFF values have been grouped by using K-Means and keep them to the database."
+"For testing process, the positions are estimated by using the fingerprinting technique and algorithms that are LS and k-NN algorithm."
+The results show that the DIFF parameter can be used to improve the accuracy of indoor positioning system.
+"However, the no-clustering case was provided slightly higher accuracy than K-Means clustering case."
+"But, the K-Means clustering case can computed faster than noclustering case in testing process."
+"So, the indoor positioning system based on DIFF parameter using fingerprinting technique and K-Means clustering algorithm case can be suitable applied on the mobile devices that have limited CPU and memory."
+"Moreover, it can be used for the system that require fastcomputation in positioning process."

@@ -1,0 +1,10 @@
+"This research aims to design and develop a rapid prototyping machine and explore the forming parameters, included the performance evaluation of rapid prototyping machine technology for ceramic products which deploy layer manufacturing technique."
+"Procedural of this research started from 3D ceramic product design in Unigraphics NX version 6.0 program, next created a cross section line in the 3D file base on a height of product at each layer in development a rapid prototyping machine."
+"The machine size is 300×400×500 millimeter which is composed of 3 components, 1) Base structure 2) Injection rate control unit 3) Electronic control system and software."
+"In wiring electronic circuit, RNR Motion board is applied."
+"USB port used as communication port between hardware and Mach3 CNC controller software is used to control the motor moving in 4 axes as X, Y, Z and A."
+Testing has explored to find the effective parameters to create prototype.
+"The control parameters are diameter size of injector which is fixed at 2 millimeters, and PBB compound clay which contained the moisture range as 40-50%."
+"The dependent parameters are injector rate, velocity and interval of forming level."
+"The testing results shown that the appropriate injection rate is 5 mm/min, the velocity of axes moving in x, y, z is 60 mm/min, the appropriate interval of forming level is 0.80 millimeter and results of circle forming style, rectangle forming style and free style forming production are good performed, after put the forming product into flaming with 1200 Celsius, the forming product is perfect, no rupture and no twisted."
+"The performance of rapid prototyping machine is measured by product size after forming, found that the mean of +/- deviation is 0.2 millimeter."

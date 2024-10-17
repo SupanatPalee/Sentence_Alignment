@@ -1,0 +1,4 @@
+This article presents an analysis of the cascaded diplexer amplifier circuit dual passband frequencies for WLAN 2.4 GHz / 5GHz.
+"By adjusting input impedance matching circuits, series resonance, parallel resonance and gate capacitance of the active device for resonance inductor and capacitors."
+"The simulation results show that the circuit gain is 20dB and 19.4dB, with FBW values of 20.8% and 16.4% at 2.4GHz and 5GHz, respectively."
+These results are good agreement with the theoretical analysis.

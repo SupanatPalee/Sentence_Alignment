@@ -1,0 +1,6 @@
+This paper proposes the traffic flow analytics and prediction using nonlinear autoregressive network with exogenous inputs technique (NARX).
+The learning of neural network is divided into 2 configuration parts.
+The configuration delays are 2 and 4 to compare the results and find optimal configuration value for create NARX model using the simulate data.
+The chaotic simulate data set are generate by Mackey glass equation.
+Then analyze data set using NARX model.
+This able to developed to application or web application used in Bangkok.

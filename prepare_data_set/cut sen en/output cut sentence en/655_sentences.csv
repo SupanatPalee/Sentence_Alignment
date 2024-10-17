@@ -1,0 +1,10 @@
+The purpose of this research was to reduce defects from grinding process of PTCA Guide Wire production.
+"All of defects in Grinding process were from various problem, the main problem was diameter after grinding was not standardized 0.061 mm specified by QC department."
+"The controllable variables of grinding machine are pressure, angle and sand paper, the response factor is diameter is in standard."
+2k Factorial was practice in this research with 5 replicates.
+The result of ANOVA shows that factor affecting on diameter are all of main factors and interaction factors.
+"To identify the optimize factors, the researcher use regression model and Optimization response function in MINITAB, result shows that pressure 6.50 angle 10.0667 and Extra-fine are factors that effect to diameter within acceptable range."
+"Twenty additional samples of PTCA guide wire were collected after all factors were established then tested by using T-test, the hypothesis is samples are equal to 0.061 or not."
+The result shows that these samples are equal to 0.061 at 0.05 significant level.
+"All Factors are implemented to currently production, the defect was collect from the same initial period of this research."
+The result shows that the defect before and after are 108 and 13 or reducing 87.96% respectively.

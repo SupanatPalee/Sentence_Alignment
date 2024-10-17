@@ -1,0 +1,9 @@
+This paper provides the design equation evaluating the gains of non-ideal proportional plus resonant controller also known as non-ideal PR controller.
+The control system of single-phase grid-tied inverter typically embraces such a PR controller governing grid-current.
+The design equation is originated and developed from the characteristic equation of the closed-loop control system.
+Either two distinct negative real closed-loop poles or one complex-conjugate pair of closed-loop poles with negative real part are required for the PR gain computations of the design equation.
+Root-locus consideration will place the two distinct negative real poles whilst specification of transient response will assign the one complex-conjugate pair of poles.
+The PR controller has to carry its gains so that the closed-loop system becomes stable.
+Simulation results compare transient responses of grid current derived from entering two different couples of closed-loop poles into the design equation and then allowing it to run.
+Grid-current response tracking its reference and synchronization between grid current and grid voltage in steady state are accomplished under experiments on the control system.
+"Thus, the proposed design equation is an alternative way for tuning the gains of the PR controller in practice."

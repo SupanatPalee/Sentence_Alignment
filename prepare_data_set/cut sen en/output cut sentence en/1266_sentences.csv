@@ -1,0 +1,11 @@
+In comparing repetitive construction operations with different work programs between 1) ones with a program analyzed by network scheduling techniques i.e.
+CPM and 2) ones with a program analyzed by repetitive project scheduling i.e.
+"Repetitive Scheduling Method (RSM), it is obvious that the later operation has a key advantage of work crew continuity."
+"Besides, according to the result of part I, this particular pattern of operation is versatile enough to sustain the changes and variations of activity durations."
+"However, in many cases, work schedules by using RSM tend to have longer project durations."
+This paper presents the applications of two techniques to reduce project durations as well as to enhance work performance for construction operations with RSM schedules.
+The first technique is to relax the constraint of work crew continuity by splitting activity (s) with high production rates into two or more intervals with designated gaps between them so that this particular activity (s) as well as its successors can have early schedules.
+The later technique is using multiple working crews on activity (s) with low production rates to shorten working duration as well as to allow their successors to start the work early.
+"Given the data collected from field, the construction of 40 blocks of townhome was simulated in two scenarios, as-planned operation and actual work conditions."
+The result shows that the two techniques can effectively shorten project durations as well as average throughput times in both scenarios.
+"In addition, under actual work conditions, even though using more working teams can significantly reduce the total idle time and work disruption, the result is opposite on the scenario with splitting activities."

@@ -1,0 +1,12 @@
+"With modern digital technology, it is more convenient for users to distribute news on online media."
+"Some of them have spread a lot of fake news, which is a problem causing people to believe fake news as real news and share it with others."
+"Currently, there is no tool to detect fake news and interrupt the spread of it."
+Detection of fake news is a difficult task as fake news is very dynamic.
+"This research presents a method for detecting fake news in Thai with artificial intelligence techniques based on information retrieval, natural language processing, and machine learning."
+"In preparing the training data, the researchers used web crawlers to collect 53,220 samples and pre-categorize them as real, fake, and suspicious news."
+We balanced the number of data samples in each group to avoid biasing.
+We trained machine learning models based on 10-fold cross-validation.
+"The machine learning models used in the study were Logistic Regression (LR), K-Nearest Neighbor (KNN), Naïve Bayesian (NB), Multilayer Perceptron (MLP), Support Vector Machine (SVM), Random Forest (RF) and Short-Term Long-Term Memory (LSTM)."
+"Research results showed that LSTM-based deep learning with performance tests across all areas, measured with data classification accuracy, precision, recall, and f-measure."
+"The test result score in every measure equals 1, which is the highest score."
+"Thus, LSTM is suitable for machine learning as a fake news detection system."

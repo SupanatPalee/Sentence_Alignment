@@ -1,0 +1,9 @@
+"This paper presents the study of vibrations under rotating unbalance, comparing the results between the experiment and the mathematical model."
+The optimal vibration absorber can be solved using the particle swarm optimization (PSO) method.
+The test unit is a beam with a pinned support.
+"The unbalanced motor, a spring and a damper are attached to another end beam."
+"The vibration measurement is performed with the ADXL345 accelerometer, which is connected to the MEGA 2560 R3 board."
+The data is processed and sent to the computer to record the results in the time domain and frequency domain.
+The results show that the mathematical model has a similar acceleration behavior to the experimental results at a damping ratio of 0.1 and a motor speed of 220 rpm.
+The particle swarm optimization method is effective for determining the vibration absorber.
+"If the system consists of a vibration absorber, the results show that the amplitude of vibration acceleration decreases significantly with an unbalanced motor."

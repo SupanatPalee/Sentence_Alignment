@@ -1,0 +1,6 @@
+"The research paper presents a suitability of local islanding detection methods for grid-connected inverter in multi-distributed generation, and possible usage of local techniques for an anti-islanding condition, which is caused by the ever-increasing installation of distributed generation."
+"The paper uses 5 distributed generations, resulting in 15 forms."
+"According to the simulation results, it was found that if the distributed generation is increasing until the power of the distributed generation equal or close to the power of the whole load, and if the inverter of all 5 distributed generations used a passive technique, they cannot be detected."
+"If they used an active technique, they can be detected in 0.24 seconds."
+"If they used a hybrid technique, they can be detected in 0.282 seconds."
+"If they mixed passive, active and hybrid techniques, they can be detected in 0.315 seconds."

@@ -1,0 +1,9 @@
+"This paper proposes the algorithm for optimal design of a stand-alone powersystem consisting of wind, PV and pumped hydro storage, taking into consideration theexpected energy not supplied."
+The algorithm consists of two stages which employ thesame problem formulation.
+The problem formulation uses the capital costs of the standalonepower system together with the cost of expected energy not supplied as an objectivefunction.
+"The constraint functions consist of load profiles of medium general service fromProvincial Electricity Authority (PEA), the statistical forecasting data of wind and solarenergy, and the operation of pumped hydro storage system."
+The calculation in the firststage ensures that there is no expected energy not supplied.
+"The optimal results withzero load shedding from the first stage yield the number of PV units, the number of windturbines, the rated capacity of pump motor and hydro turbine, and the maximum volumeof the upper reservoir for storage system."
+Then these optimal results are fed back intothe formulation as fixed parameters in the second stage calculation.
+"The calculation isdone on the system with various probabilities of solar and wind energy in order to obtainthe minimum costs of load shedding when shortage of wind and solar energy should occur.The results of the second stage show the operating cycles of pump and hydro turbine,and the changed volumes of water in the reservoir in all considered periods."
+The resultsfrom both stages of the algorithm show the additional costs of energy not supplied whenthe probabilistic values of renewable energy are taking into consideration in the optimaldesign of the stand-alone system.

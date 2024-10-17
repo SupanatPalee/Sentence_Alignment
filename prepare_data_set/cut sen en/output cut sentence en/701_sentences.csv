@@ -1,0 +1,13 @@
+A mathematical phantom is a simple method to simulate the organs of the human body.
+"A phantom can simulate organs such as the chest, lung, bone, and muscle."
+The information for this phantom was gained from real organs captured by computed tomography (CT) images.
+The purpose of this study was to create a human thoracic phantom.
+The image data of the simulation phantom images was compared to CT images from the database: Radiopedia.
+Thirty-four slices of CT images were referenced.
+The simulated organs were similar to the organs in the CT images.
+The line profiles and the intensity value of the simulated images and the reference images were compared.
+"The qualitative evaluation of profile and intensity value and intensity value of lungs, heart and bone were not significantly different (P<0.050)."
+The intensity of blood vessels was significantly different (P>0.05).
+The assessment of three experts in human anatomy on the simulated image and the database image were moderately similar.
+"In conclusion, the phantom simulation images were similar to CT images from the database."
+"Therefore, the phantom may be used to test algorithms in medical image processing."

@@ -1,0 +1,9 @@
+This research article aims to study the prediction of the bi-weekly solar radiation in Muang Phitsanulok district by constructing predictive equations by multiple linear regression analysis using independent variables consisting of maximum air temperature and average daytime air temperature.
+The information can be obtained from general meteorological websites.
+The information is divided into 2 parts.
+"The first part, 72 pieces of information, was collected from January 2012 to December 2014."
+It was used to construct predictive equations by multiple linear regression analysis.
+"The second part, 63 pieces of information, was collected from January 2015 to September 2017."
+It was used to test the prediction results obtained from the predictive equation.
+The statistics used in this study were the mean absolute percentage error (MAPE).
+The results of the study showed that MAPE is 6.134%.

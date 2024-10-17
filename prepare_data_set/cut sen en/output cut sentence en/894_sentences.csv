@@ -1,0 +1,11 @@
+The aim of this study was to apply an Internet of Things application to control the watering system of vegetable plots while showing the results via the cloud-based platform NETPIE.
+"In this study, the parameters were air temperature, relative humidity, soil moisture, and rain."
+Two systems were used depending if the weather was clear or rainy.
+"If the weather was clear, the system turned on the water for each vegetable plot one by one."
+This was to reduce the cost of using a high-powered water pump.
+There were three periods of operating the high-powered water pump.
+"In each period, the pump operated for 5-30 minutes."
+"If there was rain 15 minutes before the system was used, or while the machine was being used, and the air had a relative humidity of more than 90 percent, the system was closed using the web application, which was easy to use and control."
+The system was tested for 15 days.
+"There were 3 rounds of testing, with each round lasting for 5 days."
+The result of the study showed that the system accuracy was 93.33%.

@@ -1,0 +1,4 @@
+The Irregular and unstable Electrical Power Problems solving of Power Station with Artificial Neural Network Technique aims make the voltage value to stable and to create the mathematics model.
+From the comparison result found that the obtainable electrical value of the artificial neural network method with the initial electrical value.
+"The standard deviation has decreased from 2.4503 to 0.7559 , representing 69.15% and the variance has decreased from 6.0041 to 0.5714 , representing 90.48%."
+"Therefore, the artificial neural network method has increased voltage stability."

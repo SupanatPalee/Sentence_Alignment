@@ -1,0 +1,6 @@
+This research aimed to study the tolerance effect of the natural frequencies of the HDD actuator arm to reduce the working time of the CNC machine in HDD manufacturing.
+"In the study, the HDD actuator arm was simulated with a three-dimensional model in the finite element software."
+The HDD actuator arm dimensions were varied within the tolerance criteria of the HDD manufacturer.
+The natural frequencies of the HDD actuator arm were evaluated by using the finite element software.
+"The results demonstrated that the tolerance of Heat sink thickness, Hub diameter, Swage pad diameter, and Arm slot 1 diameter had a natural frequency variation less than 50 Hz."
+"Therefore, the working time for those positions production by CNC machine to obtain a high precision can be reduced due to the tolerance of that positions are not significant in the natural frequencies of the HDD actuator."

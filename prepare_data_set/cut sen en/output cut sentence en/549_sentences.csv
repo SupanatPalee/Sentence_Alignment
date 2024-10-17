@@ -1,0 +1,5 @@
+"This research demonstrates the most appropriate optimization model, which is minimized the total distance of milk-run routes and transport cost between a number of suppliers and an automotive company case study."
+"There are two interested methods implementing in this case; Saving Heuristics Algorithm, and Traveling Salesman Problem (TSP)."
+"As a result, it is revealed that the summary of transportation distances after using the concept of Traveling Salesman Problem is more reduced than implementing with Saving Algorithm meanwhile the total capacity in each container still be the same."
+"Therefore, a total loading weight is not only one factor to subsidize the transportation cost, but it is also considered transportation distance to be another factor."
+"Then, the concept of Traveling Salesman Problem is a useful method for solving a vehicle routing problem in the company case study."

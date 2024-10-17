@@ -1,0 +1,7 @@
+"This study aims to construct the model simulating the traffic situation at Thakup Intersection, Muang District, Surat Thani and to propose the optimal traffic light timing formation to improve the traffic reducing the average waiting time and average number of vehicles in queues."
+The simulation with Arena software is applied.
+The traffic situation data is surveyed through monitoring at Thakup intersection.
+The data in rush hours with massive traffic is collected and analyzed.
+We simulate 4 traffic light timing scenarios by adjusting the green light and red light timing at any fork.
+The results show that the average waiting time and average number of vehicles in queues decrease when the traffic light cycle time decrease.
+The average waiting time is 3.33 minutes in current situation and is decreased to 3.14 minutes in the fourth simulation model which is 5.71% reduced.

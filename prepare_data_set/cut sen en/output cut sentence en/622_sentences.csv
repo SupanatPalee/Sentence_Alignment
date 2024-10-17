@@ -1,0 +1,12 @@
+This research aimed to reduce the proportion of defect from plastic injection molding process for new part production by using Design of Experimental and applying Quality Control Tools.
+"According to historical data, the proportion of defect was 8,947 ppm, exceeding the company target of 3,000 ppm."
+The research started with finding problems in the production process using QC Tools.
+"It was found that the silver streak was the highest number of defects, 95.70 % of all defects."
+"And the problem analysis, it was found that the main cause of the problem was the inappropriate parameter settings consisting of 8 factors in the plastic injection molding process."
+The design of experimental technique by 28-3 Fractional Factorial was then applied in screening experiment to find out the main factors affecting the silver streaks.
+"It was found that there were 4 factors including injection pressure, clamping force, nozzle temperature, and injection speed."
+The Response Surface Methodology technique by Central Composite Design was then applied for analyzing the response optimization.
+"It was found that suitable parameters included the injection pressure of 97 Mpa, the clamping force of 240 tons, the nozzle temperature of 237 °C, and the injection speed at 30 mm/sec."
+"The research result showed that the applied optimal parameters could reduce the silver streak defects of the part number 1220402 from 33,748 ppm to 6,778 ppm."
+"Moreover, the overall average defect proportions of new part production decreased from 8,947 ppm to 2,320 ppm that were 74.06% of all defects."
+"This achieved the company target which aimed to have less than 3,000 ppm defects."

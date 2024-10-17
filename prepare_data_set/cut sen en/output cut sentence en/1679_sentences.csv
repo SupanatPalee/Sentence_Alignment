@@ -1,0 +1,9 @@
+"In this study, the feed forward multilayer neural network model for predicting student admissions was examined and developed."
+Crucial influencing factors of under-the increase and decrease of the number of students in the Faculty of Agriculture and Technology Rajamangala University of Technology Isan Surin Campus.
+This research used the historical data of students and were analyzed the characteristics of each student for training the model.
+An algorithm for supervised learning and the WEKA program were used in the research.
+"There were two stages to the research: an analyzing the appropriate factors affecting students' attendance in step one, and then bringing the information from the first step factors into the model to create learning for the model in step two."
+"In this study, selecting of proper model in the learning of the data is established by structuring the appropriate structure and offering the best validity."
+"This research is divided data in two parts: the first part of this study data 70% was conducted by building learning for the model, the second part consisted of data 30% was analyzed by testing for the model."
+"Moreover, the feed forward multilayer neural network's structural parameters were 8-19-2 and its learning cycles were 500."
+"The result found that the testing on 387 participants showed a mean absolute error (MAE), the root mean square error (RMSE), and the accuracy value was 0.2179, 0.3696, 82.74%, respectively."

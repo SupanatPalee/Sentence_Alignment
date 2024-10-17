@@ -1,0 +1,7 @@
+"This paper proposes the design, simulation, and implementation of compressor motors in which the study and development of the compressor motor efficiency as the type of Permanent Split Capacitor Motor (PSCM) are emphasized."
+The proposed PSCMs are based on the conventional stator and rotor structures of a manufacturer.
+The design is focused on the decrease of both the stator copper loss and the stator core losses.
+Computer Aided Motor Simulation (CAMS) program is used as a tool to calculate the proposed motors behaviors.
+"To investigate and verify the design, after that, the motors are implemented and experimented."
+The given results of the designed motors are compared with the conventional ones.
+The proposed technique is found to be useful for efficiency improvement of the motor compressor.

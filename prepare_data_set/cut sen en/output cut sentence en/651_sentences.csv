@@ -1,0 +1,5 @@
+This paper presents the stabilization for 3 phase AC-DC converter feeding controlled buck converter.
+Power converters with their controllers normally behave as constant power loads that can affect system stability.
+"Therefore, the Reference-Voltage-Based active compensator (RVC) method will be presented to mitigate the instability due to the constant power load."
+The results will show that the proposed system can become back from unstable to stable operation when the RVC is applied.
+The simulation via the exact topological model of MATLAB is used to validate the theoretical results in which the good agreement between the theory and the simulation is achieved.

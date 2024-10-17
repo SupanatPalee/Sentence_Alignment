@@ -1,0 +1,5 @@
+"Commercial Cane Sugar (CCS) is major concern in the sugar industry, impacting both production quantity and the trading systems of sugarcane farmers."
+The purpose of this article is to examine the factors related to CCS using the Stepwise Regression method.
+"This research comprises two case studies: Case 1 focused on 13 factors related to sugarcane planting, while Case 2 investigates 17 factors associated with both planting and cultivation care."
+"The study then incorporates various factors found to impact CCS levels to construct three forecasting models: Artificial Neural Network, Decision Tree, and Random Forest, together with a K-fold Cross-Validation."
+"The findings reveal that Random Forest is the most effective CCS forecasting model, followed by Decision Tree and Artificial Neural Network."

@@ -1,0 +1,10 @@
+Condominium design is a complicated process.
+"Numerous factors, such as the project's location, land size, price, suitable building shape, and anticipated profits, must be considered, and several building regulations further complicate the design process."
+"Using traditional design methods, such as CAD and Spreadsheets, requires additional resources and leads to the possibility of human error."
+This study presents the use of parametric design in designing condominiums and comparison with traditional methods by considering the proportion of sales area and profit.
+"Parametric design can generate multiple options based on spatial relationships, calculation algorithms, and design parameters."
+"By adjusting the design's initial parameters, discover potential solutions that meet the predefined objectives developed by Dynamo and Revit, characterized by linking variable data to the building's geometry."
+A condominium with eight stories was used as a case study.
+"The results demonstrate that the preliminary design's precision, convenience, speed, and scope can be used to make project investment decisions."
+The conceptual model can also be used as an initial Building Information Modeling (BIM) model to communicate with those involved in the next project development phase.
+"In addition, the proposed parametric model can enhance algorithms to help create solutions automatically as the generate design for future research."

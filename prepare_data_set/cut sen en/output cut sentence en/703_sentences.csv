@@ -1,0 +1,6 @@
+Mixed-Model Parallel U-shaped assembly line balancing problem under many-Objectives is known as NP-hard problems.
+"Hence, to optimize this problem, heuristic approaches need to be developed."
+"This research proposes a decode method and a Multi-Objective Evolutionary Algorithm Based on Decomposition (MOEA/D) for solving the problem by optimizing four objectives simultaneously, i.e."
+"minimize the number of workstations, minimize the number of stations, minimize different workload between workstations, and minimize work unrelatedness."
+The experiment results show that MOEA/D has better performance than BBO in terms of convergence.
+"However, its spread and CPU time indicators are not better than BBO."

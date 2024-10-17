@@ -1,0 +1,10 @@
+This research paper aims to design and build a chick counting machine instead of manual labor that may cause counting errors due to fatigue.
+"The author used a Jetson Nano Developer Kit 4GB board and installed the Ubuntu operating system, Python, Cuda, YOLO, anddisplayed it on a 7-inch LCD."
+The authors conducted experiments on real chicks at belt speeds of 0.2 m/s and 0.5 m/s.
+"By counting when one chick was released onto the conveyor, the increased belt speed had no effect on the count."
+"When 2-3 units are released, the higher the belt speed, the greater the counting error."
+"When 5 chicks are released on the conveyor, the higher the speed, the less accurate the counting."
+"In addition, the chicks move on the belt, which makes the counting result more error prone."
+"In particular, the release of chicks at once and the speed of the belt are increased."
+The chick counting machine is only a prototype if it is actually used on the farm.
+It will have to be further developed using a board with a larger processor and higher performance.

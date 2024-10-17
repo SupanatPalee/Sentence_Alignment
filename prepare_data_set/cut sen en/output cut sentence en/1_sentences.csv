@@ -1,0 +1,10 @@
+This research presents the application of a Programmable logic controller to control the operation of an automatic drinking water filling machine.
+The PLC is used to control the operation of the DC motor and control the stepper motor of the automatic drinking water filling machine.
+"The working principle is as follows: 1) When a water bottle is placed on the conveyor belt, a conveyor belt delivers the bottles to the water-filling point."
+"2) When the water is filled to the right volume, the water bottle will be moved from the water-filling point to the capping point using the stepper motor rotation."
+"3) The process of capping the bottle cap tightening by direct current electric motor and air cylinder with a sensor to order the air cylinder to push down to close the lid, and the DC electric motor rotates to close the lid to the screw, and 4) When the lid is closed, the stepping motor rotates to bring the closed water bottle to the leg conveyor."
+"The operation of the automatic drinking water filling machine was tested using statistical analysis standards with a total of 30 tests consisting of 3 values: finding the average value of the bottled drinking water volume at 597.27 milliliters and the standard deviation is 2.87 and the root mean square error (RMSE) is 1.95, meaning the water filling machine has an error of ± 1.95."
+The test results to find the optimum production cycle time of 12 minutes and the water filling rate found that it could fill an average of 8 bottles of water per minute.
+The energy consumption was found to use a maximum power of 32.1 W with an energy of 0.6 Wh per bottle.
+"The automatic drinking water filling machine that has been created has an Availability% is at 99%, a Performance% is at 100%, a quality rate is at 88.89% and an overall equipment effectiveness is at 88.00%."
+"Compared to industrial machines, automatic drinking water filling machines are generally considered to have good overall performance at a lower cost than the market price."

@@ -1,0 +1,8 @@
+Decomposition is a basic strategy in traditional multi-objective optimization.
+"At present, it has been interested and widely used in multi-objective evolutionary optimization."
+This article proposes an adaptive MOEA/D hybridized with differential evolution (AMOEA/D-DE).
+The concept is based on a multi-objective evolutionary algorithm based on decomposition (MOEA/D) and adaptive differential evolution algorithm (ADE).
+It decomposes a multi-objective problems (MOPs) into a number of scalar optimization subproblems (decomposes a MOPs into several SOPs) and optimizes them simultaneously with adjustment of control parameters and strategies to achieve a diversity of approximated true non-dominated solutions.
+"Each subproblem is optimized by using information from its several neighboring subproblems, which makes AMOEA/D-DE had lower computational complexity and adapt itself to the current search requirements."
+"In experiments, AMOEA/D-DE is compared with a MOEA/D and a multi-objective differential evolution algorithm based on decomposition (MODE/D) in order to solve continuous MOPs."
+The result from experiments show that AMOEA/D-DE outperforms the others in terms of convergence rate but it takes more time consumption when compared to the equivalent number of function evaluations.

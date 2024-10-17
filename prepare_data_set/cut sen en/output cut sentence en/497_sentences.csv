@@ -1,0 +1,12 @@
+Online exams have become widely used to evaluate students’ performance in recent years.
+The ability to efficiently proctor is an important limiting for online exams due to the lack of face to face interaction.
+Prior research in computer vision has shown that online exams are more vulnerable to various cheating behaviors.
+The problem is challenging due to its various behavior activities in examination or by monitoring them.
+There are many algorithms attempt to analyze and detect in human behavior activities.
+But techniques are the limits in various conditions.
+"To overcome this problem, this paper proposes a detection of suspicious human behavior with Rao-blackwellized particle filter."
+The proposed model extracts the keypoint features in an automated way with OpenPose.
+"This paper presents main three steps including (1) data preprocessing, (2) detect behavior with Roa-blackwellized particle filter, and (3) efficiency measurement and evaluation of experimental results."
+The experimental results indicate that our framework offers performance improvements.
+The proposed model can achieve significant improvements for behaviour detection with maximum success rate of 79.63% with data set 2.
+The experimental results indicate that our proposed approach offers significant performance improvements in the detection of suspicious human behaviour.

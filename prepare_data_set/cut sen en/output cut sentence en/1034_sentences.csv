@@ -1,0 +1,6 @@
+This research aims to study the demand forecasting for the biomedical material inventory at Buddhachinaraj Phitsanulok Hospital.
+The most biomedical material requirements contained in the first 100 lists were collected from January to September 2020 in order to forecast the requirements of biomedical materials in October to December 2020.
+"Four forecasting techniques including Last Period Demand (LPD), Arithmetic Average (AA), Moving Average (MA), and Exponential Smoothing were applied and compared in this research to find the optimal one."
+SWOT analysis and Fish-bone diagram were also implemented in this case to investigate the important problems in the biomedical material inventory.
+The experimental results indicate that the biomedical materials demand obtained from the optimal forecasting technique were continuously increased in October to December 2020.
+The results of demand forecasting are the one of alternative ways to specify the appropriate biomedical material procurements and stocks precisely.

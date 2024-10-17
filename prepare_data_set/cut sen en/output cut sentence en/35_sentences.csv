@@ -1,0 +1,7 @@
+This paper presents a method to analyze videos for Abandoned Object Detection (AOD) and ownership identification.
+"Abandoned luggage is a risky event that can actually occur in many public areas such as train stations, airports, or other important places in the building."
+Deep learning is used for person and luggage detection.
+"The dataset is trained for both people and luggage images including backpacks, handbags and suitcases for more than 12,000 images."
+"In this work, we use the YOLOv3 model that can be processed in real time with 98% accuracy."
+"For ownership identification and abandoned detection, we propose a method that evaluates the spatial relationships and trajectories of each person and luggage."
+Ownership identification yields 65.1% accuracy while abandoned detection provides 66.6% accuracy.

@@ -1,0 +1,10 @@
+This paper presents a large displacement analysis of a toroidal dome structure having variable thickness under external pressure using differential geometry.
+Membrane and flexural strain energies are defined in terms of metric tensor and curvature components.
+"The energy functional of the toroidal dome structure under external pressure is derived from the principle of virtual work, and it is expressed in the appropriate forms."
+Numerical results can be obtained by finite element method and iterative procedure.
+"In this study, finite element model is simulated using one-dimensional beam elements via a fifth-order polynomial shape function, and it is divided along the meridian line."
+The numerical results indicate that the displacement responses of the toroidal dome structure increase for larger external pressure.
+The surface of the toroidal dome structure increases for a large value of the cross-sectional bend radii ratio.
+Then the displacement responses increase under a large value of the cross-sectional bend radii ratio.
+"In addition, the stiffness of the toroidal dome structure decreases if the cross-sectional radius-to-wall thickness ratios increase."
+"Therefore, the displacement responses increase under a large value of the cross-sectional radius to wall thickness ratio."

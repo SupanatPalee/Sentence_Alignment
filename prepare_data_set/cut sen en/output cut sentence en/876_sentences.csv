@@ -1,0 +1,8 @@
+"This research aims to compare the efficiency of plywood cutting layout creation using heuristic methods, between non-rotating and 90-degree rotating piece approaches for DIY furniture production."
+The CutLogic 2D program was utilized to plan and create guillotine cutting layouts.
+"The study employed 11 DIY furniture designs, each consisting of 1-10 sets, with pieces of various rectangular and square shapes."
+"Plywood sheets measuring 1,219x2,438x15 millimeters were used to minimize material waste."
+"The results showed that the 90-degree rotating piece heuristic method yielded an average total yield percentage of 83.28%, while the non-rotating method averaged 82.75%."
+This demonstrates that the rotating piece method can increase the total yield by an average of 0.53%.
+"Additionally, it helped reduce wood dust by an average of 0.104 kilograms."
+These findings indicate simultaneous improvements in material utilization efficiency and reduction of environmental impact.

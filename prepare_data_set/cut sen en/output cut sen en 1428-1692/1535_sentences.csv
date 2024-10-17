@@ -1,0 +1,11 @@
+"The research article presents the application of the Tinkercad program, specifically its Circuits sub-program, for examining the operational characteristics of RC circuits."
+"This work focuses on the circuit's transient response, utilizing a time reference within the program for timekeeping in the experiments."
+The experiment outlined in the article is divided into three parts.
+The first part of the experiment aimed to measure the voltage across the capacitor in relation to time and the used capacitance.
+This part confirms the property of changing the exponential function of the voltage across the capacitor.
+The second part of the experiment focused on measuring the half-life of the circuit in comparison to the supply voltage and the used capacitance.
+The results of this experiment confirm that the initial voltage value of the capacitor does not affect the circuit's half-life time.
+"For the third part of the experiment, we measured the circuit's half-life time to analyze its electrical capacity by varying the resistance in the circuit."
+"From the electrical capacity measurement experiment results, we found that the maximum error was equal to 1%."
+Guidelines for using the research include experimental models and circuit-building techniques for teaching topics related to RC circuits.
+It can also be modified to create a capacitance measurement system for capacitance sensors.

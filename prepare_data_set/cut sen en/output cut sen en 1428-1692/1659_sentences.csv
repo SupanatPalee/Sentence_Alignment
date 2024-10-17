@@ -1,0 +1,8 @@
+This research article deals with design and development of a simple harmonic motion experimental set with Arduino.
+"The objectives are: 1) study the value of the spring-constant, the relationship between mass and spring-constant and the period of motion."
+2) develop teaching experimental set for simple harmonic motion of spring-masses using Arduino.
+"The experiment was done by hanging a spring-loaded mass of 100 200 250 and 300 g. respectively, to find the spring constant using Arduino."
+It was found that the period from the measurement using Arduino was 4.29 2.14 1.50 and 1.25 seconds respectively.
+"The spring-constant is 0.45 newton/meter and the spring constant from Hooke's law by hanging a spring-loaded mass of 150, 150, 200, 250 and 300 g. was found that the length of the spring was 1.56 4.00 6.26 8.53 and 10.83 cm."
+respectively and the spring constant was equal to 0.46 Newton / meter.
+From the experiment to find the constant value of the spring using Arduino and Hooke's law found that error not exceeding 2%.

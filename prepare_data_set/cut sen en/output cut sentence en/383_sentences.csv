@@ -1,0 +1,10 @@
+The problem of procuring steel bars in construction projects lies in accurately estimating the quantity of steel bars needed for the project.
+The quantity estimation varies based on the structural details of the project.
+"To ensure that the ordered steel bars are sufficient for the project requirements, it is necessary to plan the steel cutting process by preparing a cutting list."
+"Currently, the method used to create the rebar-cutting list involves extracting quantities from two-dimensional drawings and relying on the experience of the job controller to prepare the list."
+This research aims to develop a workflow by using a specific model of the concrete structure components to generate the cutting list automatically.
+"The data of each component of the reinforced concrete structure will be exported to analyze the required quantity of steel bars, referencing the design data of the reinforced concrete structure, steel reinforcement standards, and cover thickness."
+"A model will then be created specifically for the reinforced concrete work, eliminating the need to modify the model based on the detailed jointing information from the cutting list."
+In the cast study is needed to be edited the structural column model which is overlapping steel 41.60 percent of all structural column steel .
+"Additionally, the research proposes a heuristic approach for the cutting list, which is a humanistic method that analyzes each cutting individually, enabling the analysis of jointing in every cut."
+"This approach the bar cut list report in this study case differs from the current popular method that disregards the jointing of steel bars, resulting in a 30% reduction in steel scrap compared to the pattern-based cutting method commonly used."

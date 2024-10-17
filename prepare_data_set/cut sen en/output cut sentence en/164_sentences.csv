@@ -1,0 +1,9 @@
+This research aimed to study the suitability of agricultural product transportation in Tak Province by distribution centers (DCs).
+"For the research implementation, the researchers studied the data of agricultural products in Tak Province."
+"Then, we developed a mathematical model to solve the agricultural product transportation problem for the minimum transportation expenses."
+"This was considered together with truck sizes by using 3 transportation models, i.e, Model 1: The regular direct transportation from origins to destinations, Model 2: Transportation by DCs, and Model 3: Transportation by DCs and direct transportation."
+"The researcher collected the data of agricultural products from Tak Provincial Agricultural extension Office for 4 years between 2017 – 2020, and designed the samples of 2 datasets for testing the results of changeable answers when product volumes and consumer demands changed."
+"Next, the mathematical models were revised together with the data of the datasets by AMPL."
+GUROBI was used as a problem-solving tool and a valid method.
+"After that, the results were brought for expense analysis."
+It was found that Model 3: Transportation by DCs and direct transportation generated minimum transportation cost.

@@ -1,0 +1,5 @@
+This research aims to study the optimal drying conditions of hemp plants using a vacuum dryer's computational fluid dynamics (CFD).
+"Material and method by Latin Hypercube Sampling (LHS) methods were used to calculate 20 pairs of pressure and temperature in the range of 10-30 kPa, 40-60 °C, and then calculate the flow of the air in the drying chamber to determine the temperature distribution in each layer for the hemp tray."
+"The properties of the hemp plants used for the calculation were as follows: the density of 611 kg/m3, and the thermal conductivity of 140.8 W/m-K."
+The result there are pressure and temperature which have uniform temperature distribution for hemp were modeled with a pressure of 12 kPa and a temperature of 57.4 °C.
+"The conclusion of research by using CFD also calculated the operation of the vacuum dryer system, where the fan rotation rate was 158 rpm and the air suction speed of the vacuum pump was 1.61 m/s."

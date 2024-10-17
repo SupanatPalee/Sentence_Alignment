@@ -1,0 +1,5 @@
+A numerical work has been conducted to examine turbulent flow and heat transfer characteristics in a three-dimensional channel with modified V-baffles placed on the lower wall.
+The heat flux condition is applied only to the lower wall while the upper wall is insulated.
+"The computations are based on the finite volume method with the Coupled algorithm for the airflow rate in terms of Reynolds numbers ranging from 4,000 to 20,000."
+The computation reveals that pairs of counter-rotating vortices created by the modified V-baffle induce impingement/attachment flows on the walls leading to greater increase in heat transfer over the heated wall.
+"The maximum value of the thermal enhancement factor, h is found to be 2.25 at BRf=0.04, BRb=0.20 and Re=4000."

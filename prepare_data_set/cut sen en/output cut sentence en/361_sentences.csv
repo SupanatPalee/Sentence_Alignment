@@ -1,0 +1,15 @@
+Thailand has been undergoing a transition into a completely developed elderly society.
+"The sign is becoming more apparent in the last few years, when a ratio between the number of children and mature adults has been dramatically decreasing."
+"In additional to prevailing measures the government has to take, healthcare service for elderly people has to be readily prepared."
+"Among diseases from which the elderly people are suffered are high blood pressure, high cholesterol and dementia."
+Age related dementia are gradually developed.
+Alzheimer's disease is however another more serious type of dementia that often drastically affect not only the patient but also their caretaker.
+Early diagnosis of the symptom could well enable therapeutic measures that improve their quality of life.
+"This can be done in several ways, e.g., by medical survey and medical imaging."
+This paper therefore presents a robust PET image classification methods for diagnosing Alzheimer's disease in a samples drawn from Thai population.
+"The proposed process adopted K-means clustering and Gabor Wavelet for brain segmentation and image feature extraction, respectively."
+"To reduce the dimensions of data involved, only mean and standard deviation of pixels were extracted as features."
+The disease was finally classified by using a supervised machine learning in turn.
+"Specifically, four classification methods were considered, i.e., Eigenface, Support Vector Machine, Convolutional Neural Network and proposed method."
+The experimental results indicated the accuracy of proposed method was up to 87%.
+It was appropriate to identify Alzheimer's patients from normal controls and the proposed SVM outperformed the rest.

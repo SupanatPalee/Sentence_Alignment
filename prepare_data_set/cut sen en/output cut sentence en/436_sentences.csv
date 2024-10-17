@@ -1,0 +1,5 @@
+This research describes the development of an automatic control system for charcoal briquettes drying.
+"The developed system consists of temperature controller, timer, ignition unit, Liquefied Petroleum Gas, blower and speed control unit and model of drying chamber with X120 cm wide X 120 cm length X 56 cm height."
+One temperature sensor is installed to measure the controlled temperature at centroid of the chamber and another 8 sensors are installed at every upper and lower corners of chamber to study overall temperature inside the chamber.
+"The experimental results of temperature control inside the drying chamber at 50, 60 and 70 °C with hot air flow rate of 300, 400 and 500 m3/h without wet charcoal briquettes show that the developed system can control the desired temperature with steady state error less than ±2 °C."
+The experimental results of drying 90 charcoal briquettes with weight of 13 kg at desired temperature of 60 °C illustrate that the system can reduce humidity by evaporate water from charcoal briquettes of 2.86 kg or 21.98% by weight with the temperature difference between upper zone and lower zone is of 0.03 °C.

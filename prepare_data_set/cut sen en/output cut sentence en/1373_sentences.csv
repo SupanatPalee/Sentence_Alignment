@@ -1,0 +1,5 @@
+This paper presents an adaptive interference cancellation based on normalized least mean square (NLMS) algorithm for electrocardiogram (ECG) measurement.
+"In general, properties of ECG signal and interference cancellation are described while ECG measuring."
+Basic concept of adaptive filtering based on LMS algorithm is explained shortly how to design for adaptive linear filtering for ECG interference cancellation.
+A set of dataset of ECG signal is used for simulation.
+Experimental results show that the proposed adaptive filtering based on NLMS algorithm can suppress the interference from ECG measurement in term of mean square deviation.

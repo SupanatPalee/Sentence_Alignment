@@ -1,0 +1,7 @@
+"This paper presents how to apply the image processing technology with the deep learning methods using YOLO V5, which is an object detection algorithm with high accuracy and speed applied for the bottled water production process."
+"For sorting the specific label, KUKA robot is used to sort and pack the 3x3 box packaging."
+The result of the average process time is of 6.288 minutes at the conveyor speed of 3.54 cm per second.
+Deep convolutional neural network based on the YOLOv5 algorithm is used for the image recognition model.
+"A set of training data is used 1,333 images for 3 types of classification as perfect, damaged and not have labels."
+"After training for 500 rounds, the model has an average loss of 0.0056 and the precision of 0.9723."
+The experimental results have found that  the  success rate of classification at 100% from 60 bottles.

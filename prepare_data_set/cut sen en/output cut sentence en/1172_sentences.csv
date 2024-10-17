@@ -1,0 +1,7 @@
+This paper investigates the effect of flow arrangement on the electrical output of a newly designed energy harvesting device.
+The device consists of a stationary upstream cylinder and a downstream tip body.
+Electric power is produced when an upstream cylinder cause a flow-induced vibration to its downstream structure that would on turn collide with an object resulting in a continuous vibration.
+"A piezoelectric transducer patch, installed at the collided object, can thus convert vibration energy to electrical energy."
+"In this study, an experiment was carried out in a low turbulence intensity wind turbine at a flow range of 10,240 to 17,613 Reynolds number by varying the ratio between the distance between upstream cylinder to downstream tip body and the diameter of the upstream cylinder (L/D)."
+"Based on the results obtained, it was found that vibration had an instantaneous influence on the rate increase of the collided object’s vibrating amplitude at an (L/D) ratio of 2.5."
+"Furthermore, the results also showed that the root mean square electrical output power was increasing as Reynolds number was increased and a maximum electrical power output of 1,427.75 microwatts was obtained at L/D ratio of 2.5."

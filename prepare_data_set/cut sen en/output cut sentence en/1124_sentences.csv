@@ -1,0 +1,10 @@
+Threshing the rice from using combine harvesters has direct impacts variously on the rice yield.
+The problem caused from the machine itself does not a real matter since the users can manage the machine independently.
+"However, the great unmanageable problem to be primarily considered is the condition of rice in the field such as its growing intensity."
+"Due to the partially inconsistent number of the rice growing in a field, a steady speed of reel index of the combine harvesters will damage the grain in a particular part of the rice field."
+"In the study, the researcher introduces rice grain intensity estimating method by using rice grain screening algorithm system by capturing a digital picture through a camera attached at the top of the combine harvesters in order to further develop the rice combine harvester header with a real-time reel index speed adjusting system."
+"Grains, leaves, stalks and soil surface condition are captured and analyzed concerning the rice moisture content and the altitude at which the picture is captured in real time."
+The developed rice grain screening algorithm system uses model random forest classification to estimate the rice grain quantity by indicating different color of each part of the rice.
+"During the test, the analyzed result from using rice grain screening algorithm system precisely classified each part of the rice between 59.43 to 86.94 percent of the entire photo pixels."
+"After the process of analyzing, the analyzed intensity of rice production ranges between 3.08 to 6.92 percent."
+Then the readers can use the result in this study for citation to develop the rice combine harvester header with a real-time reel index speed adjusting system.

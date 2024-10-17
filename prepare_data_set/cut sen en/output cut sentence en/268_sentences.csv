@@ -1,0 +1,9 @@
+"Nowadays, an internal environment of mobile calibration laboratory should be controlled which the internal environment impact factors are temperature, humidity and thermal for the highest efficiency of mobile calibration laboratory following the standard."
+"Therefore, the temperature distribution monitoring of mobile calibration laboratory can improve the efficiency of internal system."
+"So that, designing of the mobile calibration laboratory must immediately control thermal to maintain equilibrium."
+This paper presents the second-order partial differential equation and the mathematical model of mobile calibration laboratories.
+The problem was solved by 3-D finite element method with backward time evaluation which developed and applied in MATLAB programming.
+"The sample of insulator for simulation consist of polyurethane, polystyrene and glass wool."
+The simulation result shows the ability of insulation to thermal controlling of mobile calibration laboratories which polyurethane into thermal equilibrium of mobile calibration laboratory within 20 minutes at 25 °C.
+"A polystyrene and glass wool into thermal equilibrium within 25 minutes and 30 minutes at 25 °C, respectively."
+"Due to thermal diffusivity of polyurethane is lowest so that, the external thermal can be less transfer into internal laboratory than another insulator"

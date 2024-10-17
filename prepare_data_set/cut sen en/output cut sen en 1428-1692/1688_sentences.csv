@@ -1,0 +1,7 @@
+This research presents the development model for image classification of poisonous squid and non-venomous squid based on supervised learning  deep learning technique.
+The image dataset to train model contains 200 images.
+There are 100 images per class and set up epoch equal to 10.
+"We experimentally compare the performance of two algorithms, which are Artificial Neural Network and Convolutional Neural Network."
+The experiment results show that the classification performance of Convolutional Neural Network is better than Artificial Neural Network in all measures.
+"The model is giving 92.50% Accuracy, 100.00% Precision, 85.00% Recall, and 91.89% F1-score."
+The obtained model is used to develop the information system for classification of poisonous squid and non-venomous squid in order that users can take advantage to reduce the dangers of consumption that may occur in the future.

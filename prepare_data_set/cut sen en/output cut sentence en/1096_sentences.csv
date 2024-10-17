@@ -1,0 +1,9 @@
+The purposes of this study were to represent the process of making the forecasting model and the appropriate setting of inventory management policy.
+The 3-years retrospective selling data from 2018 to 2020 were analyzed by artificial intelligence (AI) in Artificial Neural Networks (ANN) to predict the need of customer and then set up the Order Up to Level Model ( OUL) to make proper inventory level management methods for increasing the efficiency while decreasing the cost of product and inventory cost.
+We found that the test using ANN to predict the product demands resulted in high accurate as Root  Mean Squared Error (RMSE) criteria.
+"As the results, it indicated that, for example, CC 620 ml provided RMSE of 0.1137 comparing to that of  liquor BL 700 ml."
+which is 12.3654.
+"The less of RMSE value, the more precision of forecasting result using this method."
+"After obtained the results, we used these results as an input the inventory policy setting."
+"Consequently, the percentage of inventory storage  was decreased by 40.84% compared to the existing method."
+"In the cost saving aspect, the storage cost was approximately reduced by 280,278 baht monthly without confronting the inventory shortage problem that causes the opportunity loss."

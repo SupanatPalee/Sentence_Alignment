@@ -1,0 +1,10 @@
+Concrete pavement can carry high traffic volume and provides long service life.
+"Concrete pavement is costly to construct, therefore designing must be precise and accurate."
+"However, the concrete pavement design method has been developed for a long time."
+"Therefore, the design charts were employed in the calculations."
+"For the reason, the approximated value from the design chart was used in the calculation, which may have errors."
+The purpose of this research is to develop a program for designing concrete pavement using the PYTHON language.
+The user interfaces were developed to accommodate the user with a graphic interface.
+"Moreover, the program solves the equation for the result, instead of design chart reading, which provides more accurate calculation results."
+The result of comparing the result of the program against the result of the design chart indicated that the mean percentage absolute error (MAPE) of allowable repeat load of fatigue analysis is 3.62 while the allowable repeat load of erosion analysis gathers the value 1.24.
+The developed program provides more accurate calculation results than the approximated value from the design chart.

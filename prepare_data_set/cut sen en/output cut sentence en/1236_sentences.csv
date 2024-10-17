@@ -1,0 +1,9 @@
+The objective of this research is to find the suitable model for estimation of the repair cost for an open type freezer in a convenience store.
+The problem encountered is an open type freezer has been repaired and reused a lot with relatively high repair cost and some devices may not be suitable to be repaired and recycled.
+The primary factor affecting the price of a freezer repair is the price of      a freezer lifetime and number of times that had been repaired.
+Multiple linear regression analysis was used to find a repair evaluation model.
+"The study indicated that the suitable model for estimation of the repair cost for an open type freezer consists of           2 independent variables, namely the number of times that has been repaired and lifetime."
+"The approximate regression equation to estimation of the repair cost for an open type freezer = 1,425 * the number of times that the repair was done +1,285.2 * lifetime."
+The adjusted coefficient of determination (R2Adjusted) is 0.83.
+This means that 83% of the variations in the repair cost of an open type freezer are explained by number of times that has been repaired and lifetime.
+The evaluation model of the repair cost for an open type freezer can be helped the company to make easier decisions.

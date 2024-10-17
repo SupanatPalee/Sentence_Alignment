@@ -1,0 +1,4 @@
+"This paper present analysis 24 month of time series data, the study aims to finding data pattern when time series data lest than 36 period."
+There is one thing possible that knowing the nature of data and use Moving Average technic to observe the season length.
+Then the study refine forecasting model to forecast the next year of inventory requirement.
+After that find the order quantity and order period.

@@ -1,0 +1,6 @@
+This paper presents a maximum power point tracking (MPPT) of single-phase grid connected photovoltaic (PV) system using non-iterative method.
+The proposed method considers the change in PV voltage.
+The reference maximum power of PV panel was calculated by the open-circuit voltage (Voc).
+"Therefore, the power response using the proposed method is faster than that from the iterative MPPT methods."
+The effectiveness of the proposed non-iterative method was confirmed by computer simulation and hardware in the loop simulation using a TMS320F28335 microcontroller board with MATLAB/Simulink.
+The results show that the proposed MPPT method can reach the maximum power point in a shorter time compared with the traditional iterative methods.

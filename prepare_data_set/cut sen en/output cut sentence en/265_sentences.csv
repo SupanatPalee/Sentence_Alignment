@@ -1,0 +1,8 @@
+The efficient distribution center operation is to implement a logistics strategy called cross docking to immediately loaded products from inbound trucks to outbound trucks.
+The operation involves truck scheduling which includes sequencing and assignment inbound trucks and outbound trucks.
+The important truck scheduling problem is the assignment of inbound trucks and outbound trucks to the inbound doors and outbound doors and the sequence of all inbound trucks and outbound trucks.
+This paper proposes a mathematical model of mixed integer programming for inbound and outbound trucks scheduling in a multi-door cross docking system problem.
+The objective of a mathematical model is to minimize total completion time or makespan.
+The completion time (makespan) is considered from the arrival time of the first inbound truck enter to inbound doors for loaded products to the time of last outbound truck returns to the distribution center after completely deliver products to customers which is necessary that the outbound trucks exit the outbound doors as quickly as possible to return to the distribution center within the due date.
+This paper has developed a mathematical model with an exact method by using LINGO 14.0 to process the answers.
+The experimental results show that LINGO 14.0 can find the optimal solutions in small size problems and LINGO 14.0 could not find optimal solutions in large-scale problems within acceptable computing time.

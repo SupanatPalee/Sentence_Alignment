@@ -1,0 +1,4 @@
+This research paper is to present how to design a square microstrip antenna using Genetic Algorithms at 2.45 GHz by MATLAB and CST programming.
+"A square antenna patch is designed with a symmetrical structure, corresponding to the short-circuit technique of beamforming (rather than a rectangular patch using a conventional design)."
+"Generally, a conventional design will result in a rectangular rather than a square shape."
+Simulation results show that the methods presented in this paper can be used to really design the antenna with a return loss close to below -10 dB at the operating frequency.

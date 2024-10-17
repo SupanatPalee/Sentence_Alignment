@@ -1,0 +1,7 @@
+"Traffic jam, at a signalized intersection, is a common problem in urban areas that emergency vehicles such as ambulances are usually stuck in a queue."
+"Thus, emergency medical transportation may be impeded leading to unnecessary damage or death."
+This research aims to develop an intelligent traffic signal system that prioritizes emergency vehicles.
+"The main focus is developing a method for measuring the time-varying queue length at a signalized intersection, which is an integral part of the system's operation."
+"In the past, most of research analyzed the queue lengths by using traffic detectors, but they have rarely been installed and used in Thailand In this paper, we present a new approach to estimate the queue length that does not need a traffic detector; instead, it utilized color-coded traffic data from Google Maps to predict the queue length based on three different methods: which are Multiple Linear Regression, Random Forest, and The Mean method."
+"The study found that the length of the colored bars displayed on Google Maps can, to some extent, provide a good approximation of the actual queue length trend, and are more correlated with two methods especially in rush hours with heavy traffic."
+"The Random Forest, among three methods, yields the best performance in predicting the queue length when compared to the other two methods."

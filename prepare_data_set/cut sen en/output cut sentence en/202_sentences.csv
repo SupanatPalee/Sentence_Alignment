@@ -1,0 +1,6 @@
+This article presents a meshless method called Differential Quadrature Method for solving the Poisson problems.
+"Solving the Poisson problem is one of the important steps for calculating flow dynamics, electric field, and heat transfer."
+This method estimates the derivatives directly so there is no need to deal with integration process.
+The selected Poisson’s problems were analyzed in a unit square domain.
+The numerical solutions were compared with the analytical solutions in five cases.
+The overall error in all cases were less than one percent.

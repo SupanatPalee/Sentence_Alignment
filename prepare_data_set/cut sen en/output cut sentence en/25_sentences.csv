@@ -1,0 +1,11 @@
+"Navigation systems and online maps, Mobile application, and other platforms, are becoming increasingly important due to increasing users and providers."
+Place names or geonames (geographic names) are essential sources of information that users tend to use as keywords in their searches.
+Including storing these data in different categories.
+"This research aims to create a model capable of extracting geonames and automatically categorizing them from the social media source of Twitter, one of the popular platforms in Thailand."
+"It is a fast and always up-to-date information source, providing the opportunity to discover new geographic locations and helpful in gathering geospatial information without needing a field survey."
+Named-entity recognition standard tool cannot be used directly because of the classification of name entities that are not categorized by geographic names.
+"As for the model, the conditional random field algorithm is applied to linguistic features such as place prepositions (near, far, next, next to, etc.)"
+"and prefixes, for instance, school, market, temples, villages, etc."
+"This study, the Corpus was created from 28,082 Twitter messages, representing 80 percent of the 22,445 training set and 20 percent of the test set of 5,617 messages."
+"According to the algorithm used to word tokenize, the experiment was designed into two main groups."
+"The study result of the model with the highest overall accuracy (F1) was 0.946, which provided sufficient overall accuracy for relevant applications both on the web browser."

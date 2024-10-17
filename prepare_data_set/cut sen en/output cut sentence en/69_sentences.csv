@@ -1,0 +1,6 @@
+This article presents to build remote water supply control simulation system via SMS suitable for water supply work remotely to help support the development of a modern water supply system to be effective and to speed up opening and closing of water supply system each time.
+"The system adopted Arduino technology, Module Sim 900 and PLC to apply in the off-open water supply remote."
+"In order to control the work of the water supply system to be effective, it is designed as a replica by design."
+"There are 2 main sections: the first part is the SMS receiver in the main water supply, and the second part is sending SMS in the reservoir."
+"When receiving an SMS message ""L"" the main water supply will open water to the reservoir and when receiving an SMS message ""H"" water supply system will stop open water immediately."
+"From the design, it takes time to send ""L"" about 7.55 seconds when the pond has low water level and sending ""H"" about 7.35 seconds when the reservoir water level is high and the main plumbing will take about 3.79 seconds to open the system and takes about 3.68 seconds off when receiving an SMS message."

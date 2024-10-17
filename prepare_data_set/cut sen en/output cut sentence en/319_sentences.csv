@@ -1,0 +1,8 @@
+This research presents the design and analyze of turbulence flow fields in agitation tank for comparison result by pitch blade turbine and curved blade turbine model.
+In this research used the external flow for flow field analyzed in agitation tank.
+The result show that the resultant turbulence was numerically predicted using computational fluid dynamics technique.
+Turbulence model were developed in commercial software of fluid dynamic simulation for solve using the NAVIER-Stokes and K-epsilon turbulent model.
+The rotation region for in this research using Local region (Sliding) approach was used to simulate the agitation blade turbine action in the vertical plane of the agitation tank.
+Velocity profile generated from the numerical simulations were used to predict and compare the performance of the two designs.
+To validate the CFD model.
+The simulation results revealed that the CFD Simulation of curved blade turbine model can be the shortest mixing time when compare with pitch blade turbine.

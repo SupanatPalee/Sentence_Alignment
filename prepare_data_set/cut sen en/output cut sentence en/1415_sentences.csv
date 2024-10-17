@@ -1,0 +1,7 @@
+The paper presents a prototype of automatic plant watering system via Smartphone using NETPIE.
+User can check the operation through the flow rate display.
+The use of soil moisture sensor with two copper rod sensors is applied to measure the electrical conductivity of the soil compared with the actual soil moisture content obtained from the soil drying.
+The analysis of electrical conductivity for soil moisture percentage can assist in improving by linear equation and the experimental results show the soil moisture percentage.
+The smallest error percentage was 2.35 and largest error percentage was 56.89 of 3 soil samples at 200 meters of different positions in the rubber plantations in Loei Province.
+Then microcontroller (ESP32) is used to process data by following program conditions to operate the water pump for watering plants and used to connect to the internet to display the results.
+"As for the display, the result will be displayed via a smartphone that can select both the automatic and manual operation modes according to the experimental results."

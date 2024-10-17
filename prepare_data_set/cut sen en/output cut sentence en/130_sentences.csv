@@ -1,0 +1,16 @@
+"The most common problem in the assembly of the read/write heads in hard disk drives is the damage of the piezoelectric actuator, which is rigid but brittle and prone to fracture."
+The objective of this research is to predict the behavior under impact conditions of the head stack assembly (HSA) model with the piezoelectric actuator installed.
+The authors found that the piezoelectric actuator is damaged during installation to the support device.
+"The finite element model of the read/write head is made using the properties of stainless steel and piezoelectric (PZT) materials, and the force on the HSA is converted to impact velocities in the range of 8.4 - 9.2 m/s."
+The model is then analyzed using explicit dynamics in the condition that the HSA collides with a rigid support.
+"The HSA can move freely in vertical direction (Z axis) but cannot move in the plane (X, Y axes)."
+"After the analysis, the deformation and Von Mises stress results are investigated."
+The FEA results show reasonable deflection behavior of the read/write head and show that the maximum Von Mises stress in the piezoelectric actuator is due to impact.
+"The maximum stress occurs before the read/write head reaches its maximum deflection, suggesting that explicit dynamics analysis is preferred to static analysis."
+"The impact velocity is a factor that influences the stress results, as can be observed from the maximum Von Mises stress in the piezoelectric actuator, which ranges from 135.74 to 154.61 MPa."
+The stress values increase with higher impact velocities.
+"However, the analysis predicts that the piezoelectric actuator is damaged at all impact velocities, which does not align with the actual test results."
+"Additionally, the predicted deformation of the piezoelectric actuator is much greater than the deformation observed in actual tests."
+The authors believe that these analysis results can be improved by using more accurate properties and failure model parameters of the piezoelectric material in the construction of the finite element model.
+The material information can be obtained from appropriate mechanical tests.
+The results from this study can be used as a guideline for improving the assembly process to reduce the number of piezoelectric actuator damage.

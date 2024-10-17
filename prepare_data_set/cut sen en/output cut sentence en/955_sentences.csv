@@ -1,0 +1,5 @@
+This paper presents the identification of brushless DC motors using the meta-heuristic method.
+The objectives are 1) to find the most suitable meta-heuristic method for their identification and 2) to test the identification performance of brushless DC electric motors.
+The test results found that: 1) the three types of meta-heuristic methods used included: adaptive taboo search (ATS); particle swarm optimization (PSO); and intensified current search (ICS).
+The ICS could potentially provide the best answer according to standard functions.
+2) The identification performance tests for brushless DC motors found that the ICS method could optimally identify the uniqueness of various parameters and make available the least amount of sum squared error (SSE).

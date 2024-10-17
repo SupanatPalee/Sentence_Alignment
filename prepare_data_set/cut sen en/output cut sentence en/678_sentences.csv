@@ -1,0 +1,8 @@
+This paper describes the characteristics of flying height time independent sub ambient pressure slider head.
+The modified Reynold equation was formulated for air lubrication with the effect of molecular slip.
+"Finite difference method, Newton-Raphson method and multigrid technique was implemented to obtain air pressure distribution and flying height of the slider."
+The simulation results show that the film pressure rapidly increases at the trailing edge region.
+The flying height decreases with increasing air pressure when increasing load.
+The flying height increases when increasing velocity of disk.
+"For increasing of air inlet temperature, the flying height increases."
+The appropriate of slider head groove depth is 2 m.

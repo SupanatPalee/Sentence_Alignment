@@ -1,0 +1,8 @@
+"This research proposes an application of a bisection algorithm for optimization design of prestressed concrete plank girder in order to determine the design parameters based on the Engineering Institute of Thailand standard, E.I.T."
+"1009 – 34, B.E."
+2553 by strength design method for truck HS20 – 44 according to AASHTO LRFD 1992 standards.
+The algorithm was developed and compared with hill climbing algorithm using Microsoft Visual Basic 6.0 and it was tested with 3 frequently-used examples.
+The examples are single-span with the simply supported varied by length of girder.
+The objective function is to convergence the lowest price.
+"The design variable consists of the strength of concrete (fc’), Yield strength of reinforcement steel (fy), Ultimate strength of prestressing strand (fpu), Sizes and quantities of reinforcing steel, Prestressing strand and the cross-section area of plank girder."
+The result from the experiment showed that bisection algorithm had 25.26 % faster processing time than hill climbing algorithm.

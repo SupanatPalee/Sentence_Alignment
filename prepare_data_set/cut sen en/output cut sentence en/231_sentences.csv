@@ -1,0 +1,6 @@
+"The performance of grid-connected rooftop photovoltaic system relies mainly on installation parameters including orientation, tilt angle of PV panel, technologies of photovoltaic modules and power converter configuration."
+"However, due to many technical issues, it is difficult to define all parameters at their optimal conditions in order to maximize system yields."
+This paper aims to investigate the impact of parameters on system yields using the design of experiments following Taguchi approach.
+The energy production for each experiment is assessed by PVsyst 7.2 and then signal-to-noise (S/N) analysis together with analysis of variance (ANOVA) is performed.
+The final analysis indicates that the orientation of PV panel and the tilt angle is the two most significant factors affecting the system yields while the installing the optimizer and photovoltaic cell technologies have lesser impact.
+The analytical results well align with the data collected from example PV system sites.

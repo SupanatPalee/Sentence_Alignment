@@ -1,0 +1,13 @@
+This paper proposes an appropriate ordering policy for imported raw materials by adopting in joint-ordering and full container load (FCL) concept in order to reduce total cost including transportation cost and inventory holding cost while maintaining service level at 95%.
+This study was conducted as follows.
+"Firstly, all relevant data (e.g., imported raw materials data and purchasing conditions) is reviewed."
+"Secondly, the periodic review ordering policy type, i.e., OUL policy is proposed."
+The ordering quantity is determined by adjusting OUL policy in order to integrate joint replenishment and full container load concept.
+"Three candidate policies are suggested: 1) Adjusting ordering quantity only based on average demand  2) Adjusting ordering quantity based on average demand and raw materials price, and 3) Adjusting ordering quantity based on average demand , raw materials price and variance of demand."
+"Thirdly, the three candidate policies are evaluated by a simulation model."
+The most appropriate ordering policy must meet lowest average total cost and variation.
+"Finally, a sensitivity analysis is done on the selected policy to show how changing in average demand and standard deviation of demand affects the total cost and service level."
+The results show that the most appropriate ordering policy is to adjust the OUL policy based on average demand () only.
+"When implementing the proposed policy with the actual demand of 2019, it also shows that the total cost, transportation cost, and inventory holding cost have been decreased by 34%, 44% and 24% respectively while achieving the desired service level."
+"Finally, the sensitivity analysis result shows that the proposed policy is robust to changes in demand pattern."
+There is only 10%-11% changes in total cost compared to 50% changes in average demand and more variation or worst-case scenario for demand changes.

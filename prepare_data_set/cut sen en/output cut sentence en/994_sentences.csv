@@ -1,0 +1,9 @@
+"The research aimed to present a method for determining the coffee ripeness from photographs in 4 types of ripeness: red (ripe), yellow (half ripe), green (raw) and brown (very ripe) by analyzing color characteristics with image processing."
+The research process consisted of 4 stages.
+"First, a color was converted from RGB to HSV color space."
+"Second, colors were detected within a given HSV color range."
+"Third, object contours were detected."
+"Fourth, the object was framed."
+"The results of testing the system performance on the accuracy of coffee classification from photographs showed that the efficiency of red (ripe) was 97%, yellow (half ripe) 95.67%, green (raw) and  brown (very ripe) 100%."
+"Therefore, the average system efficiency was 98.17%, which was very high."
+It can be concluded that the methods for determining the coffee ripeness from photographs will be very useful for developing a coffee color sorter.

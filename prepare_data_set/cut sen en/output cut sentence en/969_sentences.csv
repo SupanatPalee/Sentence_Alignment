@@ -1,0 +1,10 @@
+This paper presents the design and construction of an electric wheelchair.
+"The objective is to develop a wheelchair drive system to have a constant speed on both flat and steep slopes, developed a system to stop the wheelchair to have a shorter braking distance and stop the wheelchair when encountering obstacles."
+Use the speed estimation by the principle of back EMF.
+Control the motor speed in a closed loop with a delta-learning artificial neural networks.
+The motor is powered by a chopper-fed converter running in battery-powered mode.
+and uses the energy stored from the inductor of the motor to stop the vehicle in braking mode.
+Generate PWM control signals with a digital signal processor.
+Tested the movement of the wheelchair on flat and steep slopes with simulated patients with different weights.
+"The test result showed that, a maximum average error of 2.33 percent of the moving speed, 46.36 percent shorter braking distance than geared braking, minimum turning radius 0.9 meters and the wheel chair will stop when encountering obstacles within 0.8 meters."
+The proposed system is 78.16 percent efficient and it can be used for 3.25 hours per charge.

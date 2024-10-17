@@ -1,0 +1,9 @@
+"The purpose of this research is to find the Economic Order Quantity (EOQ), Safety Stock (SS) and Re-Order Point (ROP) of printing inks in a corrugated paper production case study company."
+Currently printing inks inventory is controlled by the employee’s experience that causes high inventory stock level and high cost of inventory control.
+The research methodology has following three steps; (1) Using the ABC classification concept to classify the printing inks.
+The result shows that 25 of 135 types are classified as group A.
+(2) Using Variability Coefficient (VC) value to validate the demand data before using the EOQ model.
+The result shows that there are 23 types of printing inks be able to use EOQ model.
+"(3) Calculation of EOQ, SS and ROP for each printing ink."
+"The result of using the proposed method instead of employee’s experience shows that inventory stock level is reduced from 4,191 kg to 2751 kg."
+"The inventory capital expenditure also is reduced from 473,583 to 310,863 baht a year, a decrease of 162,720 baht a year or 34.4% reduction."

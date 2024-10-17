@@ -1,0 +1,11 @@
+One main problem of health services in hospitals is that patients have to wait in front of the monitor displaying the service queue.
+They cannot go elsewhere.
+"Although, at present, queue applications have been developed on smartphones, these solutions are not applicable for everyone."
+"Therefore, the main objectives of this research are to design and to develop a queuing system which can notify the queue via a wireless network."
+Patients can carry or wear the queue device in order that they can do other activities during waiting for the service queue.
+"The developed system consisted of 3 parts: Part 1 is wearable queue devices designed in the form of a wristband and they had to be cheap, small and easily portable."
+The Node MCU was used for wireless connection to receive the queue number and to show the queue status through LEDs and sound.
+Part 2 was the queue calling push button.
+"When it was pressed, the signal was sent to the third part, i.e., the queue management controller for processing and sending the queue information to the wearable queue devices."
+"The experimental results showed that the developed queue management system can be implemented successfully as designed for both simulation and real situations at the medical service center, Mahasarakham University."
+"Therefore, it can facilitate the patients to do other activities during queue waiting."

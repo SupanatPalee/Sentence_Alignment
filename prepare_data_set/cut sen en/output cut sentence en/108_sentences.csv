@@ -1,0 +1,8 @@
+This paper presents the design of the grounding system in the power station using a multi-objective optimization using NSGA-II.
+(NSGA: Non-dominated Sorting Genetic Algorithm) The Grounding systems in power stations must be safe and electrical equipment and must be economical.
+"The objective function of finding the right value consists of the price of the material, installation wages and security conditions."
+"In addition, the multi-objective optimization using NSGA-II is also adjusted in line with the acceleration time for the problem."
+The results showed that such an approach can solve the problem well.
+The grounding grid design in power system substation can be designed economically and safely.
+This article also tests the design of the grounding system of a real power station and compares the results with the most appropriate GA (Genetic Algorithm) and PSO.
+(Particle Swarm Optimization)

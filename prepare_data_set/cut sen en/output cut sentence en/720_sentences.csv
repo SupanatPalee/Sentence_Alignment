@@ -1,0 +1,10 @@
+This paper proposes a linear programming model in order to support decision making of additional production using excess raw material.
+The solution of additional production determines how much to produce and how much to order.
+The objective of this process is to reduce excess raw material value to be disposed each month and to increase revenue for business.
+This study is conducted as follows.
+"Firstly, data related to excess raw material as well as current ordering additional production are reviewed."
+"Secondly, a linear programming model is formulated to determine the solution that minimize the total cost of this additional production and according to production constraints where the excess raw material value is reduced."
+"Finally, the proposed LP model is implemented in Python programming and tested with previous data to show if it could determine solution of additional production which reduces the excess raw material value."
+Test results showed that the excess raw material value can be reduced by 25.05 % or 236 thousand of dollars per month when the solution from proposed LP model is used to allocate excess raw material for additional production.
+"In addition, the revenue can also be increased in average by 179 thousand of dollars per month."
+"Thus, the total benefit from LP model solution contributes to 415 thousand of dollars each month."

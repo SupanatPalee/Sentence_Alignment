@@ -1,0 +1,11 @@
+The volume of domestic cars sales depends on the excise tax policy for cars and has been directly variable with the direction of economic growth.
+During 2011–2021 the Thai government implemented policies on excise tax for cars including the First Car Policy and the restructuring of the excise tax on cars based on the calculations of carbon dioxide emissions.
+Then in 2020 the COVID-19 pandemic occurred and impacted the global economy which might have impacted the volume of cars sales in the domestic automotive market as well.
+This article aimed to analyze the impact from the situation on the long-term trend in the volume of cars sales in Thailand using the time series analysis method.
+The prediction of the total sale volume of sedans and pick-up trucks for 2011-2021 were calculated based on new car registration nation-wide using the statistics during 2000-2010 as the baseline for prediction.
+Comparison of 9 models found that the power model with the formula Nt = 224066t0.4815 has the highest r2.
+When the predicted value was compared with the statistics it was found that the result of the government’s First Car Policy resulted in irregular increase the volume of domestic car sales.
+The statistical amount was 61.71% and 59.60% higher than the predicted amount for 2012 and 2013 respectively.
+The result of the restructuring of excise tax on cars based on the amount of carbon dioxide emissions in 2016 did not increase the volume of car sales.
+This was because the restructuring of excise tax for cars was not caused statistically significant decrease in the price of cars.
+The COVID-29 pandemic reduced the volume of cars sales was lower than the predicted volume by 19.02% and 21.01% for 2020 and 2021 respectively.

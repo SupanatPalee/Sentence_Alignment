@@ -1,0 +1,5 @@
+This paper presents an analysis of heat conduction in one-dimensional Cartesian coordinate system under steady state condition for homogeneous material by using the dual mesh finite domain method.
+This method used element for interpolation of functions and the calculation of heat fluxes at both ends of control domain.
+"In this paper, the detail of discrete equation formulation was presented for the nodes of domain."
+"The accuracy of numerical solutions was evaluated by comparison with the exact solutions of three problems including 1) heat conduction in a rod without heat generation, 2) heat conduction in a plane wall with heat generation and 3) heat conduction through a fin with uniform cross section."
+"The percentage of error of the dual mesh finite domain method with four elements for problem 1, 2 and 3 were 0, 0 and 0.01, respectively."

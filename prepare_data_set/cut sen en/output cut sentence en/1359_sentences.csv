@@ -1,0 +1,12 @@
+This paper presents the design and implementation of a motor speed control system for an automatic cutting and wrapping machine.
+The idea is to reduce the cost of purchasing expensive machinery.
+The prototype machine will have the ability to automatically cut and wrap the small products.
+The aim of this work is to create a prototype automatic motor speed controller in order to control the motor speed up and down for an automatic candy cutting and wrapping machine.
+This work leads to reduce the weight of uneven candy pellets and reduce defects in the production line.
+"The dimensions of the machines in the factory are width 63 cm., length 170 cm., height 130 cm."
+"and the dimensions of the prototype kits are width 50 cm., length 50 cm., height 40 cm."
+using an Arduino Uno R3 Controller for controlling the main operations.
+And the motor speed can be adjusted according to the distance of the sugar lines used for cutting to the pellet candy and to apply a set of sensors and IoT systems to use with smartphone.
+The experimental results at a speed of 450 rpm were compared between the motor speed and the candy weight loss.
+The results of the candy weight are closed to the standard as 7.5 grams/pellet.
+"And when comparing the results of the waste before and after working with the machine's working time of 7 hours/day, it was found that after Improvements can reduce the amount of waste by approximately 275 pieces per day."

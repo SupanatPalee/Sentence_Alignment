@@ -1,0 +1,7 @@
+This research investigates the development of mathematical models for predicting the behavior of electrical energy consumption and heat rejection from the operation of a 3-level refrigeration plant in a beverage manufacturing industry.
+"Three temperature levels are 15, -1 and -6 degrees Celsius."
+The objective is to find accurate models for predicting electrical energy consumption and heat rejection to analyze the optimal operating condition of the cooling system.
+"The mathematical models under this study include Radial Basis Function (RBF), Multivariate Adaptive Regression Splines (MARS), and Kriging models."
+"From the study, the RBF model with linear spline kernel functions demonstrates the highest prediction performance, with root mean square errors (RMSE) of 2.80% and 2.77% for electrical energy consumption and heat rejection, respectively."
+"Conversely, the RBF model with cubic spline kernel functions exhibits the lowest prediction performance, with RMSE values of 41.10% and 74.17% for electrical energy consumption and heat rejection, respectively."
+"The accurate mathematical models are utilized to represent the behavior of the cooling system and determine the most suitable values for reducing electrical energy consumption and improving heat rejection efficiency, ultimately aiding in reducing production costs for beverage manufacturing industrial facilities in the future."

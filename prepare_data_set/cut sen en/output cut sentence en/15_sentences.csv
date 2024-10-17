@@ -1,0 +1,7 @@
+Current cyber threats have a wide impact on security agencies.
+"Therefore, it is absolutely necessary to have an intrusion detection system."
+One of the factors that affect the efficiency of an intrusion detection is that the Royal Thai Air Force (RTAF) must have his own cyber threat dataset used in training and develop the model.
+"Therefore, the purposes of this research were to present studying, collecting and analyzing of cyber threats within the RTAF in order to respond to cyber threats and to develop a cyber threats model by using machine learning techniques imported into the process of valuing accuracy of cyber threat detection within the RTAF by using RapidMiner Studio to analyze with five models: Naïve Bayes, Decision Tree, Random Forest, Gradient Boosted Trees and Support Vector Machines."
+"The researchers used the cyber threat data set which consists of attacks within the RTAF network in which the main threats were caused by 7-type malicious softwares, totaling 38,642 attacks, each contains computer traffic data (Traffic Log) used as the training data for the model."
+The Naïve Bayes and Random Forest models were chosen to increase efficiency.
+"Both models gave the highest accuracy of 98.01% and a detailed assessment of the mixed model (Hybrid) gave the accuracy of 98.01 %, the precision of 96.07%, the recall of 98.17 % and the mean (F1 Score) of 97.04 %."

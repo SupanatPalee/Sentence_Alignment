@@ -1,0 +1,7 @@
+This article presents the results of a study on the efficiency of backanalysis for the strength of road structure containing soil-cement base using micro-genetic algorithms.
+Field data are collected from the test sections constructed in Chachoengsao Province.
+The population sizing is determined by the simplified approach depending on the string length.
+It has been found that large population with generous computational resources results in higher accuracy.
+"But the disadvantages are that it takes longer time and the approximate last 10,000 function evaluations may not be worth the added computation cost."
+While large population with limited computational resources is appropriate for practical application and the accuracy is within acceptable range.
+It is clear in these results that the micro-GA performed best with population size equals to 7 for this case study.

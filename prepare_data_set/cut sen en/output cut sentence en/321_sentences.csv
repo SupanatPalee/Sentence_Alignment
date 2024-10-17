@@ -1,0 +1,8 @@
+"This paper proposes a working condition monitoring system for a split type air conditioner that consists of embedded systems for measuring compressor current, indoor and outdoor temperatures."
+These data were used in a classification process.
+"While the air conditioner is working in normal condition, the compressor current, indoor and outdoor temperatures were recorded as databases."
+The indoor and outdoor temperatures at the present time were used to select the average reference compressor current for comparing with the average compressor current at the present time.
+The obtained result of these processes is the working conditioning of the air conditioner.
+"For the experiments, the 36,000 BTU of the split type air conditioner was used."
+The experiments were set up in three cases; condenser and cooling coil were dirty and refrigerants were lower than normal conditions.
+The experimental results showed that the presented system could correctly indicate the working conditioning of the split type air conditioner.

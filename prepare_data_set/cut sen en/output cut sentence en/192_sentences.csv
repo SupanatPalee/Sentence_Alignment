@@ -1,0 +1,8 @@
+A new basic design and analysis for two-fluid mixture process simulation were developed using moving particle simulation (MPS).
+The interaction between two-fluid was modeled by the finite volume method (FVM).
+The numerical simulation in this research using the Finite Element Method (FEM) together with a multi-time-step algorithm was introduced into the MES method to calculate the effects of interaction and contact between two-fluid bodies and between blade rotor bodies and walls.
+The results of the analysis showed that at 100 rpm of the agitator rotation in the vertical and the horizontal axis.
+"Ready to be installed a stator into the blade of the agitator set on both axes, the best mixing rate of the fluid was achieved compared to other models."
+The proposed MES method using the optimized FEA and FVM model was then applied to a mixture process.
+The concept of the proposed approach is expansively applicable to 3D mixture process form design or other consumer product forms.
+The effect of impeller-blade angle and revolutions per minute on performance of mixture process was investigated using commercial software.

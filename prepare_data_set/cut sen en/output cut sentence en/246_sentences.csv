@@ -1,0 +1,12 @@
+This article presents assessment of power system loading and zonal to zonal power transfer capability with repeated power flow calculation technique under consideration violation limits of system control.
+The aim of this technique is capability assessment of power system to support load and generation changing include defining critical areas to improve the power system stability.
+The assessment in this study is defined in 3 case studies.
+The first case study is the capacity assessment for support the increase of the load in the system while the generation capacity is stable.
+The second case study is the capacity assessment for support the decrease of the load in the system while the generation capacity is stable and the last case study is the capacity assessment for support the decrease of the generation in the system while the load is stable.
+This study uses the Thailand power system for base case system to present the techniques and process for the capacity assessment of the large power system.
+"The base case system has total generation capacity 27,443.75 MW, total load in the system 26,848.58 MW and the total power loss 595.17 MW."
+The violation limits of the system for the assessment are set the voltage at 0.90-1.10 p.u.
+and the loading percentage of the power transfer equipment at 105 percent.
+"The Thailand power system in this study is divided into 7 subsystems, which the results are shown the capacity to support power system loading and zonal to zonal power transfer in each subsystem."
+The study results have found that the Northeastern power system or area 2 is able to handle the least loading and have less zonal to zonal power transfer capability than other systems.
+"Also, the study results can identify the critical voltage areas and the congestion areas which is important data to improve the power system stability."

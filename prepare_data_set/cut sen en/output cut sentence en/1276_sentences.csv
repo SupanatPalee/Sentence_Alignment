@@ -1,0 +1,10 @@
+Nowadays engineers and architects utilized various polymeric coating fabrics extensively for architectural works.
+"For design and application of fabric, the heat transfer coefficient play an important role as a key factor."
+The heat transfer coefficient of the fabrics cannot be measured directly by the standard equipment due to the following reasons: 1) fabric thinness 2) being a composite material and 3) being an imporous material.
+"Therefore, the researcher follows the standard ASTM C518 as a guideline for inventing the heat generating equipment."
+"This equipment consists of heating plate, cooling plate, temperature control system, heating flux sensors, temperature sensors, architecture fabric, and data logger."
+The equipment is designed in a way that all parts can be assembled and dissembled easily.
+The architectural fabrics made from polyester (PES) polyvinylchloride (PVC) and polyvinylidene fluoride (PVDF) with known heat transfer coefficients are used for calibrating the equipment with the average error of 1.60%.
+"Thus, this equipment works effectively and deliver precise measurement of heat transfer coefficient."
+The result shows that the values of heat transfer coefficients ranges from 0.043 to 0.058 W/m.K.
+The linear equation is 0.1543x + 0.0029 where the indepentdent variable x is the thickness of the architecture fabric (0.08 to 0.18 mm).

@@ -1,0 +1,6 @@
+This article introduces a restaurant valuables inspection system that utilizes AI technology and cameras to assist customers in identifying forgotten or missing items.
+"Additionally, it incorporates a website for online table reservations, aiming to reduce queue waiting times and enhance customer convenience."
+Customers can access the website to view items detected by the system.
+This project leverages AI technology to increase security efficiency by employing the PHP language to develop a restaurant reservation website and MySQL to manage the database.
+"The AI model was trained using Deep Learning techniques from the Roboflow website, achieving an average precision of 0.99616 and an average recall of 0.99726."
+"Subsequent calculation of the F1-Score revealed that the model could accurately identify object types with an average of 0.995, or 99.5%."

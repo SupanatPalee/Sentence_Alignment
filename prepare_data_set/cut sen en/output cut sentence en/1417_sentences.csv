@@ -1,0 +1,4 @@
+"This paper presents an implementation of a low-cost real-time people counting system on raspberry pi based on applied Tiny YOLO V3, the latest object detection algorithm with high speed and accuracy."
+The architecture of the Tiny YOLO v3 is much less complicated than the complete YOLO architecture.
+"Thus, it is suitable for the Raspberry Pi embedded system platform that has limited resources and processing speed."
+The experimental results show the performance of the speed and accuracy of the proposed system.

@@ -1,0 +1,8 @@
+This research proposed a scheduling method for an automotive part manufacturing process with job shop production environment.
+A mixed integer linear programming based heuristic (MILP_H) was designed for dividing a group of job orders to several subgroups in case that number of jobs to be scheduled is large.
+Then the proposed mixed integer linear programming (MILP) models are used for generating a schedule for each subgroup.
+"If all jobs in the subgroup have completed before their due date ,the MILP with minimizing makespan will be chosen for scheduling."
+"Otherwise, the MILP with minimizing total weighted makespan and maximum lateness will be used to lessen the extra time for producing the tardy jobs to finish their production within due date."
+The subgroup schedules then are combined as a production schedule for practice.
+The 15-problem set consists of real and simulation scheduling problems was used for perfomance test.
+The results revealed that the MILP_H can create production schedules with 4.22% reduction in average makespan and 22.62% decrease in the average of the maximum lateness.

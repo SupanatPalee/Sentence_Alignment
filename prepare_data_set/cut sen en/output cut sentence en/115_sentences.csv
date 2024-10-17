@@ -1,0 +1,5 @@
+This article presents the X-ray image stitching algorithm for appendicular skeleton diagnosis based on correlation coefficients.
+The X-ray images samples were obtained from phantom models.
+"The proposed technique decreased processing time by filtering and reducing image size, in contrast to the old technique which used all pixel points for finding correlation coefficient."
+"Moreover, the proposed method reduced processing time by creating rectangular frames around connected points to identify the image reference for finding correlation coefficient."
+The accuracy results of the correlation between radiography of upper limb and lower scapula were 97.60 and 98.22 percent.

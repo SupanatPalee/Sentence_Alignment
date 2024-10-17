@@ -1,0 +1,4 @@
+This research presents a method for classifying Magnetic Resonance Imaging (MRI) images using Convolutional Neural Networks (CNNs).
+"The CNN model is trained on a labeled dataset of MRI images, which allows the model to learn patterns and specific features of MRI images related to various diseases or medical conditions."
+Simulation result show that the appropriate model for classification of Alzheimer’s brain MRI image is ResNet50.
+This is used the less epochs for training compared to MobileNetV2 and efficientNetB7 with high accuracy.

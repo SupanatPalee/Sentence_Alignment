@@ -1,0 +1,10 @@
+"This research aims to select raw materials from various kind of sugar mills with different prices, quality and quantity for obtaining the lowest raw material costs in ethanol production."
+"Studying issue are the theoretical factors of converting sugar to ethanol, raw material, quality data collection, molasses C contract price and world sugar price forecast via Box-Jenkin's Auto-Regressive Integrated Moving Average (ARIMA) that is time-series forecast) to analyze the lowest of raw material costs."
+"The results of this research concluded that the ARIMA model (1,2,1) forecast showed that the market sugar price in July 2021 rose to 12,131 baht per ton or 17.75."
+Cents per pound.
+"As a result, the price of raw materials with the proportion of sugar in raw materials is significantly higher."
+"Then, the process of raw material selection is start with calculation the cost of each raw material the SJM Formula to evaluate the concentration of sugar and molasses."
+Then the cost and amount of raw materials are sorted to meet customer demands.
+"Therefore, the syrup selection during the sugar mill production period into the production process could be reduced the import of molasses from abroad and molasses B with high cost."
+The ethanol production process total cost is minimum total cost compare with other conditions.
+"From the simulation scenario, the cost of raw materials can be reduced by 3.14%, or approximately 94.7 million baht per year."

@@ -1,0 +1,5 @@
+This article is intended as a decision making guidelines for those who are beginning to study numerical computations in engineering works or for researchers who want to choose the appropriate method of calculation.
+"From the study, it is found that the results obtained from the two calculation methods are similarly accurate."
+The energy error is at the level of -3 .
+"However, when considering the time for computing, the results showed that the meshfree method was found to take three times longer to compute than the finite element method."
+"Nonetheless, considering the use of calculations that require change in the number of nodes or adaptive the size of the elements, the meshfree method appeared to be more simple and faster at the stage of data preparation."

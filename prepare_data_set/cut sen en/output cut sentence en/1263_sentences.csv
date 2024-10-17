@@ -1,0 +1,10 @@
+This research studied a staff shuttle routing of the electronic components production company for car and motorcycle in Chonburi province.
+The sample size of this research was 237 employees.
+"Overall distance for travelling to work was 10,191 kilometers approximately."
+"As a result, the carbon footprint to occur was 1,059.864 kilogram/person-kilometer."
+"The objectives of this research were (1) for a staff shuttle routing which is company welfare, (2) to reduce the use of private cars which can affect traffic problems and pollutions decreasing."
+The responsibility areas in this research were divided into 12 districts also to define the appropriate staff shuttle size with the servicer volume.
+"After that, the travelling salesman problem was used for the appropriate staff shuttle routing."
+"However, demarcation areas of responsibility made an easier solution due to the size of the problems had decreased."
+"As a result, the problems can be solved with Excel Premium Solver."
+"The results of this research were the total distance of all route was 1,209.56 kilometers, and a carbon footprint had decreased 21.041% per route."

@@ -1,0 +1,7 @@
+This research presents the application of firefly algorithm for the optimum design of reinforced concrete foundations for the minimum cost.
+The total cost of reinforced concrete foundations is used as the objective function and the optimum design process is created using Visual basic language and using the strength design method of E.I.T.
+(E.I.T.1008-38).
+Four design examples are used to evaluate the performance of firefly algorithm.
+"From the result, it showed that the firefly algorithm can be applied for the optimum design of reinforced concrete foundations."
+"In addition, the using firefly population of 200 and maximum iterations of 100 times obtain the best statistical results."
+"Moreover, the optimum solution of firefly algorithm has economical more than the traditional method about 26.9 %."

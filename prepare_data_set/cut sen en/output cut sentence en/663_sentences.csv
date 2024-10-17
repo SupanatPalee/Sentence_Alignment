@@ -1,0 +1,7 @@
+"This paper presents the voltage compensation and power factor improvement using Flexible AC Transmission Systems (FACTS), Static VAR Compensation (SVC) for single-phase power systems."
+"The performance comparison of SVC with three control methods such as Voltage Control (VC) method, VAR Compensation Control (VCC) method, and Voltage and VAR Compensation Control (VVCC) method are proposed."
+The design of SVC parameters depend on the mathematical model which is also presented in this paper.
+"For performance testing, the hardware in the loop simulation technique using MATLAB/Simulink program and TMS320C2000TMExperimenter Kit DSP board are applied to Simulate voltage compensation and power factor improvement via the SVC."
+The simulation results show that the SVC controlled by VVC and VVCC methods can provide similarly a good performance and better than VC method.
+"However, the voltages at point of common coupling (PCC) and power factor values after compensation by three control methods."
+are satisfied under Provincial Electricity Authority’s Regulation on the Power Network System Interconnection Code B.E.2559 (2016).

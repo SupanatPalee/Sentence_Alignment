@@ -1,0 +1,6 @@
+This paper presents the application of Boundary Element Method for construction of influence surfaces of elastic plates with general geometries and boundary conditions.
+"According to the reciprocal theorem, the influence surfaces of the particular functions such as the deflection, rotation and stress resultants (shear forces, bending moments and twisting moments) at the observation point can be obtained from the solution of the governing differential equation of plate bending subjected to a generalized load singularity applied at that point."
+Then the involving influence surface can be obtained by employing the pertaining linear differential operator to the generalized load singularity.
+"With the merit of Boundary Element Method, the solution of plate bending subjected to a generalized load singularity can be solved efficiently without difficulty."
+"Furthermore, excellent accuracy with low computational effort is attained."
+"Several numerical examples and results are presented to validate the accuracy, applicability as well as effectiveness of the proposed method."

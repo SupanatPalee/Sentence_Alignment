@@ -1,0 +1,6 @@
+This paper presents the mathematical model of heat control systems for small fuel ethanol production plants.
+The system consists of heating coils to heat the fermented water in the distillation process until achieving an ethanol.
+This prototype was developed and applied in the production of ethanol.
+In this paper the mathematical model of heat control systems using AC-DC-AC power conversion circuit with a PI control supplied by one-phase power system is presented.
+The proposed model is derived by using a generalized state-space averaging approach.
+The model is validated by the simulation via the SimPowerSystemTM of MATLAB program.

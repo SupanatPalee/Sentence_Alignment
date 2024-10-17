@@ -1,0 +1,10 @@
+This paper presents an advancement in the acceleration of object rotation direction detection through the implementation of a feature accumulation system derived from the Discriminant Feature Trace Transform (DFTF).
+DFTF data will be utilized in conjunction with machine learning to forecast the rotational direction of an object via the DFTF algorithm.
+"It was discovered that in relation to the time required to obtain DFTF results, the procedure is intricate and involves multiple processing steps."
+"As a result, the objective of the development guidelines that are outlined in this article is to accelerate the quest for solutions and streamline the work process."
+Adjusting the dimensions of the image data is the initial step in reducing the quantity of information that must be computed.
+"Following this, the procedure for producing data in the trace transform domain was eradicated and substituted with machine learning in order to convert the image data to DFTF format."
+It is then incorporated into the standard procedure for calculating the rotation of an object.
+The outcomes of experiments conducted in this paper utilizing on Caltech-256 database.
+"The suggested method allows for the measurement of data error using Mean Squared Error (MSE) and Root Mean Squared Error (RMSE), with data errors of 4.09 and 2.2, respectively."
+"The optimal running speed per image in this experiment is 0.12 seconds, yielding an average accuracy of 98.7%."

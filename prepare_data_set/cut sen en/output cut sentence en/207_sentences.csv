@@ -1,0 +1,6 @@
+This Water turbine is the fluid machinery that changes kinetic energy of water into mechanical energy for electricity generation.
+The objectives of this research are to study flow of water inside water turbine wheel using computational fluid dynamics employing Finite Volume Method.
+Finite Volume Method was used to calculate velocities in the water turbine base on k-epsilon and k-omega model.
+Number of Element is an important variable affecting calculation accuracy.
+"Then, the accuracy of element was studied and comparison was made with results from experiment and free spinning simulation."
+"The calculation result of CFD show that the elements efficiency of 80 % results in the maximum rotation speeds of a 212-213 RPM at 7 m/s, calculated by k-epsilon and k-omega model, which shows percent error of 0.46% as compared to the actual testing."

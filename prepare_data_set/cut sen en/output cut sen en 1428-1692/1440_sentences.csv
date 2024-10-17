@@ -1,0 +1,9 @@
+This research presents the use of IoT technology in the development of a prototype indoor air quality measurement system called NMU-AQI.
+"To the standard, it consists of a total of 7 sensors to measure, including temperature, relative humidity."
+"Carbon dioxide concentration Carbon Monoxide Concentration Airborne particulate matter less than 2.5 microns or PM 2.5, ozone gas and Total Volatile Organic Compounds (TVOC) with a microcontroller to take readings from the sensor based on the Real Time Operating System (RTOS) to aid in processing."
+Result of receiving data from various sensors As well as transmitting the data obtained from the sensor through the NB-ioT to the server to store the data in the database and process the data.
+For displaying the sensor values ​​through a developed web application.
+It can support NMU-AQI connection and display of multiple prototype devices simultaneously.
+"In the case of installation in a variety of locations which can bring the sensor values ​​of each NMU-AQI to be displayed and compared in different values ​​according to the need by selecting the installed location The preliminary results found that Able to measure indoor air quality for all 7 units, the values ​​obtained are consistent and do not exceed the abnormality with indoor air quality standards."
+The proposed system can be used in recording applications.
+Analyze data and view trends in indoor air quality.

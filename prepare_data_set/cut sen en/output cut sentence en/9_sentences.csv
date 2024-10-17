@@ -1,0 +1,11 @@
+This paper presents the performance improvement of harmonic detection using the Synchronous Detection with Fourier analysis (SDF) method to calculate the reference current of a shunt active power filter (SAPF) for single-phase power systems.
+The Positive Sequence Voltage Detector (PSVD) is applied to the SDF method to improve the accuracy of the reference current calculation in the case of a distorted voltage source.
+Where the objective is to enhance the effectiveness of harmonic elimination for single-phase power systems.
+"For the harmonic detection testing, the hardware-in-the-loop simulation technique of the Simulink/MATLAB program and the TMS320C2000TM Experimenter Kit DSP board are used to simulate the harmonic elimination system."
+The simulation is divided into two cases of voltage sources: a pure sinusoidal waveform and a distorted waveform caused by harmonics.
+The simulation results show that harmonic detection using SDF in cooperation with the PSVD method (SDF+PSVD) can reduce the percentage of the total harmonic distortion (%THD) value of the source current to 3.07% for the case of a pure sinusoidal voltage waveform and to 2.00% for the case of a distorted voltage waveform.
+These %THD values are lower when compared with the SDF method and synchronous detection (SD).
+"From the result, it confirms that the SDF cooperated with the PSVD method can provide better performance for harmonic detection."
+"Therefore, the shunt active power filter can effectively eliminate current harmonics in the single-phase power system."
+"Moreover, %THD of the source current after compensation is also satisfied under the IEEE std."
+519-2022.

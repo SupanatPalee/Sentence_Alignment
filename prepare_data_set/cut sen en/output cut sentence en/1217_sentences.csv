@@ -1,0 +1,5 @@
+This paper presents a study of voltage regulation.
+"In modeling of railway electrificationsystem, auto transformers are connected in parallel to reduce voltage quality problem in feedersdue to remote substation."
+"In this work, modeling of railway electrification system is simulatedon DIgSILENT PowerFactory program."
+The results show the difference between ones with andwithout connected auto transformer for voltage drop and voltage unbalance aspects.
+"This paperprovides guidelines of transformer’s connection for railway system to solve the voltage quality.Furthermore, the developed modeling of railway electrification system can be applied on studiesof stability problems on railway electrification system in future."

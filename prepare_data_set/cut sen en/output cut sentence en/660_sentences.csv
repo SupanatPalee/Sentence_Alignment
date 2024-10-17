@@ -1,0 +1,8 @@
+This paper presents harmonic elimination using active power filter for non-sinusoidal voltage source system.
+The instantaneous power theory (PQ) with positive sequence voltage detector (PSVD) is used for harmonic detection to calculate the reference current.
+The PI–controller is applied for compensating current control and DC bus voltage control.
+This controller is used with PWM switching technique.
+"Moreover, the Matlab Simulink is applied for simulation in the paper."
+The simulation results show that the active power filter with PI–controller can provide the good performance to eliminate the harmonic for all loads in non-sinusoidal voltage source system.
+"In the paper, the performance index is  of source current after compensation."
+"In addition, the  after compensation can follow the IEEE Std.519 – 2014 and IEEE std.1459 – 2010."

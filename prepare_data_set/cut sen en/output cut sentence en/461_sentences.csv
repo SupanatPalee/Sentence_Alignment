@@ -1,0 +1,7 @@
+This paper presents the solution most of the Drones unable to indoor flying cause of without some GPS signal to control.
+The AR Drone 2.0 has been used main experimental equipment with Python and  OpenCV to flying control on the Linux Ubuntu computer system.
+This experiment is divided into two parts.
+The first part (Part-A) is carried out to test the color pattern of the tracking sign code colors as most suitable and second part (Part-B) is carried out to develop algorithm drone to change a waypoint follow the code colors sign.
+"The results of experiments Part-A, there are 3 most suitable colors such as pink fluorescent, orange fluorescent and green fluorescent."
+The front camera of AR Drone2.0 able to respond fluorescent colors type more than ordinary color type 30%.
+"The results of experiments Part-B, The AR Drone2.0 able to change waypoint follow the code colors sign as prescribed."

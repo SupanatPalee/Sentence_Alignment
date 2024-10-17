@@ -1,0 +1,6 @@
+This research presents the separation of the linear transfer function of nonlinear systems based on the perpendicular properties of the Gaussian White Noise signal as the input signal.
+"The input and output signals are continuously collected in real time to average the signal and to avoid excessive memory usage, Circular Buffer has been applied."
+The Goyder’s technique performed well in separation linear signal for the mathematical modeling test.
+The transfer function also produced accurate results with a 0.003% error when it was used to calculate the linear system parameters.
+This method's drawback is that the signal must be averaged for a considerable amount of time and the transfer function's quality must be visually examined.
+"When the transfer function becomes steady, the signal measurement will come to an end."

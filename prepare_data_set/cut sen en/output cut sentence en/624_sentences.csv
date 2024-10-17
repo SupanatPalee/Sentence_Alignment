@@ -1,0 +1,6 @@
+This article presents the capacitated vehicle routing problem that associated with the limit of vehicle capacity.
+The problem represents a type of actual daily delivery under constraints of maximun of 30 locations and the demand over the locations occurs randomly.
+"The model aims to solve for minimum routing target using the designed solution procedure based on the composite approach, and applies the current transportation management system along with spreadsheet solvers."
+The proposed solution procedure allows the company to deal easily with actual transportation routes and distances in their daily scheduling tasks.
+"The result of the study shows that a metaheuristic method, within the spreadsheet solver, gives the best performance."
+The set of sample schedules returns the reduction of 8% in the total transportation cost.

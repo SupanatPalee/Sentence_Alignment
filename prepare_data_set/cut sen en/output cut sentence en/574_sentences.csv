@@ -1,0 +1,3 @@
+The main objective to fill missing values of daily rainfall data is to obtain a complete data set before further analysis in other related studies.
+"Therefore, this paper presented a software development to fill the gap of missing daily rainfall data using Inverse Distance Weighting (IDW) method, Correlation Coefficient Weighting (CCW) method and Arithmetic Mean (AM) with user interface (UI) that makes it easy to use."
+The experimental results showed that the processing time per round was less than 22 seconds based on daily rainfall data and percent of missing rainfall.

@@ -1,0 +1,4 @@
+This paper proposes an application of fuzzy logic for banana size classification based on image processing.
+This image processing to find information such as the length of the diameter of image and the area of image.
+The fuzzy logic system from the two input variables namely the length of the diameter of image and the area of image and the output variable is the banana size classification based on estimated weight of banana.
+The experiment results show that in the banana size classification such as small size medium size and big size with weight error of banana is lower than 2%.

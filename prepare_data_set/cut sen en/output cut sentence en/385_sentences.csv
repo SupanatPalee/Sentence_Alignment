@@ -1,0 +1,7 @@
+"The purpose of this research was to estimate the land surface temperature and analyze the relation between the land surface temperature and land use and land cover of Mueang District, Lampang Province."
+"By using data from Landsat 8 satellite from March, 2014 to 2020."
+There are 11 bands consisting of OLI and TIRS system which were processed through geometric correction.
+Data of OLI system band 4-5 were calculated into normalized difference vegetation index (NDVI) and data of TIRS system band 10-11 were calculated into land surface temperature.
+"Data of OLI system band 753/RGB were then categorized in supervised classification into 5 types of land use and land cover; 1) green area 2) burned area 3) urban area 4) wetland/water 5) bare soil, and analysis of relationship between land surface temperature and proportion of land use and land cover by Pearson Product Moment Correlation method."
+The results found that the land surface temperature was negative correlated with green area and wetland/water with correlation (r) values -0.798 and -0.211.
+"The land surface temperature was related in the same direction with bare soil, urban area and burned area with correlation values 0.500, 0.340 and 0.080."

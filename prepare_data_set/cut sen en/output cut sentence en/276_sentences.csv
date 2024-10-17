@@ -1,0 +1,6 @@
+This research aimed to study the effect of the position constraining of the HDD actuator arm to the natural frequencies.
+"A finite element software, ANSYS, was used to create the HDD actuator arm model."
+"After that, the position constraining of the HDD actuator arm was adjusted, for a total of nine positions."
+The results demonstrated that the position constraining of the HDD actuator arm affected the natural frequencies at each mode shape.
+"The maximum effect was 3112 Hz, which occurred in the Coil sway mode shape and the minimum effect was 32 Hz, which occurred in the Arm bending mode shape."
+"Adjusting the position constraining of the HDD actuator arm was the one method to increase or decrease the natural frequencies hence the natural frequencies were outside the frequency band of the external force, resulting in the HDD actuator arm to be under normal vibration."

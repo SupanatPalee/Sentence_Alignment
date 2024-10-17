@@ -1,0 +1,6 @@
+The objective of this study is to improve the warehouse performance by redesigning the warehouse layout and re-location for storing the odds and end in a public hospital.
+"As surveyed, the background problem reveals that there is an ineffective storage policy for each product group, resulting in unvalued time-consuming and unproductive traveling in picking processes."
+"To overcome this issue, this research gathered data on SKUs’ picking frequency in total 244 items, categorized by three product groups, namely mold, odds and end, and office equipment."
+"For the analysis, two main approaches: ABC class-based layout and storage relocation assignment model are applied for finding the appropriate warehouse layout and optimal storage location."
+The result from a comparative analysis of performance evaluations shows that the optimal layout derived by picking frequencies with considering of items’ prioritization is the best design.
+"With the new layout, the case gain benefits of better efficiency in terms of the shortest travel distance reduction from 81,950.6 to 77,591.7 meters a year (account for 5% of reduction) and the average time of picking processes deducts from 34.2 to 32.13 hours per year."

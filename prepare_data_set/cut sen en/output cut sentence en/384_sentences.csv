@@ -1,0 +1,8 @@
+The bin packaging problems cause many cost losses in logistics activities.
+"Therefore, it is necessary to study appropriate solutions."
+This research aimed to study the New Gravitational Coefficient Function Performance in the Gravitational Search Algorithm (NGCFGSA) for one-dimensional bin packaging problems (1DBPP).
+This research begins to investigate such algorithms and optimize parameters that can solve a wide range of 1DBPP.
+"In which the test is divided into 3 cases, (1) simple problem, (2) moderate problem, and (3) complex problem; in addition, a comparative test is performed with three algorithms, namely (1) the quantum evolution algorithm, (2) Particle Swarm Optimization, and (3) Gravitational Search Algorithm, to confirm the ability to solve problems."
+Results found that the NGCFGSA has high performance in searching for the answers of 1DBPP for simple and moderate cases and having answers close to the best solution compared with other algorithms.
+"In the case of difficult 1DBPP, the NGCFGSA could not search optimization solutions better than other algorithms, and the answer was found at the local optimum."
+It can be concluded that the NGCFGSA is suitable for searching for simple and moderate problems and unimodal landscape function problems.

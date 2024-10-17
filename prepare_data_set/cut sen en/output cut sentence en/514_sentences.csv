@@ -1,0 +1,10 @@
+"In recently, automatic detection of human activities has gained importance in a research topic due to the individual nature of the activities."
+Ability to monitor of human daily activities will enhance the capabilities of an application in computer vision.
+Combination of visual keyword embedding models and a statistical semantic prior model have been recently proposed in the task of mapping images to their contents.
+"Many techniques were proposed to identify activities with supervised dictionary creation methods based on both supervised information with scene description, advantages and limits the discriminative power of the resulting visual words."
+"However, it is a very challenging issue and none of the existing methods provides robust results."
+"In this paper, we propose to classify a human daily activities supervised by learning algorithm based on a Gaussian Mixture model (GM) optimizing with an Expectation-Maximization-based (EM) approach."
+The approach is composed of four main phases: (1) data preprocessing (2) constructing the modeling with Gaussian distribution (3) Expectation-Maximization (4) measurement and evaluation.
+We test our model in a publicly available data-set that classify into twelve different daily activities performed by different environment background.
+This proved to be the case as GMEM with 150 keywords reached average accuracy of » 84.6%.
+The experimental results indicate that our proposed approach offers significant performance improvements in the classification of human daily activities.

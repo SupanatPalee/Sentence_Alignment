@@ -1,0 +1,10 @@
+This paper presents a maximum power point tracking (MPPT) for stand-alone photovoltaic (PV) system.
+The considered system consists of a PV panel connected to a buck converter and a battery used as energy storage.
+The MPPT commonly used perturb and observe (P&O) method because the control is simple.
+The efficiency of the P&O MPPT method depends on the appropriate step size of control signal.
+The duty cycle rate of change () was used as a step size of control signal.
+"Fuzzy logic control (FLC) can be used for non-linear tasks, resulting in a wide variety of applications."
+"In this paper, FLC is used to determine the  to optimize to increase the control efficiency."
+"The proposed MPPT method performance is proven by using MATLAB/Simulink, Laboratory prototype and 2.4kW prototype applied to water distribution control house of the university farm, Suranaree University of Technology."
+The simulation and experimental results demonstrate the effectiveness of the proposed MPPT method.
+The proposed algorithm can provide the faster maximum power convergence and can reduce steady-state power fluctuations better than those of  P&O method.

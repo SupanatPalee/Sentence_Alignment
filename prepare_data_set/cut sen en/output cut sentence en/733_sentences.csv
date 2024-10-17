@@ -1,0 +1,9 @@
+It is recently challenging to use various sensors to interface data in Human-Computer Interaction (HCI) for developing hand gesture recognition systems.
+"However, the previous sensor system has not met the hand gesture recognition accuracy for the machine vision."
+"Therefore, this article presents the development of hand gesture recognition with a 16 Degree of Freedom (Dof) glove sensor combined with a convolution neural network."
+The flex sensors were installed to 16 points of the pivot point of the human hand on the glove so that each knuckle flex could be measured while holding the object.
+The 16 independent sensor multiplexer circuits and the adjustable buffer circuit were developed for use in this research to work with the Arduino Nano microcontroller to acquire each sensor's signal data to the computer.
+These signals are then converted to image data using Nearest interpolation and Color Mapping.
+The convolutional neural network techniques are used to recognize the hand gesture recognition systems.
+"There were 4,000 hands-on captures of 20 hand grasps that were used to test the proposed system."
+"The result indicated that the proposed system works very well, and recognition efficiency is 99.70%."

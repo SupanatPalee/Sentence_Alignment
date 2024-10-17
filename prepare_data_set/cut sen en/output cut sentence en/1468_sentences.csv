@@ -1,0 +1,5 @@
+The objective of this study is to construct the appropriate forecasting model for the export values for sugar of Thailand via the use of statistical methods.
+"The monthly average data, which were gathered from the website of the Office of Agricultural Economics during January 2011 to November 2020 of 119 months were divided into 2 datasets."
+"The first dataset, which consisted of 114 months from January 2011 to June 2020 was used for constructing the forecasting models via the use of 7 statistical methods, namely, Box-Jenkins method, Holt’s exponential smoothing method, Brown’s exponential smoothing method, damped trend exponential smoothing method, simple seasonal exponential smoothing method, Winters’ additive exponential smoothing method, and Winters’ multiplicative exponential smoothing method."
+"The second dataset, which consisted of 5 months from July to November 2020 was used for comparing the accuracy of the forecasting model via the lowest root mean square error."
+"The results indicated that the most accurate method was Winters’ multiplicative exponential smoothing method, followed by Brown’s exponential smoothing method."

@@ -1,0 +1,6 @@
+This research presents a method for eliminating salt and pepper noise using a deep learning system.
+The method consists of two steps.
+"In the first step, deep learning systems are trained to identify the noise densities."
+The second step involves improving the AWMF method (Adaptive Weighted Median Filter) to remove the noise.
+"The deep learning system is adapted to define the sub-window size, which is used in the restoring process."
+The experimental results demonstrate that the improved AWMF method outperforms the state-of-the-art method at high noise densities and requires less processing time.

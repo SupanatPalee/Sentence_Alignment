@@ -1,0 +1,6 @@
+This paper presents the design of a shunt active power filter (SAPF) for harmonic elimination in single-phase power systems.
+The parameters of the shunt active power filter and PI controllers for the compensating current injection control are considered to design.
+The conventional design method depended on an easy and uncomplicated calculation is applied for this paper.
+The MATLAB/Simulink program is used to simulate the harmonic elimination system for the performance testing of SAPF.
+The simulation results confirm that the SAPF and PI controllers designed by the proposed method can provide good performance to inject the compensating current for harmonic elimination in single–phase power system.
+"Moreover, the total harmonic current distortion percentage (%THDi) of the source current after compensation is reduced and satisfied under the IEEE std 519–2014."

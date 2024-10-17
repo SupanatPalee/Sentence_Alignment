@@ -1,0 +1,6 @@
+This research paper presents the development and optimization of the boost converter circuit with the support technique.
+This is to reduce the loss of electric power during the starting switch and the performance of the circuit to increase the voltage level.
+The principles and methods consist of two parts.
+The first part is the development and construction of a prototype device using microcontroller DSPTMS320F28377S to control the switch with PWM signal.
+The second part is the testing of circuit performance without or with stimulating by snubber technique and the comparison with MATLAB/Simulink simulation.
+"The results of the prototype device testing compared to the simulation show that the boost converter circuit with the snubber technique stimulation can reduce the loss of power during the starting switch according to the purpose of the research, while constant voltage can increase the efficiency of the circuit by more than 6%."

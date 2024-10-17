@@ -1,0 +1,7 @@
+"This research has applied the YOLOv5 object detection model to help classify rice varieties from images of milled rice grains from the following varieties: Karacadag, Jasmine, Ipsala, Basmati, and Arborio."
+"The research was divided into three main parts: data engineering, which involved developing a Python program to prepare data for artificial intelligence learning; data science operations using Python programming in conjunction with Google Colaboratory for milled rice grain detection; and the development of model accuracy evaluation method."
+"In the data preparation phase, single-grain JPEG images were obtained from https://www.muratkoklu.com/datasets/, and noise reduction, background removal, and conversion to PNG format were performed."
+"These images were then placed into 800 x 800 pixels images, each containing 20–64 grains, with varying degrees of overlapping: no overlap, and 5, 10, 15, 20, and 25 percent overlap."
+"The non-overlapping images were used to train the YOLOv5 model, which was then used to classify rice varieties and identify the locations of various milled rice grains in the images."
+The research results showed that the YOLOv5 model could effectively classify all five rice varieties.
+"Evaluating the model's accuracy at a threshold of 0.6, it was found that the model could correctly classify rice varieties in images with 0, 5, 10, 15, 20, and 25 percent grain overlap, with accuracy rates of 99.13, 99.00, 98.62, 98.19, 97.56, and 96.89 percent, respectively."

@@ -1,0 +1,8 @@
+The model for water distribution networks (WDNs) is an important tool to support network operations.
+The model requires an accurate calibration to represent an actual network.
+The calibration process is to minimize the sum square error (SSE) between the simulated values and the measurements on both flow and pressure.
+This research proposes a calibration method using the Brent's optimization.
+"The procedure includes: 1) finding an optimal emitter coefficient to represent leaks, 2) adjusting the demand patterns from the consumption data, 3) adjusting the elevation of pressure measurement, and 4) adjusting the roughness of pipe walls starting from pipe age data."
+"The proposed method is demonstrated on 24 District Metered Areas in Samut Prakan's WDNs, Thailand."
+The discussed area has SSE of flow and pressure equal to 4 (m3/Hr.
+")2 and 0.44 (m)2, respectively."

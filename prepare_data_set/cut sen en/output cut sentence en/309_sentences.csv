@@ -1,0 +1,15 @@
+Truck manufacturing industry is one of the most important industries in Thailand.
+This industry impact to not only national economy but also an employment rate.
+"Nowadays, a number of truck manufacturers (small, medium and large sizes) tend to increase which result in a higher competitive environment."
+Every manufacturer should improve their operation so as to be able to compete in an efficient way.
+"Generally,each truck comprises of a large number of parts with many sizes."
+"So, part receiving is the important process both part receiving planning and daily part receiving scheduling."
+"If part receiving scheduling is not appropriate managed, there will be large number of supplier’s trucks waiting at a stop point in front of a warehouse which is very hard to control."
+"Moreover, this waiting can delay other supplier delivery schedules."
+"From data collection, it is found that, in a case study company, an averaged waiting time of supplier’s trucks is equal to 1,409 minute."
+This research aims to study and improve part receiving scheduling method for a case study company.
+The objective is to reduce total waiting time of part suppliers.
+"The experiment is conducted to test an efficiency and effectiveness of 5 scheduling rules (Current Order(CO), Longest Processing Time(LPT), Shortest Processing Time(SPT), Lowest Standard Deviation(LSD) และ Highest and Lowest Standard Deviation(HLSD))."
+"In this experiment, the part supply data in Monday which is the heaviest traffic day."
+It is found that the Lowest Standard Deviation (LSD) method result in a schedule with the lowest total waiting time.
+"With LSD method, a total waiting time is reduced from 1,909.1 minute to 3.0 minute which is equal to 99.84% and the maximum waiting time is reduced from 94.1 minute to 4.3 minute which is equal to 95.43%."

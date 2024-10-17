@@ -1,0 +1,15 @@
+"This research presents a model of traffic light control system via smartphone, which simulated at Ban Khlong intersection, Muang district, Phitsanulok province."
+The data of this study had been collected in 4 periods of time during weekdays.
+The amount of traffic density was determined to decide the design of traffic light control system that are appropriate for the time period and increase the efficiency of traffic control.
+The microcontroller raspberry pi was used as processor.
+A number display monitor was used to indicate times and closed circuit camera was used to monitor number of vehicles.
+The designs of traffic light control system using smartphone include 2 systems such as automatic system and semiautomatic system.
+"For the automatic system, the traffic light control system was automatically changed for all 4 ranges."
+The traffic light control system was controlled by traffic police for the semiautomatic system.
+The both system model was controlled via a smartphone.
+"The results showed that the comparisons during a normal traffic light control system and the traffic light control system using smartphone in the morning at 05:00 – 11:00 am., the efficiency of the traffic light control system using smartphone was higher than the normal traffic light control system 22.05%."
+"In the afternoon at 11:00 – 17:00 pm., the efficiency of the traffic light control system using smartphone was higher than the normal traffic light control system 30.64%."
+"In the evening at 17:00 – 23:00 pm., the efficiency of the traffic light control system using smartphone was higher than the normal traffic light control system 20.43%."
+"At night during 23:00 – 05:00 am., the efficiency of the traffic light control system using smartphone was higher than the normal traffic light control system 26.88%."
+"Finally, the achievement of traffic light control system using smartphone was higher than the normal traffic light control system 22.05% for daylong."
+A model of traffic light control system using smartphone could be developed for solving traffic problem in the future.

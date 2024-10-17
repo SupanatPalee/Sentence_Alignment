@@ -1,0 +1,5 @@
+This paper presents the low cost soil moisture measurement using non-inverting amplifier in order to amplifier the small signal input that is the pre-processing part of embedded board.
+The non-inverting amplifier is applied for the small measured signal from soil to improve the input for embedded system.
+"Arduino UNO board, Atmega328 microcontroller and the analog to digital converter (ADC) module are used to process the signal."
+Experiments show the proposed measurement in comparison with the 3-in-1 digital soil moisture meter and YY-1000 hand moisture meter outdoors.
+Empirical results show insignificantly compared with the commercial meters.

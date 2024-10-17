@@ -1,0 +1,8 @@
+This research presents programming guidelines for controlling automated systems designed based on the state machine diagram concept.
+"This will help to develop software efficiently within the software development cycle and reduce the problem of inconsistency in programming, improving code understanding regardless of the programming language."
+The experiments are divided into two cases.
+The first part uses the C++ language to write programs on a microcontroller.
+The second part uses the ladder language to write programs on a PLC.
+This will develop software according to the requirements of the competition for the training set of the MPU-A automatic drilling system.
+"The test results show that following this new approach results in both controllers working properly according to the system requirements, with a common programming style."
+"However, response times may vary depending on the hardware of controllers."

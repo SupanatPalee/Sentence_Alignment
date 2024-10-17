@@ -1,0 +1,6 @@
+This paper proposes stability analysis of AC-DC power system feeding paralleled controlled buck-converter.
+"Normally, a controlled buck-converter behaves as a constant power load, that can affect the stability of system."
+"Therefore, stability analysis is very important."
+"In this paper, the proposed mathematical model is used with the Middlebrook’s criterion to predict the unstable point."
+The results are validated by the well-known Eigenvalue’s theorem and the simulation.
+Good agreement between the theory and simulation is achieved.

@@ -1,0 +1,11 @@
+"Nowadays, RFID technology is very popular in tracking goods or users."
+But when there are more users in the system collision may occur.
+RFID technology has adopted Binary tree algorithm to solve the collision problem.
+The Binary tree algorithm is designed to resolve data collisions.
+"When a collision occurs, the Binary tree algorithm divides the users involved in the collision into two groups."
+The users in the first group access the first slot and the users in the second group access the second slot.
+If the number of users in the system is relatively larger than the number of slots.
+"For example, in the case of 50 users and 2 slots this can cause consecutive collisions, resulting in inefficient access to the channel."
+"Therefore, this paper presents consecutive collisio n avoidance techniques for Binary tree algorithms."
+"In the second consecutive collision, this technique proposes to increase the number of slots from 2 to 3 slots to reduce the chances of consecutive collisions."
+"From the results, we found that the proposed technique can improve the performance of Binary tree algorithm, especially in cases where the number of users in the system is relatively greater than the number of slots."

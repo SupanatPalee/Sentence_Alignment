@@ -1,0 +1,9 @@
+This research aimed to investigate the heat transfer in 2D fireclay brick in steady state with finite element method.
+A quadrilateral fireclay brick was fixed.
+"In this work, the modeling approach was divided into two cases: the study on effects of different boundary conditions and different aspect ratios (AR)."
+"The results of model simulations to change boundary conditions showed that, the modeling approach was divided into three model: (1) three surfaces of surface temperature (Ts) = 270°C and one surface of air temperature (T¥) = 27°C (2) two surfaces of Ts= 270°C and two surface of T¥= 27°C (3) one surface of Ts= 270°C and three surfaces of T¥= 27°C."
+"The results showed that average temperature of surface in model 1, 2 and 3 were 189.66, 141.41 and 90.71 °C, respectively."
+The directions of temperature distribution form the corner with high temperature difference.
+"The side which had a great different temperature provides high gradient temperature, especially at the corners."
+"Further the results of change in AR by used boundary condition of first model, it was found that an increase in AR on average temperature reduction."
+"By comparing validation of model-predicted with finite different method, the temperature of each node was similar."

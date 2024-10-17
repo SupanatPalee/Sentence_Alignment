@@ -1,0 +1,136 @@
+
+
+./vecalign.py --alignment_max_size 8 --src /home/tristan/vecalign/bleualign_data/dev.de --tgt /home/tristan/vecalign/bleualign_data/dev.fr \
+   --src_embed /home/tristan/vecalign/bleualign_data/overlaps.de /home/tristan/vecalign/bleualign_data/overlaps.de.emb  \
+   --tgt_embed /home/tristan/vecalign/bleualign_data/overlaps.fr /home/tristan/vecalign/bleualign_data/overlaps.fr.emb \
+   --gold /home/tristan/vecalign/bleualign_data/dev.defr 
+   
+
+
+   
+========================================================================================================================================================================   
+
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/01_en_split_data.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/01_en_overlap_data.en" -n 10
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/01_th_split_data.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/01_th_overlap_data.th" -n 10
+
+
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/01_eval_en_split_data.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/01_eval_en_overlap_data.en" -n 10
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/01_eval_th_split_data.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/01_eval_th_overlap_data.th" -n 10
+
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/01_test_en_split_data.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/01_test_en_overlap_data.en" -n 10
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/01_test_th_split_data.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/01_test_th_overlap_data.th" -n 10
+
+
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_en.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.en" -n 10
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_th.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.th" -n 10
+
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_en_1428-1692.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/abstract_more_overlap.en" -n 10
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_th_1428-1692.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/abstract_more_overlap.th" -n 10
+
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_en_for_gt.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/abstract_raw_en_for_gt_overlap.en" -n 10
+./overlap.py -i "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_th_for_gt.csv" -o "/home/tristan/vecalign/EN-THA_data/overlap/abstract_raw_en_for_gt_overlap.th" -n 10
+
+========================================================================================================================================================================   
+
+export LASER="/home/tristan/LASER"
+
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/01_eval_en_overlap_data.en" "/home/tristan/vecalign/EN-THA_data/embed/01_eval_en_data.en.emb"
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/01_eval_th_overlap_data.th" "/home/tristan/vecalign/EN-THA_data/embed/01_eval_th_data.th.emb"   
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/01_test_en_overlap_data.en" "/home/tristan/vecalign/EN-THA_data/embed/01_test_en_data.en.emb"
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/01_test_th_overlap_data.th" "/home/tristan/vecalign/EN-THA_data/embed/01_test_th_data.th.emb"   
+
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract.en.emb"
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract.th.emb" 
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/abstract_more_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract_more.en.emb"
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/abstract_more_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract_more.th.emb" 
+ 
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/abstract_raw_en_for_gt_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract_raw_en_for_gt.en.emb"
+
+$LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/abstract_raw_th_for_gt_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract_raw_th_for_gt.th.emb"
+
+
+========================================================================================================================================================================   
+
+  -----------sentence------------
+   
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/01_en_split_data.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/01_th_split_data.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/01_en_overlap_data.en" "/home/tristan/vecalign/EN-THA_data/embed/01_en_data.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/01_th_overlap_data.th" "/home/tristan/vecalign/EN-THA_data/embed/01_th_data.th.emb" \
+   --print_aligned_text >> sen_align_01.csv
+   
+   
+ --------- eval -----------------
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/01_eval_en_split_data.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/01_eval_th_split_data.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/01_eval_en_overlap_data.en" "/home/tristan/vecalign/EN-THA_data/embed/01_eval_en_data.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/01_eval_th_overlap_data.th" "/home/tristan/vecalign/EN-THA_data/embed/01_eval_th_data.th.emb" \
+   --print_aligned_text >> 01_eval_sen_align.csv 
+   
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/01_test_en_split_data.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/01_test_th_split_data.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/01_test_en_overlap_data.en" "/home/tristan/vecalign/EN-THA_data/embed/01_test_en_data.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/01_test_th_overlap_data.th" "/home/tristan/vecalign/EN-THA_data/embed/01_test_th_data.th.emb" \
+   --print_aligned_text >> 01_test_sen_align.csv 
+   
+     
+ ./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/test_en04_split_data.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/test_th04_split_data.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/test_04_en_overlap_data.en" "/home/tristan/vecalign/EN-THA_data/embed/test_04_en_data.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/test_04_th_overlap_data.th" "/home/tristan/vecalign/EN-THA_data/embed/test_04_th_data.th.emb" \
+   --print_aligned_text >> test_sen_align_04.csv
+    
+   --gold "/home/tristan/vecalign/ground_truth/gt_align_04.csv" 
+   
+   
+ 
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_en.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_th.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract.th.emb" \
+   --print_aligned_text >> abs_sen_align_en-th.csv 
+   
+
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_en.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_th.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract.th.emb" >> Abs_en-th_show_index-cost.csv
+   
+   
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_en.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_th.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract.th.emb" \
+   --gold "/home/tristan/vecalign/Abs_en-th_show_index.csv" 
+   
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_en_1428-1692.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_th_1428-1692.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_more_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract_more.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_more_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract_more.th.emb" \
+   --print_aligned_text >> abs_sen_align_en-th.csv 
+   
+
+
+./vecalign.py --alignment_max_size 10 \
+   --src "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_en_for_gt.csv" \
+   --tgt "/home/tristan/vecalign/EN-THA_data/dataset_input/abstract_raw_th_for_gt.csv" \
+   --src_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_raw_en_for_gt_overlap.en" "/home/tristan/vecalign/EN-THA_data/embed/abstract_raw_en_for_gt.en.emb" \
+   --tgt_embed "/home/tristan/vecalign/EN-THA_data/overlap/abstract_raw_th_for_gt_overlap.th" "/home/tristan/vecalign/EN-THA_data/embed/abstract_raw_th_for_gt.th.emb" \
+   --gold "/home/tristan/vecalign/ground_truth/GT_1000_.csv" 
+  

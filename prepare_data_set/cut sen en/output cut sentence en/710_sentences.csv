@@ -1,0 +1,7 @@
+This research aimed to determine the drying model of pepper undergoing a jet spouted bed drying process.
+A comparative study was executed among experimental results and empirical models and adaptive-network-based fuzzy inference system (ANFIS).
+"Pepper was dried under drying temperatures of 70, 80 and 90 °C, hot air velocity 20 m/s, bed height 250 mm."
+ANFIS input were air drying temperature and drying time and output was moisture ratio.
+"The results showed that, the ANFIS had better capability than the empirical models."
+The best ANFIS model was model no.8 withthe coefficient of determination (R2) and root-mean-square error (RMSE) are 0.9991 and 0.0032 respectively.
+"Among empirical drying models considered, the page model, was found to best describe the drying behavior of pepper, the coefficient of determination (R2) and root-mean-square error (RMSE) are 0.9983 and 0.0067 respectively."

@@ -1,0 +1,11 @@
+"Owing to an outbreak of a novel coronavirus (COVID-19) pandemic, the university as a case study also needs to be considered that the university’s operations adopt a work from home instead of the office."
+"To track the work and support personnel follow the social distancing rules, the problem was studied with a cause-and-effect diagram to serving guideline for new design of time attendance system which is responding to work from home policy."
+This research aims to design and develop a system for online time attendance and evaluate user's satisfaction for this system.
+"The system using web application concept is developed with PHP, JavaScript, and HTML language and the MySQL database system is used for storing data."
+"The developed system is able to take attendance from everywhere via an internet network, to specify the workplace, and to summarize the workload performed on each day."
+"Moreover, the HR staffs can be applied system to summarize reports for individual, each faculty, and whole university."
+"The satisfaction survey results consisting  2 parts showed that the satisfaction of educational personnel by the 110 personnel of the university was in overall at high level (= 4.23, S.D."
+"= 0.98), and the satisfaction of HR staff by 10 personnel was in overall at high level (= 4.13, SD = 0.69)."
+"The operation was tested by using Black Box Testing, the accuracy of the system is 100%."
+"Consequently, implementation of web application for time attendance system is appropriate and useful for this situation."
+"Moreover, this system can be applied and developed for the other organizations."

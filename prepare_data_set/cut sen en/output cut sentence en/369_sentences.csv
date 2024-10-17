@@ -1,0 +1,9 @@
+This research has developed a deep learning system for blurring images of inappropriate behavior.
+"Blurring inappropriate images can be challenging for employees, as these pictures and clips are often widely published."
+"Therefore, this paper presents a system that consists of three steps: training deep learning, detecting inappropriate behavior, and blurring the detected regions."
+The first step involves training the deep learning system using the Mask R-CNN model.
+"In the second step, inappropriate behavior is detected using Mask R-CNN."
+"Finally, in the last step, the detected regions are blurred using a Gaussian filter."
+"The results of the evaluation showed that the system's performance in blurring images was assessed using metrics such as Accuracy, Precision, Recall, and F1 score, calculated from the Confusion Matrix."
+"The metrics for the blurred images were found to be 0.72, 0.8, 0.86, and 0.83, respectively."
+"For videos, the metrics were 0.88, 0.93, 0.92, and 0.93, respectively."

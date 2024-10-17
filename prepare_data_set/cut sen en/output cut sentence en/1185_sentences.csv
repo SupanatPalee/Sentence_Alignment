@@ -1,0 +1,11 @@
+"Nowadays, Microchannel Heat Exchanger is widely used all over the world."
+It consist of tubes which have coolant flowing in for an exchange of heat and louver fins outside the tubes to enhance heat transfer.
+Changing the geometry of the louver fins is known to affect heat exchange behavior.
+This study focuses on an effect of 3 new zigzag patterns on louver fin surface to thermal efficiency of heat exchanger.
+Simulation of air flow over louver fins were performed by using commercial Computational Fluid Dynamics programme.
+The heat exchanger is made from Aluminum 3003.
+The inner surface temperature of the tube is constant at 10 oC.
+Air of which velocity is 5 m/s and temperature is 30 oC enters the heat exchanger and leave it to atmosphere.
+"From the result obtained, it was found that by making zigzag patterns on surface of louver fin results in an increase in heat transfer and pressure drop."
+Making too many zigzag patterns leads to an existence of vortex at exit of heat exchanger and therefore increases pressure drop.
+By comparing ratio of the increase in heat transfer to the increase in pressure drop resulted from using different zigzag patterns; it has been shown that zigzag louver fins with space between each zigzag give the highest efficiency.

@@ -1,0 +1,10 @@
+"The Laos-China railway was constructed as a part of the Belt and Road Initiative (BRI) strategy and officially opened on December 3rd, 2021.The development of transportation infrastructure under BRI strategy has had an effect on economy and transportation aspect of ASEAN countries, especially Thailand."
+"The XYZ is a logistics company, which is used as a case study, provides domestic and international postal services."
+"For international postal service, the XYZ provided services by air freight in collaboration with logistics partners."
+This study aimed to propose a mathematical model to support selecting distribution center location based on the XYZ case study.
+The model of the operation was the transportation from domestic originating cities to Laos by using the Laos-China railway.
+"The proposed model was a mixed-integer linear programming model by minimizing the total cost, which contained transportation cost, fees and operational cost."
+Microsoft Excel solver was adopted for optimization purpose.
+The results showed that Udonthani province can be the most appropriate location for the distribution center.
+The new distribution center can be built to alleviate air transportation cost and meet the demand of postal distribution.
+A sensitive analysis was also provided to investigate the impact of various parameters coefficients on the results.

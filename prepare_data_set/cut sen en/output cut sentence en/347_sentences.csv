@@ -1,0 +1,7 @@
+This paper presents an analysis of the electric field at the surface of pin type insulator model 56-2 which is used in a 22kV distribution system.
+The simulation is performed based on a mathematical model in the form of a differential equation with three dimension finite element method.
+"In addition, this paper focuses on the electric field comparison on surface insulator under three contaminate conditions such as dusts water drips and sea drips."
+"Moreover, the simulation results to analyze the chance of flash over phenomenon on the surface insulator."
+The simulation results show that the maximum electric field of 144.18 V/mm occurred while the insulator is under a sea drips contaminated condition and has the most possibility prone to flash over phenomenon.
+"On the other hand, the insulator installed on a water drips contaminated condition has the least possibility prone to flash over."
+"Keywords:  Pin Type Insulator, Flash Over, Finite element method, Contamination"

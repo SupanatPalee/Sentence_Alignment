@@ -1,0 +1,6 @@
+This paper proposes a folded stepped impedance resonator filter with a parallel-coupled structure for size reduction and improved spurious suppression using by the open circuit stub in the stopband.
+The design concept is demonstrated by using four SIR resonators with the fundamental frequency f0 of 4.5 GHz.
+"For a comprehensive treatment of the filter with open stub, the spurious response can be suppressed."
+The measured result is in good agreement with the simulated expectation with a 0.2 dB insertion loss and more than 15 dB return loss.
+"Moreover, this filter has a 5 GHz wide range frequency bandwidth response and wide range of the upper stopband is better than 15 dB rejection level and extended from 10 up to 17 GHz."
+"As a result, the proposed filter is quite useful for applications in short rang wireless communication systems."

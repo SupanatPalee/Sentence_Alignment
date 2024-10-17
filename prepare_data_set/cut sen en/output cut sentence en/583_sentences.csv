@@ -1,0 +1,8 @@
+This paper presents the design and construction of 3 speed levels electric wheelchair for disabilities controlled with hand by using microcontroller.
+"The speed can be controlled using 100, 80, and 60 percent pulse width modulation with the use of soft speed."
+"The construction consists of the battery voltage level detection circuit, the charger circuit, the Arduino MEGA2560 microcontroller circuit, the H-Bridge Driver SE-HB-80 motor driver circuit, 2 scooter motor gear and the manual lever to allow the wheelchair to move and navigate to different areas depending on user commands."
+"When using the manual lever, the command will be sent to the microcontroller Arduino MEGA2560 in which the system control program is written using C language."
+"Based on the operation test of this electric wheelchair, the microcontroller can take commands from the manual lever to process and control all functions of the electric wheelchair such as forward, backward, stop, turn right, turn left with the use of soft speed at 10% pulse width modulation for 150 ms."
+This electric wheelchair can support a maximum weight of 120 kg.
+"Thus, this wheelchair is very safe and can help minimize the user’s effort as well as the need for assistance from other people, society and government."
+"The materials used to make this electric wheelchair can be purchased locally or domestically, therefore it can save a lot of costs as well."

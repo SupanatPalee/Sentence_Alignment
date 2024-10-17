@@ -1,0 +1,12 @@
+The aim of this paper is developing a Fuzzy Logic Controller (FLC) to control climate with evaporative cooling system in model of poultyr house.
+"In recent year, many studys show that FLC has good performance and simple to apply with a complex system and poultry house climate control is nonlinear system which is complex and difficult to control."
+Thus we apply FLC to control this system.
+"By internal temperature and relative humidity, important index indicating thermal comfort, is feedback signal."
+"In the design, 2 FLCs used for controlling fans and pump."
+Both FLCs use the structure of 4 inputs and 1 output.
+The error and the error derivative of temperature and relative humidity are the input of the system.
+"These are translated to linguistic valuables by the membership function and through fuzzy processes according to If-Then rule which based on phase plane analysis to arrive at single value, and then defuzzification to get value of the change of ventilation rate and moisture production rate."
+The maximum and average error is collected to propose FLC comparing with a conventional control system.
+The result shows that FLC can control temperature in ± 1.5 °C range and relative humidity control in ± 20% range.
+The FLC has better performance than a conventional system.
+"For the future work , to improve relative humidity response the finer membership function should be apply."

@@ -1,0 +1,10 @@
+"The objective of this research was to apply geographic information system to analyze flood susceptibility in San Pa Tong district, Chiang Mai province using Frequency Ratio (FR) and Relative Frequency Ratio (RFR) methods."
+"Ten flood causative factors were analyzed namely elevation, slope, curvature, topographic wetness index (TWI), rainfall, distance from river, stream density, soil drainage, road density and land use."
+The inventory flood data was randomly separated into 70% training data and 30% testing data.
+FR and RFR methods were applied to assign the correlation values between class factors and the flood training data.
+"Then the flood susceptibility maps were prepared and classified into very low, low, moderate, high and very high."
+The FR method results revealed that the study area was classified as very high level of 42.8094 sq.km.
+(24.6809%) while the RFR method yielded the very high result of 48.9114 sq.km.
+(28.1989%.
+"The result from RFR methods also revealed that the three most influening factors were elevation, distance from river and soil drainage."
+"The validation results showed that the success and prediction rate of FR methods were 79.1719%, 79.2925%, respectively while the success and prediction rate of RFR method were 88.4687% and 88.8565%."

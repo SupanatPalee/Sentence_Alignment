@@ -1,0 +1,5 @@
+"The research aims to evaluate the effects of four main factors, including order picker routing policies, storage assignment policies, warehouse sizes, and pick-list sizes, on the picking travel distance in leaf warehouses."
+"The simulations of all possible combinations of levels were created which the outputs from them were, then, used as the inputs for a statistical study assessing the main and interaction effects from different factors."
+The result indicated that the four-factor interaction had a statistically significant effect on the picking travel distance.
+The two heuristics showed statistically significant different average travel distances.
+"Comparing to the exact shortest routing, the Leaf S-shape outperformed the Leaf largest-gap with optimal gaps of 18-28% and 31-37%, respectively."

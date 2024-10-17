@@ -1,0 +1,10 @@
+"In this article, the purpose is to demonstrate PD and LQR balancing robot design principles."
+"In that design, the robot uses the principle of dynamic movement and Newton's laws."
+The mathematical model of the balancing robot is not linear.
+Therefore the robot must convert the nonlinear balancing robot mathematical model to a linear one.
+A mathematical model of the balancing robot is applied to the controller design.
+"In the design of the controller for balancing robots, the researchers chose both controllers because they were easy to adapt to the system of the balancing robot."
+The Simulink was used to simulate motion and experiment with the controller's logic to stabilize the robot by simulating the system of the robotic balance used in the design of the controller and comparing the efficiency of the robot's angle and balance to maintain stability and eliminate potential interference in the system.
+The examination results compared the performance index of the balancing robot control system using both controllers.
+The control of the balancing robot system uses a controller to stabilize the equilibrium robot's angle and balance.
+The test results showed that stabilizing the balancing robot using the LQR control furnishes better stabilization than the PD controller.

@@ -1,0 +1,6 @@
+"The objective of this research is to study the electrical behavior of using residential that used electricity over 150 units per month and less than 150 units per month in Region 2, (Central Thailand) Chon Buri Province."
+"In each day, the electrical data are recorded every 15 minutes until 24 hours."
+The electrical data consist of the average electricity usage in workday and Sunday.
+The data are clean and analyzed by using k means algorithm.
+This research studies the electrical data from January 2012 to December 2019.
+"The result shows that in the workday and Sunday, the residential that used electricity more than 150 units per month has the highest of using electricity consumption in the period of 08.45 p.m. to 10.45 p.m. For the residential that used electricity less than 150 units per month has the highest of using electricity consumption in the period of 06.45 p.m. – 10.30 p.m. in the workday and 06.45 p.m. – 09.45 p.m. in the Sunday."

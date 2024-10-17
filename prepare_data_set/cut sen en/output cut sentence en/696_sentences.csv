@@ -1,0 +1,5 @@
+This paper aims to review the techniques for fault diagnosis in dynamic control systems.
+The basic concept including definition and type of fault is firstly addressed.
+"Following by the current fault diagnosis techniques published in the literatures such as hardware redundancy, model-based, data-driven and signal analysis approach."
+Discussion and future trend of the fault diagnosis are also presented.
+This information can be used for improving the fault diagnostic in dynamic control system.

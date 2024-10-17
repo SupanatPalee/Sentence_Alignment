@@ -1,0 +1,9 @@
+"The structural design against impact loading is generally used impact factor to increase capacity of structural member, which may not be very accurate."
+"This is because the impact force, reaction force, and especially inertia force are occurred in structural member under impact load, which are not considered in static problem."
+"In this research, the impact behavior of 9 simple beams, including reinforced concrete beams (RC) and rectangular concrete-filled steel tube beams (CFST) designed to have same load capacities and hollow steel beams (HS), under dropped steel hammer 160 kg from 700 mm height were observed."
+The results revealed that the most of impact force in early stage was absorbed by inertia force.
+The CFST beams which have elastic stiffness less than RC beams significantly showed the well impact loading performance.
+They can reduce the impact forced more than 7 times compared to RC beams with same load capacities and also reduced the reaction force from colliding events.
+The RC beams reached the brittle failure and HS beams occurred the local buckling at the impact point.
+"Nevertheless, CFST beams did not demonstrate any damage."
+These results illustrate that CFST beams are appropriate to resist impact load.

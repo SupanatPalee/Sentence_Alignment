@@ -1,0 +1,9 @@
+This article is aim to investigate a local time bias adjustment method to increase the accuracy of Pimai radar rainfall to be equivalent to ground rainfall.
+This study used radar rainfall at 1.5° elevation angle that measured under the radar’s umbrella 240 kilometers during May to October 2017 and rain gauge rainfall record from the 123 automatic rain gauge network.
+"Sixty-three rainfall events those are 50 calibration events (80%) and 13 verification events (20%), are taken to analyse local time bias adjustment method which vary on Thiessen Polygon area covering 20 kilometers radius from the automatic rain gauge station and previous rainfall accumulating of various duration: 1 hour, 2 hours, 3 hours, 6 hours, 12 hours and 24 hours."
+The results of this study showed radar rainfall estimating by using the equation Z=90R1.6 together with local time bias adjustment method which vary on Thiessen Polygon area covering 20 kilometers radius from the automatic rain gauge station and previous rainfall accumulating of 1 hour is the most suitable method for Pimai radar rainfall estimation.
+"This method gave the closest RMSE (Root Mean Square Error), MSE (Mean Square Error), MAE (Mean Absolute Error) to 0, and closest R (Correlation coefficient) to 1 between radar rainfall after adjusted and rainfall at automatic rain gauge stations in both calibration and verification events."
+"In comparison to initial radar rainfall estimating by using the equation Z=90R1.6, this method can increase the accuracy about 21.98% in the calibration and 41.59% in verification when considering from RMSE."
+"In the aspect of MSE, the accuracy increased about 39.18% in calibration and 65.90% in verification."
+"In the aspect of MAE, the accuracy increased about 22.65% in calibration and 37.67% in verification."
+"Finally, for the R, the accuracy increased about 32.76% in calibration and to 41.67% in verification."

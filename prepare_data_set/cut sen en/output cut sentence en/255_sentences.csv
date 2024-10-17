@@ -1,0 +1,7 @@
+More Electric Aircraft is an important concept and tendency of modern aerospace engineering which is possible through the use of power electronics to convert and control electrical energy.
+"Therefore, a controller design                            of power converters in the More Electric Aircraft in order to control the system to improve the efficiency                                  and to provide the system responses following on the standard is important and has to be considered as a top priority  in the design process."
+The higher controller performance resulting in the increased overall aircraft systems reliability.
+"For this reason, this paper presents the controller design of a permanent magnet synchronous generator-                             active front end rectifier-based DC electrical power system in the More Electric Aircraft using                                          conventional approach."
+The closed-loop transfer function can be derived from the dynamic equations                                      of the system.
+The controller performances are validated by the intensive time-domain simulation using MATLAB                    and the experiment through a test rig built in the laboratory.
+It shows that the resulting controllers can regulate                      and provide the DC bus voltage response both in the transient and the steady-state following on                                                       the MIL-STD-704F standard.

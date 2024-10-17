@@ -1,0 +1,5 @@
+This research paper presents the design and creation of automatic material separator in conveyor by PLC controlled system (programmable logic controller).
+It was applied the knowledge of control system method from automatic transfer and automatic control system method to operate this model.
+"It consists of 2 parts, programming software and hardware which the structure of hardware are operates by DC-motor and electro pneumatics system for transfers and selects type of material to the correct position."
+Its efficiency can find from the selected type error of material.
+The model worked well under most conditions and the capability of the model was at 97 % accuracy.

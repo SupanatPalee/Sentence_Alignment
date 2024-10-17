@@ -1,0 +1,10 @@
+"At present, termites are dangerous to a construction of the houses by their behavior in eating wood and expanding their habitat."
+"Because termites always hide behind the wall, above the ceiling or underneath the floor, drilling holes on these obstructions are inevitably."
+"With inaccuracy in detection, it leads to unnecessary damage of your house."
+Therefore this research aims to applying new technology Ultra Wideband Sensor in detecting movement of any objects by penetrating through all obstructions such as concrete or wooden wall.
+"In this study, an in house developed computer program using python is used to control the sensor."
+"From the result obtained, it was found that Ultra Wideband Sensor can detect movement of the objects at maximum distance of 9 meters."
+"From the signal obtained, it shows that objects in different motion give different signal."
+The big objects give a wider bandwidth.
+"Moreover, objects with fast movement can show high amplitude and this sensor also can identify the number of big moving objects."
+"Finally, after testing this sensor on site, it can detect the termites very well and give very accurate results."

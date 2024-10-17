@@ -1,0 +1,8 @@
+"The dust in the atmosphere (Particulate Matter with a diameter less than or equal to 2.5 micrometers; PM2.5) is the most significant air pollution in the northern region of Thailand, directly and indirectly affecting the health of the people."
+This pollution in Phayao province has consistently ranked in the top 3 of Thailand’s northern regions.
+Forecasting the concentration of PM2.5 in the atmosphere using a mathematical model is an alternative that can be employed as a guideline for planning solutions or preventing air pollution problems.
+Logistic regression analysis and data from the Thai Meteorological Department and Pollution Control Department were applied to this prediction model.
+The 5 years of data between 2015–2021 were utilized for this model and created using Python programming.
+"The results demonstrate that the independent variables of this model are PM10, NO2, O3 and CO."
+"The sensitivity and specificity are 0.96 and 0.72, respectively."
+The area under the curve (AUC) is 0.98.

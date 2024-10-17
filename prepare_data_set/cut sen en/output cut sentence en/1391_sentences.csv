@@ -1,0 +1,5 @@
+"This paper presents the non-ideal of ECG signal measurement which is caused from the common mode noise,  half-cell potential and tissue resistance."
+The problems are introduced that arise from measuring the small biological signals using the electrode probes.
+It is described in the form of a tissue-electrode interface of equivalent circuit model with the front-end amplifier circuit.
+"For the simulation using the various parameters compared with the distortion of the signal, the results found that the measured voltage of common mode noise is in the range of ±250 mV."
+The half-cell potential is in the range of ±150 mV and tissue resistance values does not exceed the input impedance of the front-end amplifier also make the circuit distortion less than 1%.

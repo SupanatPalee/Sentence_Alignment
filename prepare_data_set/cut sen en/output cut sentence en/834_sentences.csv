@@ -1,0 +1,5 @@
+This research presented solving multi-level crop planning problem of agriculture economy in the southern region of Thailand using algorithms based on Differential Evolution (DE) and Improved Differential Evolution (IDE) in order to find the maximum profit.
+"The algorithm sets were comprised of four types: 1) Differential Evolution, 2) Differential Evolution with local search by adding the step of local search after the selection process which uses Swap algorithm (DE-S), 3) Random best of Differential Evolution by improved methods from the process of mutation (DE-R), 4) Random best of Differential Evolution with Swap algorithm (DE-SR)."
+"The results showed that in the small test instances, all algorithms were not different as all of them can find the optimal solution."
+"In medium, large test instances and the real case, DE-SR presented the best solutions compared with the other proposed algorithms."
+"The maximum profits of the real case are 13,823,443.2 Baht per day."

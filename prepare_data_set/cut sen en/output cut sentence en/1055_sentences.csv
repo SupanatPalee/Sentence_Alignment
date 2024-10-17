@@ -1,0 +1,7 @@
+This research paper presents control of harmonics in single-phase electrical systems for residential buildings with shunt active power filtering mechanisms.
+This research was conducted in order to filter distorted currents from the sine wave form caused by nonlinear-load supply in a residential building.
+They cause harmonics in the electrical system which influence the performance of the power grid system.
+"In this research, the principles of the mechanism presented by the program MATLAB/ Simulink were tested, and the created prototype equipment was compared."
+This was to verify the presented system.
+The results of the system simulation showed that the harmonic generation (THD) could be reduced to be only 25.48%.
+This is verified that the mechanism can work as intended.

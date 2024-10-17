@@ -1,0 +1,7 @@
+"At present, perpetual futures contracts on cryptocurrency trading still face the risk of ruin."
+"Therefore, this research was conducted with the objectives of creating an algorithm of multiple indicators to predict the trading positions, developing the computer program for generating trading strategies, creating the automatic system for cryptocurrency perpetual futures contract trading, and measuring the financial performance of the automatic trading system."
+"The financial performance measurement was divided into two parts: a backward test, which involved evaluating historical data over a 3-month period, and a forward test, which involved testing system using current real trading data during a 3-month period."
+The total testing duration was 6 months.
+"The results revealed that both the backward and the forward tests achieved a 3-month profitability efficiency of 130% and 140%, respectively."
+"The overall accuracy rates were 72.00% and 80.39%, respectively."
+It has been shown that investing with the automatic system for perpetual futures contracts on cryptocurrency trading using the algorithm of multiple indicators to predict the trading positions has the potential to generate greater returns than the general traders.

@@ -1,0 +1,8 @@
+The aim of this research is to apply heuristics for scheduling production of plastic components in medical devices with the production process as a single machine and sequence dependent setup time.
+The proposed heuristic aims to minimize the total setup time under customer’s delivery date constraints.
+This study is conducted as follows.
+"Firstly, all relevant data (e.g., product characteristics, production conditions and job details) is reviewed."
+"Secondly, heuristic principles are studied and procedures are proposed to achieve the objectives."
+"In this paper proposes heuristics by applying from dispatching rule between EDD (Earliest Due Date), SPT (Shortest Processing Time) and CUC (Closet Unvisited City)."
+"Thirdly, evaluation of this method by comparing the results with the current EDD (Earliest Due Date) scheduling method by measuring the total setup time in each month with actual data from January 2019 until July 2021."
+The results show that the proposed heuristics can improve the current EDD (Earliest Due Date) scheduling method by reducing 36% on average of total setup time.

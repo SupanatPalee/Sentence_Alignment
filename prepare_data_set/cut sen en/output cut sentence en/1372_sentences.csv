@@ -1,0 +1,6 @@
+This paper presents the design and prototype of an automatic sliding roof system to facilitate the opening and closing of the roof with an IoT platform using the NodeMCU ESP8266.
+The design of the photo sensor and the rain sensor is described for an automatic sliding roof system.
+The operation of the system consists of 2 modes as mode 1: the system closes the roof during the day and opens the roof at night; mode 2: the system automatically opens and closes the roof according to the detection of the rain sensor.
+The rotational speed of the motor depends on the rainwater value that the sensor detects.
+"From the experimental results, it was found that the roof can open when the light sensor is activated and when the illuminance is less than 100 lux."
+The roof will be closed when the illuminance is greater than 100 lux.

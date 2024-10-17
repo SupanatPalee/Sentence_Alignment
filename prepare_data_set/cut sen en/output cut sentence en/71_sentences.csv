@@ -1,0 +1,8 @@
+This paper demonstrates the optical fiber sensor for temperature sensing using OTDR (Optical Time Domain Reflectometer) with the application of telecommunication optical fiber.
+OTDR measures the Rayleigh back scattering optical power signal at the part of fiber sensing for the analysis of the relationship between optical signal attenuation and the variation of temperature change.
+Sensor device composes of the optical fiber wrapped around the thin copper-plated cylindrical shape with diameter about 10 cm.
+"To observe the temperature effect, hot air will be brown by the hot air blower through the cylindrical fiber sensor."
+OTDR signature results from the sending of the optical signal with pulse width 30 ns at wavelength 1550 nm.
+The experiment was carried out for a duration of 60s for each optical pulse in the temperature range of 25-130 oC.
+The experimental results show that the attenuation of the optical signal at the part of fiber sensor varies as the temperature changes.
+The proposed system expresses potential applications for a temperature sensor.

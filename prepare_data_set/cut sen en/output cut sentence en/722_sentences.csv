@@ -1,0 +1,15 @@
+"This paper proposes an appropriate ordering policy to improve the efficiency of inventory management for the packaging group of 24 items in a semiconductor factory, this is to reduce total cost while maintaining service level at 95%."
+The total cost is comprised of ordering cost and inventory holding cost.
+This study was conducted as follows.
+"Firstly, all relevant data (e.g., inventory data, ordering conditions, and constraints) is reviewed."
+"Then, the demand is divided into 2 patterns: 1."
+Smooth demand 2.
+Erratic demand.
+"So, the grouped demand will be defined by the inventory policies."
+The concept of policy design is to be replenished at any time because the inventory is continuously reviewed.
+"Thus, the Re-Order point (ROP) policy and (s, S) policy are proposed for Smooth demand pattern and Erratic demand pattern consecutively."
+The proposed policies are tested with demand data from 2019 and 2020.
+"The results show a total reduction from 111,832 USD to 46,288 USD in 2019 or decreased by 58.61%, and from 132,886 USD to 51,404 in 2020 or decreased by 64.29%."
+"While the policy is still able to maintain the service level as Fill Rate in 2019 and 2020, the average per year is 95.13% and 95.36% respectively."
+"Additionally, the sensitivity analysis result shows that the proposed policy is robust to changes in demand patterns."
+There are only about 13% changes in total cost compared to 50% changes in average demand or the worst-case scenario for demand changes.

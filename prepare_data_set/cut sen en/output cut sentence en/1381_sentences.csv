@@ -1,0 +1,7 @@
+"Previously, the architecture and preliminary testing of MARS (Mahanakorn Satellite Receiving Station) were presented in Part-I article [1]."
+The real-time broadcasting images taken by Earth Observing Satellites (EOS) in LEO (Low Earth Orbit) were used for multiple purposes in GI (Geographic Information) applications.
+The continuing phase presented in this academic article is the practical operations of MARS and production of in-house GI.
+The MARS has capability to track and receive the series of NASA’s EOS and NOAA’s EOS.
+"In the practical operations, several passed over Thailand of satellite images are used for disaster monitoring every year, and hotspots location which caused bushfire in the northern part."
+The GI products are posted on MUT facebook account for public services.
+"Finally, on going work continue to extend the MARS capability, the C band antenna and SDR (Software Defined Receiver) will be installed and tested in near future for receiving images from geostationary satellite."

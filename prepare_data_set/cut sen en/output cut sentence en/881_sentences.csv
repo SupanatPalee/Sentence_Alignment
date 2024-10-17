@@ -1,0 +1,6 @@
+This aim of this research was to create a comprehensive guide for predicting product requirements and managing storage costs through the application of the simple moving average (SMA) forecasting method.
+"The investigation, initiated by filtering data from the total sales of a specific business, aimed to identify large-sized products within a designated product group, amounting to a total of 10 items."
+"Subsequently, an in-depth analysis of the sales data for these products was conducted to identify a suitable forecasting method based on the observed data patterns."
+"Following the analysis, it was determined that the optimal forecasting method for five of the products was the 6-month moving average, while the 2-month moving average was recommended for another four products."
+"Additionally, one product was advised to utilize the 4-month moving average."
+"The derived conclusion suggests that implementing these forecasting methods would result in an estimated annual reduction of approximately 9,729.70 Thai Baht per year in the overall cost of inventory management."

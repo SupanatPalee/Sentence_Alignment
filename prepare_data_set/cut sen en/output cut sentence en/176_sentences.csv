@@ -1,0 +1,6 @@
+Effective warehouse management is very important for running a business.
+An important step is to check the stock in the warehouse compared to the stock numbers stored in the system.
+This process requires multiple counting staff to check the stock of all products in the warehouse.
+It takes a long time to work and is costly and may cause errors in the inspection.
+"Therefore, our research objective is present a model for detecting H-section hot-rolled steel for stock checking."
+"A pre-trained model, YOLOV5m, is chosen and the learned transfer is used which can detect H section steel with precision is 0.992, recall is 0.822 and F1 score is 0.899."

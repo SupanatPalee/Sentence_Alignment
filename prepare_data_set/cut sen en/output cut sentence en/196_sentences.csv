@@ -1,0 +1,12 @@
+This research presents the improvement of water quality for ornamental fish tank using IoT technology (Internet of Things Technology).
+"The system improves the acidity and the alkalinity (pH), and the temperature of water in the ornamental fish tank using the ESP8266 as a temperature and pH controller."
+"The measured data were sent, received, and stored via a web application."
+"C++, JavaScript, PHP and MySQL were used to develop in this research."
+The aquarium size was 18”x36”x18”.
+The research was divided into 4 cases: Case 1) the pH values of the pH sensor were compared with those of the EUTECH PC700 pH meter.
+Case 2) the water temperatures from the temperature sensor were compared with those from the thermometer.
+Case 3) the system was tested for efficiency of pH control and monitoring.
+Case 4) the temperature variations were finally tested for the system.
+"From the experimental results, the pH sensor of the system had the measurement accuracy of 99.03% while the temperature sensor of the system had the measurement accuracy of 99.73%."
+The system could control and monitor the pH values and temperatures with on-off control.
+This system can be applied for a smart farm prototype using IoT technology.

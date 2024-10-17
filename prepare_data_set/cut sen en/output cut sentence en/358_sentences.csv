@@ -1,0 +1,6 @@
+Ferrite toroidal inductors are commonly used in electronic circuits due to their simple structure and low electromagnetic interference.
+"However, the ferrite core and copper coils, the main materials of the inductors, are sensitive to ambient temperature."
+This would effect to inductance of the inductors.
+This paper presents effects of ambient temperature in the range of 25-100 oC on inductance of ferrite toroidal inductors during electronics operation frequencies (20Hz-2MHz).
+The experiment results showed that inductance of the inductors increased when ambient temperature increases; especially at high frequencies.
+"The inductors with small size of copper wires had high variation of inductance compared with the larger size, while the inductors with less number of turns of coils had high variation of inductance."

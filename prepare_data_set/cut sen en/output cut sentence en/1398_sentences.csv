@@ -1,0 +1,5 @@
+This paper presents the analysis of channel estimation with the weight least squares algorithm in the reverse-link data transmission for Multiuser-MIMO.
+The weight least square algorithm is used for channel estimation method to compensate the signal distortion and to prevent the interference effect.
+"The MIMO-based system has a higher spectrum efficiency during data transfer, which may interfere the original data with each other from the inserted external signal."
+The weight least square algorithm is used for channel estimation method to compensate the signal distortion.
+Experimental simulation results show that the signal to interference plus noise ratio (SINR) obtained from the weighted least squares algorithm for the channel estimation in the reverse-link data transmission is higher than that of the conventional least squares method.

@@ -1,0 +1,11 @@
+The alternative way to create sub-smoothing domains within an element for smoothed finite element analysis was proposed in this research.
+Three sub-cell smoothing domains were established continuously with the utilization of symmetrical pattern over the entire problem domain.
+Strain gradient technique is the most important key to distribute strain field smoothly within smoothing domain.
+Two-dimensional plane stress problem employed for this research was a cantilever beam subjected to parabola shear force with a maximum magnitude of 1000 unit at free end.
+Two control parameters were used.
+The first one is meshing ranging from coarse mesh 16x4 to finer mesh 48x12 as the same 4:1 ratio of horizontal to vertical dimension of beam.
+The latter is measured as fracture of an element side.
+"The values of  were 0.2-0.3, 0.3-0.4 and 0.4-0.5 respectively."
+Numerically evaluated normal and shear stresses over the cross-section area at the middle span and displacement at free end were compared to the exact solutions accordingly.
+"Obviously, the free end displacement accuracy strongly influenced by the second control parameter."
+The normal stresses  at  equal to 0.3-0.4 and 0.4-0.5 compared to the exact solutions were found to be at the same accuracy while shear stresses were found to be dependent on mesh size than the value of .

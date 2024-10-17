@@ -1,0 +1,5 @@
+Capture-recapture method is widely used in a variety of fields including epidemiology to estimate the size of difficult-to-explore populations.
+"Many people are asymptomatic after contracting COVID-19, resulting in a significant number of concealed infections."
+This study applied capture-recapture method to estimate the total number of infected populations in Bangkok from November 2021 to January 2022 using Chao lower bound estimator and upper bound estimator under geometric distribution.
+"When the lower bound estimates were taken into account, it was discovered that there were 46,134, 35,427, and 58,083 cases in November, December, and January, respectively, representing 2.0249, 2.0089, and 2.0711 times the number of infected reported by the Department of Disease Control."
+"According to the upper bound estimator, there were 99,258, 76,443, and 125,377 cases in November, December, and January, respectively, representing 4.3567, 4.3347, and 4.4707 times the number of infections reported by the Department of Disease Control."

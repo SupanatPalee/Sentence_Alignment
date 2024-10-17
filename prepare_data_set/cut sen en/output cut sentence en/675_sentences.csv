@@ -1,0 +1,5 @@
+This paper presents the three-phase induction motor drives with back-to-back converter which is divided into two sides.
+"Three-phase full-bridge converter using voltage-oriented control is  connected with grid-side, and three-phase three-leg voltage source converter control by means of rotor field-oriented control in motor-side."
+Three-phase induction motor drive system in the paper is simulated with the help of MATLAB/Simulink.
+The simulation results revealed that three-phase induction motor had satisfactory performance and fast response.
+"Meanwhile, grid-side converter was capable of bi-directional power flow, kept dc-link voltage constant at 700 Volt, and had power factor of grid and total harmonic distortion of grid current, which was 0.922 and 2.33 percentage."

@@ -1,0 +1,9 @@
+This project aims to the prediction of optimal parameters in the TIG welding of AISI 304 Stainless steel using an artificial neural network.
+"In the implementation of the project, the TIG welding process was used without filling wire."
+Tungsten electrodes diameter 1.6 mm and base material of 50 x 150 x 2 AISI 304 stainless steel plate were used in this experiment.
+The workpieces were formed as butt joint which were welded in flat position.
+"The TIG welding process used 3 levels of welding current at 75, 95 and 115 amperes and 3 levels of welding gas at 10, 12 and 14 liters per minute as well as 3 levels of welding speed at 8, 10 and 12 inches per minute."
+The experiment was carried out on 3k factorial design and predicted tensile stress values by neural network techniques.
+"According to the results of this research, it was found that the maximum of tensile stress value was obtained with 115 amperes of welding current, 12 liters per minute of welding cover gas and 10 inches per minute of welding speed."
+"Which, the maximum of tensile stress value was 573.472 N/mm2."
+"From the experimental results, it was found that the tensile stress values could be predicted by neural network prediction with decision coefficient that 0.99636 It has a mean squared error (MSE) of 0.2485"

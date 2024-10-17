@@ -1,0 +1,8 @@
+"This article considers the carrier selection problem and the short-term freight allocation problem for an air freight forwarder, when the total demand exceeds the total space from the block space agreement (BSA)."
+"We propose a mixed-integer linear programming model for these two problems, whose decisions greatly affect the freight forwarder’s cost."
+Our model considers both the freight charge and the cost of transit time so that a direct flight is preferred to a non-direct flight.
+"In the case study, we apply our model to the actual export demand during April 2020-July 2021; the top five export traffic lanes are Narita, Hong Kong, Shanghai, Manila and Jakarta, respectively."
+"When we compare to the actual operations during the average month in each lane, we find that our model reduces the cost by 3.05% or approximately 15 million THBs."
+"Furthermore, we perform sensitivity analysis with respect to the capacity per pallet and the cost of transit."
+"We find that as the capacity per pallet increases, the cost decreases."
+"When the transit cost is sufficiently high, the direct flights are always selected; therefore, the freight charge remains the same."

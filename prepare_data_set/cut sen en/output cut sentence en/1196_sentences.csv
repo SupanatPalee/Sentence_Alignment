@@ -1,0 +1,14 @@
+"Nowadays, most of the electricity is produced from petroleum, and coal."
+These fuels aredepletable and produce toxic to the environment.
+"In addition, the electricity demand is increasing.Many researches have been focusing in energy management."
+Load profile clustering is one ofthe energy management tools.
+"In this paper, one of the most efficient clustering method, ParticleSwarm Optimization Clustering (PSOC), was firstly explored in load profile clustering."
+The resultswere compared to the K-mean clustering which was a widely used method.
+It is a standard dataclustering method.
+There were total of 482 load profiles.
+Each load profile was energy consumptionrecorded every 15 minutes for a 24-hour period.
+"Therefore, there were total of 96 points in oneload profile."
+The load profiles were cleansed and normalized.
+"Then, they were clustered by particleswarm optimization and K-means clustering methods."
+The best number of groups was identifiedusing the Knee method.
+"The results could be concluded that the particle swarm optimizationclustering method provided a better result than the K-means clustering method, and the particleswarm optimization clustering method converged faster than K-means clustering method."

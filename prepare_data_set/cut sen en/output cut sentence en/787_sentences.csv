@@ -1,0 +1,15 @@
+The objective of this research is to design of optimal layout and storage location assignment for warehouse efficiency improvements in a diaper manufacturing.
+The current problems of this case study are that there are two warehouses where were faced with inefficient operations in term of lower space utilizations.
+"The space utilization of a first warehouse is over the minimum standards about 151%, while facing lower space utilization (17% out of overall available spaces) in the second warehouse."
+This is caused by the ineffective storage policy that keep only few types of raw materials in the first warehouse.
+"Furthermore, there is unnecessary travel distances of pickers because of inappropriate warehouse layouts, resulting in the excessive costs of production."
+"To overcome these issues, this research was collected the data on SKUs’ picking frequency for reconsidering the warehouse layout and storage relocation."
+"Two models are proposed in this study, namely ABC class-based layout and Storage Location Assignment."
+Both are analyzed and make a performance comparison for finding the best model that can help improve the better warehouse efficiency.
+"In the class-based model, we applied ABC analysis for finding the classes of SKUs regarding the high, medium and low-frequency and assign the items into the appropriate zones."
+"For another model, we formulated the problem as Storage Location Assignment Problem (SLAC)."
+"The idea is that the fast-moving SKUs should be located close to the I/O stations and the optimal solution, obtained by Open Solver."
+Our analysis shows that the optimal based-layout has better efficiency than the class-based one.
+"With the new layout, the case can gain benefit of better warehouse efficiency in terms of the traveling distance reduction from 77,592 to 35,760 meters (54%) and the transportation cost reduces by 39%."
+For the space utilization performance is also significantly improve.
+"The first warehouses can reduce the over utilization problem from 151% to 96%, while increasing the space utilization of the second warehouse up to 99%."

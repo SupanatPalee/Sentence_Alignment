@@ -1,0 +1,6 @@
+"This paper presents coordination of directional overcurrent relays by optimization technic using memetic algorithm, combined with genetic algorithm and shuffled frog leaping algorithm."
+"In addition, this paper proposes a new unconstrained objective equation to reduce miscoordination of main and backup relays, considered near and far-end faults."
+"The proposed method is implemented in two different test cases, three and six bus network."
+"The results show that, in the case of the 3 bus system, the discrimination times are decreased."
+"And in the case of the 6-bus system, the proposed objective equation can reduce miscoordination, at the far-end fault, from 8 points to 2 points."
+It is found that the effectiveness and superiority of the memetic algorithms compared with the performance of genetic and shuffled frog leaping algorithm.

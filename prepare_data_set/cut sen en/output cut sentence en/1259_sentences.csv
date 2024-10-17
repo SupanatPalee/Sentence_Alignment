@@ -1,0 +1,7 @@
+The turbulence models are only valid in the turbulence flow which fully developed.
+"Near walls, the turbulence Reynolds number is low and turbulence models do not perform well."
+The wall functions can be used to model the near wall region efficiently.
+"The two-equation turbulence models compose of , , , and  models in OpenFOAM which is the open source software without the license cost and opening to edit codes had been applied with the wall functions for the flow validation."
+The 3-D lid-driven cavity flow models by turbulence models were developed to compare with the experiment.
+The wall function was applied on walls of the cell structure of each flow model.
+The comparison shown that the  model with the wall function of viscous sub-layer () could represent flow behaviour inside the 3-D lid-driven cavity models correctly with the experimental results.

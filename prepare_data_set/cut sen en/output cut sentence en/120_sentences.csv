@@ -1,0 +1,9 @@
+This paper proposes a mathematical model of silicon photovoltaic for photovoltaic system analysis.
+The electrical equivalent circuit of solar module is model by MATLAB-Simulink block diagram.
+"The Mathematical model is verified by adjusting the parameters of mono-crystalline 30Wp, 100Wp and poly crystalline 150Wp, 280Wp."
+The mathematical model was compared against the solar analyzer measurements at different intensity and temperature values in 5 samples.
+The results showed that I-V curve and P-V curve of mathematical model was similar to the curve obtained from solar analyzer measurement.
+"As for the remaining variables, the maximum current of poly crystalline P.V."
+at 280Wp had maximum average error 7.93% at standard deviation 4.88% and Fill Factor (F.F.)
+of every P.V.
+was between 0.75-0.8 both the solar analyzer measurement and mathematical model

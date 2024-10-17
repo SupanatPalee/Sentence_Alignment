@@ -1,0 +1,6 @@
+"This study aims to compare the areal daily rainfall interpolation derived from ground measurement rainfall by applying 3 techniques of areal interpolation: Co-Kriging, Thin plate spline, and Thiessen polygon."
+All the techniques were used with SRTM-DEM numerical topographic information of NASA whose horizontal resolution is 90 meters by using daily rainfall data from 12 rainfall stations in Tapi Basin and 8 adjoining stations.
+"This study focused on rainfall data in November 2010, March2011, November2011, and January2012 by testing the accuracy of the interpolation using ME, MAE and RMSE."
+"The result shows that in southern part, whose topography is plain area with few mountains, ME from all methods were negative which means that the interpolation was over-estimated."
+"It was also found that the best ME and RMSE came from Thin plate spline technique, following by Co-Kriging and Thiessen Polygon, respectively."
+The Thin plate spline is suitable areal rainfall interpolation in Tapi Basin.

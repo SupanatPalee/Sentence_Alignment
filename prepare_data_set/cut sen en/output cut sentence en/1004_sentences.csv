@@ -1,0 +1,6 @@
+This research has brought the Internet of Things technology to support automatic machine development.
+"It aims to design and develop a mini CNC milling machine-controlling system with high-precision suitable for wood, acrylic sheet and small workpieces, and easy to move when compared with a large machine."
+"This research was carried out by using ADDIE Model, including analysis, design, development, implementation, and outcome evaluation of small CNC milling machines."
+"The CNC milling machine operation can be controlled via a web browser developed by Node-RED software and the instruction dataset is transmitted by MQTT Protocol, a core standard protocol of ISO/IEC 20922:2016."
+The results showed that the movement of the mini CNC milling machine can be controlled precisely.
+"The variation in the X-axis is 1.00, the Y-axis is 1.00, and the Z-axis is 0.99, and it also reduces the problem of installing the driver package on the operating system."

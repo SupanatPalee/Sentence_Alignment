@@ -1,0 +1,11 @@
+This research presents mathematical modeling of prestressed concrete piles embedded into the area where the top layer was a soft clay and the stiff clay was a second layer.
+The end of the pile sat on a dense layer of sand.
+The PLAXIS 2D was used to model a solid square single pile in the size of 0.35x0.35x12.00 m. The loading capacity was 490 kN with a safety factor of 2.5.
+"The simulation procedure was done by increasing the load up to 2.5 times the designed load, then the load was gradually reduced to zero."
+"From the simulation, the load capacity of the single pile and the settlement were obtained."
+These results were compared with the results obtained from the Dynamic Pile Load Test (DLT) of 8 piles.
+The analysis revealed that most of the DLT tests had lower settlement Residual Displacement (RMD) values than the PLAXIS 2D model for all ranges of loading.
+"However, it was found that one single pile had a higher settlement value than the other piles and also higher than the simulation value of about 47%."
+This resulted in variability in the DLT testing.
+The analysis also found that the loading capacity of the piles obtained from the DLT testing was not directly proportional to the reduction of settlement and the safety ratio was up to 3.0-3.7 times.
+And DLT testing should be more than 3 piles for averaged and analyzed in conjunction with PLAXIS 2D for a more reliable load capacity.

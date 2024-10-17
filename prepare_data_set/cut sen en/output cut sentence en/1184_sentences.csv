@@ -1,0 +1,10 @@
+"Nowadays, to achieve a high performance of small size electronic device, it requires a high performance of liquid cooling and heat sink."
+"There are many factors affecting heat sink performance such as fin shapes, fin dimension, gap space of fins, number of fins, array of fins, position of heat surface and type of cooling liquid in heat sink to be considered."
+This research focuses on a simulation of cooling liquid flow through micro pin fins in heat sink by using commercial Computational Fluid Dynamics Programme (CFD).
+An effect of flow direction at inlet and outlet of heat sink was studied.
+The angle between inlet and outlet to the side surface of heat sink was varied from 0 to 90 degrees.
+"The pressure drop was set to be less than 3000 Pa. Fins are made of 6061 aluminum with diameter of 0.66 mm, staggered array and have porosity of 0.67."
+Correlations between pressure drop and thermal performance were also investigated.
+"From the results obtained, it was found that the best angle between inlet and outlet to the side surface of heat sink is between 75 and 90 degrees."
+"This is because at these angles, there will be a formation of large vortex at the inlet of heat sink."
+This results in a uniform low temperature distribution at the base of heat sink and therefore gives a high heat transfer performance.

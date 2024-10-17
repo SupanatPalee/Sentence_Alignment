@@ -1,0 +1,12 @@
+This research presents the effect of temperature in rubber latex on the measured electrical power.
+"While measuring the dry rubber content in the latex with Six-Port Reflectometer (SPR) at frequencies are 1,1.5 and 2.16 GHz."
+This research prepares rubber latex samples from dilute concentrate rubber latexes in the range of 20-60 %DRC and in the temperature range of 20-45 °C.
+We aim to study the effect of rubber latex temperature cause to reflected power obtained from SPR.
+"The measurement with the SPR technique uses a wide-band microwave oscillator, a six-port circuit, a tunable matching circuit, and a microcontroller for collecting latex temperature."
+"This research uses 3 frequencies value consisting of 1,1.5 and 2.16 GHz."
+Those frequencies are transmitted to SPR and measure the %DRC of samples.
+"From the study, we found the linearity between the powers read from SPR and %DRC and the effect of rubber latex temperature on the power read from SPR."
+With a coefficient of determination (R2) and coefficient of variation (CV(%)) respectively.
+"From the test results, it was found that at a frequency of 1 GHz, the power value had the most linear relationship with the %DRC value, so it was suitable for measuring the %DRC value as close to the actual %DRC value of latex as possible."
+"As for the effect of latex temperature on the power value read from SPR, it was found that at a frequency of 2.16 GHz, the coefficient of variability of latex was the least."
+This means it is affected by the lowest latex temperature.

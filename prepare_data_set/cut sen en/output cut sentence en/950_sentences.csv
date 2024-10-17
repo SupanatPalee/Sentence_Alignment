@@ -1,0 +1,9 @@
+Limitation of GPS System for indoor using is the obstacle of satellite signal which is unable to calculate for the position.
+"The objectives of this research are development of indoor positioning system using wireless lan network signal and received signal strength indicator (RSSI) as the comparative information along with data comparing module (DCM) and positioning error from data position processing in 3 methods, namely 1) Mode 2) Minimum Mean Square Error and 3) Minimum Standard Deviation."
+Research.
+The Result for the room with 8 metres width and the length 10 metres.
+Together with three access points installed using minimum mean square error has minimum average error at 2.33 metres which is close to minimum average standard deviation at 2.38 metres.
+"For indoor case on 1st, 2nd and 3rd floor using the existing access points."
+Mode for position data processing found that minimum error average equals to 7.10 metres which is close to minimum average mean square error at 7.45 metres and differ from minimum standard deviation with in statistical significance at confident level of 95% (p<0.05).
+This research indicates that in the area of access point the signal strength the positioning error decrease.
+"Moreover, the most accuracy in position processing is minimum mean square error, it is suitable for applying to indoor positioning system using wireless LAN network signal along with data comparing module (DCM)."

@@ -1,0 +1,9 @@
+The research discusses the single order inventory replenishment policy for a system consisting of three inventory items with substitutability.
+The leftovers of lower-cost inventory items can be either used to satisfy those demands occurred from the shortage of higher-cost inventory items with a specified ratio or sold at their salvage value.
+"In order to determine the proper order quantity for each inventory item, the method based on the concept of mathematical solving on a Monte Carlo simulation model is proposed."
+"This can be done by modeling the system on the Microsoft Excel platform and, with the objective function of maximizing the expected system profit, applying the solver function to determine a good solution."
+"For the performance evaluation, 120 experimental problems are randomly generated considering two main factors, salvage value (2 levels) and substitution ratio (2 levels), with 30 replications for each treatment combination."
+"The solution obtained from the proposed method is compared with the solution yielded from the traditional benefit analysis method, which is to independently determine the single order quantity of each inventory item without the consideration of substitution opportunity."
+"According to the study result, in comparison to the benefit analysis method, the proposed method provides a larger expected profit for all 120 experimental problems."
+"Moreover, the main influences of salvage value and substitution affect the percentage difference in profit between the proposed method and the benefit analysis approach."
+"Here, the percentage difference in profit increases at the lower levels of both factors."

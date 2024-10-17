@@ -1,0 +1,6 @@
+This paper presents a mathematical model for rail potential calculation in the DC electrified railway with two traction substations.
+"The rail potential and traction substation voltage are essential for supply equipment, passenger safety and railway infrastructure protection against corrosion, all of which must comply with requirements and standards."
+The classical and simplified mathematical models are described in this study to analyses the rail potential and current.
+"In addition, the simplified equations for estimating the rail potential and traction substation voltage are derived to simply determine the stray current."
+These equations can be used to analyses and calculate the stray current based on the approximate rail potential.
+They are also validated according to the equations in EN 50122-2

@@ -1,0 +1,7 @@
+This paper presents a mathematical model of system with constant power loads.
+These are speed controlled permanent magnet synchronous motor drive and output voltage controlled buck converter.
+The considered CPLs are feeded by a three phase rectifier via the DC-link filters.
+The DQ method and the generalized state-space averaging method (GSSA)  are used to derive the dynamic model to achieve the time invariant model.
+The proposed model is suitable for the stability analysis due to CPL.
+The simulation via the exact topological model of MATLAB is used to validate the proposed model.
+The results show that a good agreement between the derived model and the exact topological model can be achieved.

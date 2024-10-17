@@ -1,0 +1,11 @@
+This research presents the method of using the Volterra series for MDOF nonlinear system.
+It is displayed in the form of a matrix to simplify the presentation.
+To achieve an understanding of the use Volterra series with MDOF nonlinear system.
+Volterra series is applied to the two degrees of freedom nonlinear system in single input multi output (SIMO).
+The calculated first and second-order transfer functions are presented as graphs.
+The graphs of the second-order transfer functions are presented at frequency  .
+It can be seen the subharmonic frequency is half of the fundamental frequency.
+The graphs of the third order transfer functions are presented at a diagonal line at .
+"From the graph, it can be seen the subharmonic frequency is lower than the fundamental frequency, which is one-third of the fundamental frequency, and it is found that some frequencies interfere with the fundamental frequency."
+This kind of frequency cannot be seen in the first-order transfer function.
+"In practice, this subharmonic frequency may appear in the transfer function obtained from the signal measurement."

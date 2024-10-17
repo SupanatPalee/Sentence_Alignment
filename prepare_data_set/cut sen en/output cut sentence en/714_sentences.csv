@@ -1,0 +1,4 @@
+IOT Prototype for Post-Test Satisfaction of Students' Kindergarten aimed to develop the prototype for testing satisfaction assessment after class and to store these satisfaction of kindergarten students.
+This prototype was built from radio frequency identification (RFID) technology and push button switch connected to microcontrollers (NodeMCU)which can sent data to the server's database system and illustrate the summary report on the website.
+The research result has showed that the IOT Prototype for Post-Test Satisfaction of Students' Kindergarten worked effectively and the satisfaction from sample group is very satisfied.
+"(= 4.59, S.D.= 0.29)."

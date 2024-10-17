@@ -1,0 +1,9 @@
+This paper presents mathematical model of the electric vehicle drive systems.
+"This proposed mathematical model focuses on the traction force, the battery, the three-phase induction motor, and the whole parameters of the mathematical model."
+Indirect vector control is used for the control method of electric vehicle drive systems.
+The parameters of the controller have been designed to be suitable for the speed control of an electric vehicle.
+The hardware in the loop (HIL) simulation was applied to confirm the speed control performance of electric vehicles.
+The MATLAB/Simulink program was used with the TMS320F28335 microcontroller board for HIL simulation.
+The results of the simulation show that the proposed mathematical model of the electric vehicle drive system is correct.
+It can be applied to the design of the speed control system of an electric vehicle.
+"Moreover, the proposed indirect vector control can provide a good performance for the speed control of an electric vehicle."

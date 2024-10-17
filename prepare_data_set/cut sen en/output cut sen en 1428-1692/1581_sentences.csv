@@ -1,0 +1,10 @@
+This paper presents an experiment to measure the internal resistance of a multimeter in the Tinkercad program.
+"This multimeter has three operating modes: ohmmeter mode, ammeter mode and voltmeter mode."
+The experiment is designed using a DC voltage source in ohmmeter mode as the input signal to the resistance to be measured.
+The relationship of the variables in a circuit is arranged in the form of a linear equation.
+The resistance analysis of the multimeter in each mode can be determined from the slope of the curve.
+"The results showed that the ohmmeter mode and the ammeter mode have internal resistances of 100±1 mW and 100±33 mW, respectively, which are very low values."
+The voltmeter mode has an internal resistance of 100±1 MW which is very high resistance.
+It is also found that the ohmmeter mode has the 1.00±0.01 V DC voltage source.
+The properties of the resulting curves have good linearity.
+"These experiments are suitable for applying to the experimental kit of students in the fields of electrical-electronics, physics and measurement technology."

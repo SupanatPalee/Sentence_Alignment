@@ -1,0 +1,5 @@
+The purpose of this research was to construct model for predicting the price of Jasmine Paddy Price.
+"Data used to study the average monthly price of jasmine rice from january 2010 to december 2020, 132 values, divided into two sets."
+"The first set from January 2010 to December 2019, 120 values were used for the modeling by of box jenkins method, bagging and random forest."
+"Another set from january 2019 to december 2019, 12 values were used for checking the accuracy of the forecasting models via the determination of the lowest root mean square error and mean absolute percentage error."
+"The results showed that all forecasting methods studied, the random forest was the most appropriate method."

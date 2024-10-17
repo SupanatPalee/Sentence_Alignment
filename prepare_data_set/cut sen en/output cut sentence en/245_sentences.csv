@@ -1,0 +1,4 @@
+This paper presents axisymmetric free vibration behavior of semi liquid-containment toroidal shell with constraint volume condition using membrane theory.
+Energy functional of the shell system can be derived by the principle of virtual work in terms of displacements and it is expressed in the appropriate forms.
+Natural frequencies and the corresponding mode shapes can be calculated by finite element method with one-dimensional beam elements described in polar coordinate.
+"The results indicate that the changing of bulk modulus of the internal liquid has a little effect on the frequency parameter of the shell structures with constraint volume condition, whereas effects of variations in thickness, cross-sectional radius, initial internal pressure, and elastic modulus have a major impact ones."

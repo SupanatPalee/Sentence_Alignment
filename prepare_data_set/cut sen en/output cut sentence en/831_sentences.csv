@@ -1,0 +1,12 @@
+The purposes of the study were to investigate and analyze factors affecting to Napier mowing by using the design of experiments.
+The factors were the movement speed (kilometer/hour) and the speed of cutting head (round/minute) which affected the length of the grass.
+The experiment examined with 45 days and 60 days Napier through designing with full factorial design.
+"After that, the grasses were cut by adjusting order."
+The data of the experiment were analyzed through the statistical analysis programs.
+The results had shown that the movement speed and the speed of cutting head of Napier mowing affected the length of the grass significantly at 0.05.
+"Moreover, when cutting 45 days and 60 days old grass by the 50 horsepower tractor which the movement speed 5 kilometers/hour, and the speed of cutting head was 1,800 round/minute in an hour, the machine could cut the grass averagely at 6.84 tons with 3-5 centimeters long of grass."
+This paper presents to a development process of a movable warehouse racking system.
+"The structure of movable warehouse racking system composes of 1) two-nonmovable rack units, and 2) two-movable rack units."
+Each movable rack unit is designed to support 50 kg of capacity per unit and is driven by a ball-screw with a 24VDC servo motor as an actuator.
+"For the control system of automated storage system, a computer is used to be a main hardware controller, a program is developed for controlling the system via LabVIEW, and CAN bus is chosen to communicate between computer and motor drive."
+"The experiments show that the developed system can work well and the movable rack unit consumes the maximum electric current about 5.31 A at 0.167 m/s of its speed, which effects to the goods package to slip about 0.004 m."

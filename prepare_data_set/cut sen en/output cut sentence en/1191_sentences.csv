@@ -1,0 +1,7 @@
+The temperature measurement of billets in iron and steel industry during conveyance is important to the production but difficult.
+"Thus, the purpose of this research was to develop a numerical simulation model in order to predict the temperature distribution of a billet during conveyance and verified the result from simulation with billet temperature data from a thermal camera."
+In this research two-dimensional finite-difference fully implicit method was applied to solve the heat conduction inside the billet to calculate billet temperature distribution.
+The billet in the model was considered to have heat loss to surrounding from only convection and radiation.
+The temperature distribution of billet from the simulation was used to calculate the heat loss rate compared to the heat energy consumption needed to heat a billet after conveyance for various times to 1250 degree Celsius.
+The research results indicated that the temperature distribution of a billet from the simulation was differed to the data from the thermal camera within the range of ± 9.827 %.
+This research would possibly benefit the improvement of temperature measurement and control system including heat loss control system of billets in the production line.

@@ -1,0 +1,8 @@
+"This paper presents the study, design and development of a long distancing control and alarm system for street light maintenance using LoRa."
+The data of street lights were collected for street light maintenance planning.
+The sun path theory was used to calculate the optimal time for data collection.
+"It was found that the optimal time for collecting street light data was the time that was closest to the officer's working hours and was the time when the street lights were still on, that was about an hour before sunrise."
+"The performance of different maintenance systems with different sensor types were designed and evaluated, which were the systems that used only the light sensors, the system with only the current sensors and the system with both the current sensors and the light sensors."
+"The experimental test-rig was setup with 3 different types of light bulbs: normal bulbs, flashing bulbs and defective light bulbs."
+"Then, the experiment results in terms of costs, energy consumption and precision were analyzed and compared."
+"It was found that the system using either light sensors or current sensors solely achieved was about 50.79 % cheaper than the system with both two sensor types, but had the drawback of being less precision in data transmission and consuming more power than the system that combined both two sensor types, which would save more than 52.38% energy."

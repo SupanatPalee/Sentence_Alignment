@@ -1,0 +1,9 @@
+"This research aims to 1) develop a user interface for a smart farm control system, 2) evaluate the performance of a user interface for a smart farm control system, and 3) study satisfaction with the use of user interfaces for smart farm control systems."
+"The design of this coordination device will control devices, including temperature and humidity sensors, light sensors, and soil moisture sensors."
+It uses an ESP32 microcontroller board to control the work and processes the values received from the sensors to control the work of a relay that acts as an on-off switch for electrical equipment and displays the results on the LCD screen where control conditions can be set.
+"Then, they were used to train a sample of 35 people from the Pu Sawan community, Phetchaburi Province."
+"The results found that 1) the user interface for the smart farm control system can display temperature measurement results, relative humidity, soil moisture, and lighting."
+"Including setting the operating conditions of electrical equipment and lights to indicate the operating status of the equipment within specified limits, 2) evaluating the performance of the user interface for the smart farm control system by taking readings from the sensor devices against the conditions set on the ESP32 microcontroller board."
+"There were no deviations in the operation of the electrical equipment, and the overall quality of the tool is at a high level (  X= 4.44, S.D."
+"= 0.73), and 3) the Pu Sawan community that received the training was satisfied with the overall use at the highest level (  X= 4.55,  S.D.= 0.73)."
+"Therefore, it can be concluded that the user interface for smart farm control systems can be optimized."

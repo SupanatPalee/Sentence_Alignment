@@ -1,0 +1,9 @@
+Most of the manufacturing processes in Thailand are characterized as separate processes.
+Supplies are transported from the starting location to the next location.
+This paper presents the design and development of a low-cost Automated Guided Vehicle (AGV) for supply transporting during each production process.
+The size of load does not exceed 10 kilograms and the AGV is designed from the concept of a power unit of a stepping motor.
+It uses an Arduino with sensors to control its operation along the running track in the factory.
+"Moreover, it can be controlled via an application with NodeMCU board."
+The results reveal that the chosen stepping motor has enough power to handle the load of the vehicle and to move by sending a command from the application to the vehicle to run from the departure location to tow a pickup car at a speed of 1.344 km/hr.
+The AGV can transport supplies to the designated location when someone commands via the application.
+"In-between destination, if someone or something is in the way and blocks the route, the vehicle will be stopped, and when there is nobody and nothing obstructing its route, the vehicle can continue running."

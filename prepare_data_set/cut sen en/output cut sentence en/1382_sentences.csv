@@ -1,0 +1,6 @@
+This paper presents a study of the Kria KR260 processing hardware for robots.
+It is a development platform based on Kria SOM for robotics and factory automation.
+It enables robotics and non-FPGA-savvy industrial developers to develop applications with processing hardware.
+Image and video processing Industrial communication and control Developers can take advantage of the Robot Operating System 2 (ROS 2) 2nd generation robotic operating system and enhanced performance through the Kria Robotics Stack (KRS).
+"It is an innovative industrial robot platform with ROS2, which enables real-time performance of APPGA-based hardware."
+And an emphasis on safety architecture makes the Kria KR260 the new choice for robotics and industrial developers.

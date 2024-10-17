@@ -1,0 +1,11 @@
+"In this paper, a Kriging model was applied to determine the relationship of a biogas production system."
+The operating system used various raw materials mixed and was not fed in constant proportion depending on the season of the raw materials.
+This causes the relationship of the system to be non-linear and highly uncertain.
+The Kriging model was chosen because it is highly efficient for describing nonlinear relationships and is an interpretable model that was trained to approximate the predictions of a black-box model.
+"Therefore, the data that affects a biogas production factor from the automation system was used."
+"Napier grass silage, cassava pulp, chicken manure, cow dung and the biogas production temperature were variables to build the Kriging model."
+"As a result, the most significant variables affecting biogas production model and methane content model was cassava pulp and the least effect was cow dung."
+The models were calibrated with actual operating data.
+"As a result, the biogas production prediction model and methane content prediction model had an RMSE (root mean square error) of 1.42% and 1.25% respectively and had an r2 (correlation coefficient) of 0.9981 and 0.9973 respectively."
+"Therefore, the models can predict."
+"Moreover, it can also represent the behavior of biogas production systems for optimization to control the biogas production system effectively in the future."

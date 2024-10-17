@@ -1,0 +1,8 @@
+The purpose of this study is to use simulation techniques to examine the production scheduling process for parallel machines.
+"This examination focuses on improving the work sequence in the machine and making the most cost-effective use of raw materials, as well as delivering goods on time to customers and reducing total uptime (Makespan)."
+"After examining and collecting data on the planning and sequencing operations of the plastic packaging factory, it was discovered that there was a problem in determining how to assign work to the machines due to a lack of systematic analysis of production scheduling."
+"In addition, the sequence is based on the planner's experience in the production planning department, so scheduling systems and tools can't tell if the current sequence is the best one."
+The researchers then used simulation techniques to create all possible alternatives and identify the best solution for the sequencing process on the machine.
+The simulation results showed that sequencing using simulation techniques can create a total of 40 possible alternatives.
+"In addition, 96,018.01 seconds is the most ideal total uptime, compared to the 208,850 seconds that the current production sequence worked for."
+"This reduces the total uptime to 112,831.99 seconds by 54%."

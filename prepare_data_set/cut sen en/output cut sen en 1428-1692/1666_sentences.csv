@@ -1,0 +1,8 @@
+This article presents voice recognition techniques with the micro-controller devices.
+The devices recognized speech voice commands by converting it into a text message using the Google cloud speech-to-text API.
+The photo was taken by the system when the converted text message is matched with the words in the dictionary.
+The matter photo was then captured and stored on the Firebase cloud storage database while abnormal notifications were sent to the LINE application timely manner.
+"As a result of finding, it is found that the voice recognition system can accept a variety of commands."
+A warning message will be sent to the relevant parties in a timely manner.
+"To evaluate the system, we conducted the testing by 15 times of the event simulation for performance measurement."
+The system can be applied to check the abnormal situation in the school or the safety management organization.

@@ -1,0 +1,4 @@
+The objective of this research is to propose a mixed EWMA-OSMTC for detecting process mean when the process is symmetric distributions.
+"The performance of  EWMA-OSMTC is compared with Tukey’s control chart (TCC), Optimal Synthetic Tukey’s control chart (OSTC) and Exponentially Weighted Moving Average – Modified Tukey’s control chart (EWMA-MTCC), usually measured by the Average Run Length ()."
+The in control average run length () is given to 370.
+"In order to approximate ARL, the Monte Carlo simulation method is used and the numerical results found that EWMA-OSMTC is superior to TCC, OSTC and EWMA-MTCC for all magnitudes of change."

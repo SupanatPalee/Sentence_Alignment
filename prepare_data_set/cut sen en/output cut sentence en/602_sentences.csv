@@ -1,0 +1,13 @@
+This research aims to reduce the defective rate in the painting process of motorcycle parts.
+This research applied the Six Sigma approach.
+"Firstly, the problem statement was defined."
+"Secondly, the accuracy and precision of the inspection system were appraised."
+"Next, the potential causes for crack defects were analyzed."
+"Then, the four factors were statistically tested: cleaning temperature, cleaning pressure, electrodeposited paint voltage, and sanding method."
+"In the improvement phase, the sanding method was improved to be both horizontal and vertical sanding."
+"In addition, Box-Behnken design was applied to find out the optimal levels of the three remaining factors."
+"The optimal setting was at the cleaning temperature of 40 degrees Celsius, cleaning pressure of 1.4 kilograms per square centimeter, and electrodeposited paint voltage of 180 volts."
+"After that, the optimal setting was applied in the process to confirm the experimental result."
+"Finally, a new control plan and work instruction were adjusted to control the process after the improvement."
+"After improvement, the defective rate due to crack defects decreased from 3.82 percent to 0.98 percent."
+"The improvement is expected to reduce the rework cost of 81,257 baht based on the forecasted production volume of 95,069 units in 2021."

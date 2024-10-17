@@ -1,0 +1,11 @@
+The aim of this research is to understand surveying efficiency on slope areas using Global Navigation Satellite System (GNSS).
+"The root mean square error (RMSE) is used to be a key indicator to compare the efficiency of Virtual Reference Station (VRS) method and Real Time Kinematic (RTK) method using GNSS, Topcon brand and GR5 version."
+"The surveys conducted on the slope areas where Laem Chabang Hospital, Chonburi Province located."
+"The results of the study, when compared with the reference benchmarks, found that Real-Time Kinematic (RTK) measurement methods have an RMSE of 0.025 centimeters and the RMSE of Virtual Reference Station (VRS) techniques is 0.054 centimeters."
+We found that both of these methods have a difference RMSE of 0.033 meters.
+"Therefore, we can conclude that Real-Time Kinematic (RTK) methods have less tolerance than the Virtual Reference Station (VRS) methods but are still acceptable."
+Considered that the coordinates obtained by surveying with satellite systems have the coordinates close to the reference benchmarks.
+"The differences in both methods still have comparable values, which make those values ​​reliable and able to apply both methods together."
+"After that, we surveyed in the slope areas to perform topographic surveying and import to GIS (Geographic Information Systems)."
+We used the Total Station equipment for positioning benchmarks to collect data and using GNSS satellite receivers to collect coordinates of the reference benchmarks using the static surveying method and collecting of other details that the Total Station may not reach with the Real-Time Kinematic Survey (RTK).
+"Finally, after collecting all the data, we can then mapped using Quantum GIS with satellite imagery as a base map for highly detailed to be assembled for greater accuracy as well."

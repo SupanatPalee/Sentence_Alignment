@@ -1,0 +1,7 @@
+This paper presents the development of infrastructure and monitoring system of greenhouse in Ubon Ratchathani University.
+"The greenhouse is built in Arc-tunnel style and comprises an electric fan for ventilation, electric pumps for water storage and plant watering system."
+"The basic planting condition sensors consist of soil humidity, air temperature and humidity."
+The electric power is supplied from hybrid PV renewable energy and grid electrical power system for increase of reliability.
+The data measured using sensors are collected in the data base and reports on the internet.
+Complications and solutions to problem found in the development are presented.
+The monitoring data shows the significant difference between the inside and the outside of greenhouse and can be used in the planning phase for annual planting and the future development of the environment control.

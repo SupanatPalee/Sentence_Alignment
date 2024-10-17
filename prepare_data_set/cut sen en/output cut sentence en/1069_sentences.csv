@@ -1,0 +1,6 @@
+Decision support system (DSS) for proper forecasting method selection was developed to support decision making about selecting appropriate forecasting method with constant data.
+The solver module in Microsoft Excel was used to find optimal solution of the forecast under minimal mean squared error objective.
+"The forecasting methods used in this system are moving average method, weighted moving average method and exponential smoothing method."
+The result of this system will show forecasting result and forecasting discrepancy value.
+Efficiency evaluation was shown that DSS can be used well for making decision about selecting forecasting method with less computation time.
+The result of efficiency evaluation is 4.19 which is at high-level.

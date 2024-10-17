@@ -1,0 +1,9 @@
+This paper presents a study of Atrium smoke ventilation of Department Store using PyroSim2017 programme (Fire Dynamic Simulator Software).
+"Three fire sources which were big storageroom of supermarket on basement, center of atrium on basement and the shops on 7th floor wereconsidered."
+All these sources released heat at a minimum rate of 2 MW and a maximum rateof 25 MW.
+"In the simulation, attention had been paid to the smoke on the 7th floor which is thehighest floor of the building."
+"Due to buoyancy force, smoke will flow up and be collected at theroof of the top floor."
+"Temperature distribution of smoke, visibility of fire exits and concentrationof Carbon Monoxide on the 7th floor were studied."
+The grid size used in this study was 0.5 mand the initial room temperature inside the building was 40 ํC which was taken place in thesummer when the air conditioning system stopped working.
+"From the results obtained, it wasfound that the worst case which is very dangerous to the people working and shopping in thebuilding is when the heat release rate is at 25 MW and fire source is at the shop on 7th floor.When the smoke exhaust system was applied, it was found that the natural venting system isbetter than mechanical exhaust fan system for this Department Store building."
+This is becausenatural venting system can exhaust smoke to outside building faster than mechanical exhaustfan system and can lower the temperature of smoke and soot more.

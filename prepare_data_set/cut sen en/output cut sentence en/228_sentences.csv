@@ -1,0 +1,10 @@
+"Although push buttons for settings or control are used in several devices, remote control can make them more convenience and improve safety, for example, those devices are located in dangerous areas or are inaccessible."
+"Therefore, the objective of this research work is to develop an accessory that can be attached to a parent device, enabling it to be controlled remotely."
+"In this research work, the parent device is an infusion pump since it is used for patients who are treated in an isolation room, e.g., tuberculosis or COVID19."
+"The developed accessory extends the capability of the old version, resulting in budget reduction for purchasing a new version with remote control."
+"The accessory consisted of five parts: an attachment kit mounted to the parent device, a controller with a camera module used for live streaming, web server and process control of the accessory, a push-button pressing mechanism, a light transporter for an LED status indicator of the parent-device, and a smartphone for remote control."
+The user can see the display of the parent device on the smartphone and can touch the screen of the smartphone in order to control the accessory via a wireless network.
+The experimental results showed that the accessory was able to be attached to the existing infusion pump in the hospital properly.
+The flow rate was adjusted remotely.
+"All alarms, flow rate and an LED status indicator can be seen via the screen of the smartphone."
+"Thus, the accessory developed in this research work can make medical professionals’ work more convenient and more secure."

@@ -1,0 +1,6 @@
+This research aims to apply optimization of production scheduling model to improve production planning and inventory management in the case of Automotive Parts Company.
+"In order to minimize total costs, the result from current production scheduling approach which uses the experience of the planner is compared with that from the optimization model."
+"Another contribution of this study is to forecast what will happen if various situations (demand, production capacity, costs and initial inventory) will be changed."
+The experiment is conducted Simplex method by using Excel solver.
+"The result shows the efficiency management for inventory model by reducing 939,660 Bahts or 74.11 percent and the total cost from optimization model can reduce 592,178 Bahts which is considered as 3.33 percent."
+This cost reduction is also demonstrated in all changed situations.

@@ -1,0 +1,6 @@
+This research aims to select the appropriate spatial interpolation to generate an amount of dust particles map model.
+"Applies a geographic information system to analyze the average value of dust particles size TSP PM10 and PM2.5 from dust sampling area such as Suriyadet Circle, Nimit Circle, Surin Circle, Chaloem Phra Kiat Public Park and Saphan Hin Public Park."
+"The period of data collection is from December 2020 to January 2021. and runs a performance test in the prediction of various spatial interpolation methods such as RBE, Kriging, LPI and IDW."
+"The result of suitable spatial interpolation methods selection for generating dust particles map models from the predictive performance test of four spatial interpolation methods shows that IDW has the lowest RMSE value, followed by Kriging, LPI and RBF, respectively."
+"The researcher then selects the IDW method for the spatial interpolation and generate dust particles map models in the Phuket Municipality, Phuket Province because there is the least difference between the estimated value and the actual measurement which can be analyzed for finding air pollution monitoring areas."
+"Also, this result is beneficial to the agency who plans to lay out guidelines for solving problems that may arise from air pollution further."

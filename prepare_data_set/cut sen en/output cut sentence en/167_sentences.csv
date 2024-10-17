@@ -1,0 +1,9 @@
+Artificial intelligent techniques are very popular in engineering works.
+"This paper presents three techniques as follows: genetic algorithm, particle swarm optimization and adaptive tabu search to identify the accurate parameters in the mathematical model of AC-DC power system feeding the parallel controlled buck converters."
+The controlled power converters behave as the constant power loads in which they can significantly degrade the system stability.
+"Hence, the stability analysis is necessary to predict the unstable point of the system."
+"However, it is not only the behaviors of the controlled power converters but the parameters of the system also affect the system stability."
+Some parameters cannot be measured by the instrument directly.
+"Therefore, the artificial intelligent techniques will be used to search the parameter values that correctly represent the system response."
+"After these parameters are achieved, the dynamic model with accurate parameters will be used for the stability analysis by the eigenvalue theorem via the mathematical model."
+The stability analysis verification will be confirmed by the simulation and experimental results.

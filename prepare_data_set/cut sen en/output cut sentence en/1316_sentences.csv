@@ -1,0 +1,9 @@
+This paper presents a branch and bound algorithm for the solution of the Probabilistic Traveling Salesman Problem with Return.
+The algorithm is composed of three main steps.
+"In the first step, branching divides the problem into smaller subproblems that are easier and quicker to handle."
+All possible solutions are then checked for feasibility by comparing with the boundaries (lower and upper bounds).
+"The second step, known as bounding, is to find lower and upper bounds for the solution at each node that are continually refined over time."
+A feasible solution must lie between these bounds.
+"In the third step, called node selection, the jump-tracking strategy chooses a node with the best result to process."
+"For obtaining the optimal solution, many iterations are executed until the shortest route is identified."
+"A computer program was developed based on the algorithm, and number of test cases have been solved in an acceptable time; a 15 city problem took less than a second, and a 800 city problem required about 30 minutes."

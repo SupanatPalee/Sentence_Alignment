@@ -1,0 +1,5 @@
+"Nowadays, technology is used in construction projects to facilitate workers, planners and other stakeholders in the process of monitoring and evaluating construction progress."
+This research aims to propose the way to monitor the construction project progress using the unmanned aerial vehicle (UAV) technology and apply with the photogrammetry technology to create a three-dimensional model and visualize the construction overview of the project for quickly monitor and evaluate the construction work.
+"The case study is reinforced concrete building project in Khonkaen province, This research used photos taken  from UAV to generate three-dimensional model base on point cloud, The geometry of building was measured manually from the model by its length and area of ​​each part of the  model."
+Then the data was analyzed for the error compared to the actual size of the building from the construction drawings.
+"The results showed the error of the developed model was less than 1%, This paper proved that three-dimensional construction model base on point cloud from construction site images can be used to evaluate construction progress with enough accuracy."

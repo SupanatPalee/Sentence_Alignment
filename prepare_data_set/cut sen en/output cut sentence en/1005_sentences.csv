@@ -1,0 +1,7 @@
+This research is a development of buckling test of sheet metal causing wrinkling.
+This was conducted by using modified Yoshida buckling test.
+"Aluminum alloy, AA5052-H32, with a thickness of 1.0 mm was tested in two directions: rolling direction and transverse direction."
+"During the test process, the strain on the tested sheet was measured by using Digital Image Correlation (DIC) together with Finite Elements Method Model with anisotropic Hill'48 criterion and swift hardening equation."
+The strain value gained was used to identify wrinkling initiation from the theory of strain path change and the changed area was used to establish wrinkling limit curves.
+"The results were found that in the rolling direction, the strain ratio was at -0.5425, and in the transverse direction, the ratio was at -0.6848."
+The anisotropic Hill'48 criterion was able to estimate the differences of the forming area before the damage occurred by wrinkling precisely

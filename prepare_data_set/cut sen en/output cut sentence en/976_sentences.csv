@@ -1,0 +1,13 @@
+The purpose of this research was to create a model of battery bank management suitable for electricity retail (TOUPVES model).
+The problem of rising electricity costs made the electricity bills of Kamphaeng Phet Rajabhat University rise.
+The researcher studied energy management to create value by using solar cells combined with batteries to save electricity and sell retail electricity.
+The experiment was carried out with the use of electricity in faculty offices and at the energy park in Kamphaeng Phet Rajabhat University.
+"The research process included the following steps: studying electricity demand in the load, studying the ability to produce electricity from PV, studying TOU electricity rate and developing the TOUPVES model based on the data."
+"The research results showed that on a typical working day, electricity consumption cost 60.79 baht a day under TOU rate."
+"However, when managed with the TOUPVES model, the electricity consumption cost only 2.897 baht per day, while also enabling the sale of excess electricity for 39.951 baht per day."
+"at weekend, electricity consumption cost 12.886 baht under TOU rate."
+"However, when managed with the TOUPVES model, the electricity consumption cost only 2.818 baht per day, while also enabling the sale of excess electricity for 52.751 baht per day."
+"In summary, the TOUPVES battery management model is suitable for electricity retail."
+"With the trend of decreasing battery prices in the future, the TOUPVES model should be another option for electricity users who can generate and sell electricity (prosumer) by managing their batteries and store electricity to sell it behind the meter (BTM)."
+The prosumers can set the price based on their costs and profits.
+"This is the demand side management (DSM) such as: energy conservation (EC), energy efficiency (EE) and demand response (DR)."

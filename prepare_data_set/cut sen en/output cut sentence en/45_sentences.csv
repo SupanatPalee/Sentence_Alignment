@@ -1,0 +1,7 @@
+The trend of the age proportion of the Thai population is completely stepping into an aging society.
+One of the main problems is that the elderly being left alone spend their lives to do daily activities difficultly due to physical changes.
+"For example, falls in the elderly are the most common accidents."
+"Therefore the objectives of this research are (1) to develop an alarm and monitoring system for the elderly when the elderly have an accident or injury, and (2) to develop a WiFi network inside residences to bridge data communication between wireless sensing devices and the Raspberry Pi board used as a main controller."
+"The wireless sensing devices used to detect abnormal and emergency situations included a fall detector with an accelerometer, a motion detector with a camera and a distance sensor, and an emergency push button."
+"When emergency situations were detected according to the pre-defined conditions, i.e., falling or pressing an emergency push button, or no motion within some time intervals, the Raspberry Pi board sent an SMS to a caregiver automatically."
+The experimental results showed that the intended objectives were achieved when the alarm and monitoring system was tested in both simulation scenarios and real-world situations.

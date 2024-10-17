@@ -1,0 +1,10 @@
+The objective of this research is to develop a potentially statistical model using the Canonical Correlation Analysis (CCA) for the climate seasonal prediction of rainfall in Thailand.
+The El Niño Southern Oscillation (ENSO) climate system and the Sea Surface Temperature (SST) over the tropical Pacific Ocean and Indian Ocean are taken as the main factors of precipitation.
+The Empirical Orthogonal Function Analysis (EOFs) is firstly performed into the calculation.
+The first few leading principal component has been analyzed via the spatiotemporal patterns of positive SST anomaly dominated the Indian Ocean and the central Pacific Ocean together with the tendency of increasing over past sixty-four years of data set.
+The CCA is applied to find the correlation between SST over the tropical Indian Ocean and the western Pacific Ocean during August1951-2015 and precipitation in Thailand during the September-October-November (SON) of the first few leading EOFs.
+The result has been found that the correlation score is about 0.6.
+"The levels of predictive skills have been also shown at lead times of up to 4 months (target seasons OND, NDJ, DJF and JFM)."
+The skills scores have been improved to the moderate skills (about 0.3-0.4) in the northern Thailand and some regions of southern Thailand with zero-month lead (SON) and declined from OND to JFM.
+The CCA generally outperforms persistence at zero-lead times.
+The ENSO phenomenon and SST anomaly are found to play some role in the precipitation variability in Thailand regions: Warming ENSO episodes tend to suppress northern summer rainfall and enhance southern summer rainfall in Thailand and cooling ENSO episodes tend to enhance northern summer rainfall and suppress southern summer rainfall in Thailand.

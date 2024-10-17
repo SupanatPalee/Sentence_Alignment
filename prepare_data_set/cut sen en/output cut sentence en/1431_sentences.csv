@@ -1,0 +1,8 @@
+This research aimed to compare efficiency of Triple Exponentially Weighted Moving Average Control Chart (TEWMA) and Quadruple Exponentially Weighted Moving Average Control Chart (QEWMA).
+"In addition, it had techniques of Fast Initial Response (FIR) and Modified Fast Initial Response (MFIR) applied to Triple Exponentially Weighted Moving Average Control Chart (TEWMA) and Quadruple Exponentially Weighted Moving Average Control Chart (QEWMA) so as to detect a change of Location Parameter: µ."
+"It was operated by simulating data through Monte Carlo Method repeating 10,000 rounds."
+"Moreover, data was determined to be distributed in form of Log normal distribution while Location Parameter was 1,2,3,7, and 15, and Scale Parameter was 1 and 2 respectively."
+"Meanwhile, Smoothing Parameter of total control chart was determined as 0.1, 0.3, and 0.5 while the ship size of processwas from 0.01 to 2."
+"What’s more, the criteria used for measuring efficiency of Control chart took into account Average Run Length."
+"In this way, Control chart with utmost efficiency yielded the least Average Run Length  when the process was out of control."
+"According to research findings, it appeared that increasing technique of Fast Initial Response and technique of making Control chart flat led Control chart to yield similar efficiency."

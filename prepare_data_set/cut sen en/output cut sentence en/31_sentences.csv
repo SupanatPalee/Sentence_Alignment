@@ -1,0 +1,9 @@
+The purpose of this research is to study the effect of obstacles across channels to determine if they increase flooding of the stream.
+The HEC-RAS model was used to simulate water flow and levels with and without obstructions across streams.
+The level of water and the height of the stream bank were analyzed to determine the distance of flooding along the stream in both cases.
+The results showed that the effect on the water level in front of the obstacles such as a weir or a culvert is different.
+The water level in front of the culvert is lower than the water level in front of the weir at low flow.
+"However, when the stream flow exceeds the flow capacity of the culvert, the water level in front of the culvert will be higher due limited by the cross-section of the culvert receiving the water flow."
+The flood distances and water levels along the stream under high flow show that the flood distances decrease to 580.6 meters from 953.4 meters along the channel when no obstacles restrict the flow.
+The existence of obstructions in the channel causes the water level to rise higher than usual thus causing the flood distances to increase along the upstream side of the obstruction while flooding does not occur downstream of the obstruction.
+This research shows that culverts are prone to causing greater flooding than weirs during heavy rainfall events.

@@ -1,0 +1,5 @@
+"In this paper, a new distribution called the Poisson Paralogistic distribution (PPD) is proposed."
+"Some properties of the new distribution which includes the density of the kth-order statistics, quantile function and value-at-risk are obtained."
+The maximum likelihood estimation (MLE) is then studied to obtain a parameter estimation.
+A simulation study shows that the MLE of the parameters of the PPD is asymptotically unbiased and consistent.
+The proposed distribution is applied to three real datasets and its performance is compared with some other related distributions.

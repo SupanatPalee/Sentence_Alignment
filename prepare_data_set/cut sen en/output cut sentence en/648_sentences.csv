@@ -1,0 +1,8 @@
+This paper presents the instability mitigation of AC-DC power system feeding a controlled buck converter by using a feedforward loop.
+Power converters with their controls normally behave as constant power loads (CPLs).
+These CPLs have negative resistance which may cause system instability.
+"Therefore, it is essential to study the instability mitigation technique for improving the system stability."
+The dynamic model derived from the DQ method and the generalized state-space averaging method (GSSA) is used with the eigenvalue theorem for the stability analysis.
+The proposed instability mitigation is verified by the intensive time-domain in MATLAB.
+The results show that the proposed instability mitigation in article is consistent with the stability analysis in theorem.
+"In addition, the unstable system due to a constant power load can become back to the stable operation using the proposed technique."

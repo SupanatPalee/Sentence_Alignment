@@ -1,0 +1,5 @@
+"This paper presents the comparative studies of six robust state estimation methods, i.e., least absolute value method, quadratic-constant method, quadratic-linear method, square root method, Schweppe-Huber generalized M method, and maximum exponential square method for power system state estimations."
+The IEEE 14-bus and 57-bus systems are used to test the performances of the robust estimation methods.
+"The measurement datasets consist of voltage magnitude, power flow, and power injection."
+"In addition, the influence of the constant parameters of objective functions of some robust state estimations is studied."
+"Comparison results in terms of solution convergence, computation time, and estimation accuracy are presented."

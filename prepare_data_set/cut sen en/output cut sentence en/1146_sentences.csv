@@ -1,0 +1,8 @@
+The objective of this study was to develop a steering control system for an autonomous tractor.
+Appropriate feedback gains of PID controllers were tuned using Ziegler-Nichols method.
+Steering angle of the tractor was measured with a position transducer.
+A low pass filter was employed in order to reduce noise from the transducer.
+Performance tests of the control system were conducted on a polished concreate floor with leaving the engine idling.
+The performance results showed that the low pass filter could reduce the noise.
+"When the performance among the PID controllers was compared, the P controller could steer the tractor smoothly."
+"Therefore, the steering control system with P controller could be applied for practical use."

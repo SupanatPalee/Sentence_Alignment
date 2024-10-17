@@ -1,0 +1,7 @@
+This article proposes a mixed-model double U-shaped assembly line.
+Two individual U-shaped lines are placed adjacently in parallel.
+"The double U-shaped line balancing problem in this research optimizes many objectives simultaneously, i.e."
+"minimum number of workstations, minimum number of stations, minimum work unrelatedness, minimum different workload between and within workstation."
+This research applies a Multi-Objective Evolutionary Algorithm based on Decomposition (MOEA/D) to find the optimum solution since this approach is found to be effective for many-objective optimization problems.
+The experiment results show that MOEA/D performs better than MOPSO in terms of convergence and ratio of non-dominated solution.
+Thus MOEA/D is suitable for solving Double U-shaped line balancing problem with many objectives.

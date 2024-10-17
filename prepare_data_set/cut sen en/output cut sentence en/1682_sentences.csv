@@ -1,0 +1,5 @@
+A method was developed web application of price assessment of a smartphones pawned by using Deep learning.
+"In the experiments, three datasets collected by smartphones for a total of 4,026 subjects are used for eveluations."
+"It is proposed the forecasting with the image processing, the TensorFlow library, the Deep learning library, and the CNN algorithm techniques."
+"The experiments show that the prototype model for price assessment of a smartphones pawned achieves an accuracy values of the front and back view images of smartphones status at 74.50% and at 82.90%, respectively."
+"A prototype model was developed web application that is designed to work on all devices by using software tools such as subline text, PHP, and JavaScript."

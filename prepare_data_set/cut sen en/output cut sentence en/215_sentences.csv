@@ -1,0 +1,6 @@
+This research project develops an application for searching lost pets by using image recognition.
+The system development comprises two parts: 1) the recognition engine which employs convolutional neural networks and 2) the user interface of the application for visualizing the search results.
+"For the recognition engine, the process consists of background removal, features extraction with InceptionV3 technique, and recognition modeling for displaying on the app developed by using Solar2D."
+The preliminary experiments show promising results in terms of the search accuracy and user’s satisfaction and experience.
+"In our cat picture database of 152 cats, the system can correctly classify the pet pictures with 87.51% averaged accuracy."
+The user satisfaction of using the app is 4.55 (out of 5) based on the technology acceptance model (TAM) as an evaluation tool.

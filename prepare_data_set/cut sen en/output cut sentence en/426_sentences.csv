@@ -1,0 +1,16 @@
+This research aims to apply the maximum flow model in order to demonstrate production route and find the maximum flow of the brake pad manufacturing.
+This case study company produces and distributes brake pads for automobile.
+The company has more than 400 models of brake pads.
+There are 20 main-production processes and 46 machines to produce brake pads.
+"However, every product does not undergo all production stage."
+"As a result, there are 14 formats of production procedure which are difficult to set production plan and analyze the production capacity of system."
+"Thus, the machines did not work efficiently and the cost of production capacity plan might be more expensive in the future."
+"In this case study, the research process was started by collecting data from the company."
+"Then, ABC analysis was employed to choose product sampling."
+"Moreover, Labeling algorithm and Generic augmenting path algorithm were adopted to find the max flow."
+The machines in each production process from source to sink were described by arcs and nodes respectively.
+"The results showed that the company could produce 25,880 of brake pads per day."
+"When this number was compared with the production capacity in each day, it was found that the maximum flow model could help produce brake pads up to 1,375 pieces per day (5.6%)."
+"Furthermore, the company could also know the machine's utilization of each process."
+The maximum flow model could help the company analyze the capacity of production process accurately.
+"Thus, the company could use this model to help plan production process, production capacity and machine maintenance in order to increase efficiency in each production process."

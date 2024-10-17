@@ -1,0 +1,7 @@
+This research aimed to compare the performance of the t-test and Wilcoxon rank sum test for testing the difference between two independent populations using counting data.
+The distribution considered in this study were binomial distribution and Poisson distribution.
+The performance of these two tests was compared considering the ability to control the probability of type I error and power.
+The results showed that the t-test and Wilcoxon rank sum test could control the probability of type I error for all situations.
+"In the case of power, when sample sizes of two groups were equal, the powers of t-test and Wilcoxon rank sum test for testing the difference between two independent populations using counting data tended to increase when sample sizes of two groups, effect size, and the value of parameter n increased."
+"Considering the effect of the ratios of sample sizes between groups toward powers, the results showed that the powers of the t-test and Wilcoxon rank sum test became maximum when the ratio of sample sizes between groups (n1: n2) was 1: 1 and became minimum when the ratio of sample sizes between groups (n1: n2) was 1: 5 (or 5: 1) for both binomial and Poisson data."
+"Moreover, the t-test which is a parametric test yielded higher powers than the Wilcoxon rank sum test for all cases."

@@ -1,0 +1,7 @@
+"This research aims to study the mechanical properties of the Fused Deposition Modeling (FDM) 3D printing by thermal annealing method, and to provide a recommendation for the selection of suitable industrial 3D printing thermal conditions by the multi-level factorial experiments."
+"In this research, the parameters in the study were annealing temperature, annealing hold time, and type of heating."
+"The annealing temperature was set in the range of 60 to 70 °C, the annealing hold time was 30 to 50 minutes, and the type of heating was during annealing and post annealing."
+"In this investigation, polylactic acid was used to print the specimens with the FDM 3D printer with a heat annealing machine."
+"As for the results, the tensile strength was measured with a universal testing machine using Minitab software for statistical analysis and processing."
+"From the experiments, it was found that the most suitable 3D printing thermal conditions were the annealing temperature of 60°C, the annealing hold time of 30 minutes, and during annealing."
+The ultimate tensile strength was 52.41 MPa.

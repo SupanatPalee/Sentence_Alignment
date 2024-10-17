@@ -1,0 +1,7 @@
+This research article on predicts of electricity consumption by using ANN method.
+It is intended to be a case study in planning to develop a suitable electric power management system in the future and to study and compare the results between measuring with measuring instruments and predict by ANN method.
+"From the study in the sample educational institutions, namely, school A and school B."
+The variables used consisted of the maximum power demand and the load factor.
+using the data in the year 2014 in ANN system learning and data in 2016 2015 is used for testing the predict results.
+The statistic used was the percentage error (%Error).
+The results showed that A school had an error of 4.76% and School B had an error of 6.63%.

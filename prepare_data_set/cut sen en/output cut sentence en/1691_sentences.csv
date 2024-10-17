@@ -1,0 +1,6 @@
+This research aimed to extract image features using Convolutional Neural Networks (CNNs) for a content-based image retrieval (CBIR) system of buildings.
+A dataset of 513 photographs of various buildings within Buriram Rajabhat University was utilized.
+"Three CNN models, VGG16, VGG19, and NasNetLarge, were employed for feature extraction, with Cosine similarity."
+"The results indicated that VGG19 yielded the highest accuracy in image retrieval, followed by VGG16 and NasNetLarge, respectively."
+This suggests that VGG19 is more effective at extracting building image features than VGG16 and NasNetLarge.
+"However, the study revealed that NasNetLarge, a more complex model, had limitations in extracting features from building images, possibly due to its higher structural complexity compared to VGG16 and VGG19, resulting in lower performance in this specific application."

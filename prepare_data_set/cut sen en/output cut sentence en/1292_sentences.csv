@@ -1,0 +1,10 @@
+This paper determines an inventory policy for semi-finished products in a case study of enamel paint production.
+The semi-finished products include pigment pastes.
+They are main components which are commonly used during tinting process to adjust the quality of color.
+Shortages of pigment pastes can interrupt the production process.
+"In order to prevent the inventory shortages, this research proposes a method to systematically determine the pigment paste inventory policy."
+"The proposed inventory policy suggests a periodic review system with reorder point and fixed order quantity policy or (R, s, Q) inventory model with cycle service level 99% while keeping the average inventory less than or equal to the current practice."
+This inventory policy is constructed under production constraints as well as stochastic demand and lead time.
+The proposed policy is tested with simulation model by comparing the results from the proposed policy with the current practice.
+The results show that the cycle service level for all items has improved to meet the target level of 99% which implies the shortage reduction.
+"In addition, average inventory level and the number of setups can be reduced by approximately 48% and 47%, respectively."

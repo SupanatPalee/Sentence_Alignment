@@ -1,0 +1,8 @@
+This research is aimed to solve the location routing problem in the case study of ethanol plant location and raw material routing in northeastern of Thailand by design new heuristics methods.
+The objective is to minimize the total transportation distance.
+We collected related data to formulate mathematical model which was solved by Lingo program.
+"Lingo program could find the solution for only small problem, but it could not find for large problem such as the case study."
+The three heuristics methods were applied to find the solution: 1) Cluster First-Route Second- Distance (CFRSD) 2) Cluster First-Route Second- Quantity (CFRSQ) 3) Roulette Wheel and Nearest Insertion (RWANI).
+The results shown that all three methods could find the solution for case study problem but RWANI method was the best performance.
+"In term of total distance, RWANI method obtained better result than CFRSD and CFRSQ of 12.42% and 32.65% respectively."
+"In term of number of vehicles, RWANI method generated better result than CFRSD and CFRSQ of 2.36% and 10.79% respectively."

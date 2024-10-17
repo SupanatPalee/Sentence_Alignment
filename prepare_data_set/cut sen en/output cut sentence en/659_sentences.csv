@@ -1,0 +1,5 @@
+This paper presents an optimal zero-sequence selection for two-phase SVPWM extended linear modulation for five-leg inverter supplying dual two-phase induction motors independently controlled.
+Optimal zero-sequence selection can reduce peak of duty cycles for five-leg inverter.
+"The selection affects to extend linear range of total modulation index, which is higher than 100 percentages."
+"In this paper, modulating functions of five-leg inverter and independently dual two-phase induction motors drive are presented and analyzed."
+All simulation results can be verified by experimental results.

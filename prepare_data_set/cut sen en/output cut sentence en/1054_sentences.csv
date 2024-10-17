@@ -1,0 +1,6 @@
+The small PCB punching machine has facilitated the drilling of PCB to be accurate and fast at the position which uses the microcontroller as a control system.
+"This research is a study of the movement time of a small PCB punching machine from stepping motor control by a microcontroller with different moving distances: 50 mm, 60 mm, 70 mm, 80 mm, 90 mm and 100 mm."
+"In addition, the frequencies at 50 Hz, 100 Hz, and 500 Hz were used to control the stepping motor."
+It was found that all frequency movements for stepping motor control were linear.
+"When the higher frequency was given, it resulted in shorter time for movement."
+"However, the slope at 50 Hz, 100 Hz and 500 Hz frequency had different values: 0.1926, 0.0931, and 0.0521, respectively."

@@ -1,0 +1,5 @@
+This research using IoT6 Technology for design and implement in the house.
+"With the innovation technology, it can improve security and inform the user when an accident happened with smart devices such as Wireless Sensor Zolertia Z1, Raspberry Pi 3, Pi NoIR camera, fire sensor, gas sensor and motion sensor."
+The Zolertia z1 is located by IPv6 that have many advantages and transmit data from various sensors through Raspberry Pi 3 and then forwarding data to a Ubidots cloud platform.
+"Therefore, this paper has tested the system in the event of an emergency happened such as fire, gas leak or detect the thief."
+The system will take a picture and upload to Amazon Simple Storage Services for immediately inform the user by email or short message.

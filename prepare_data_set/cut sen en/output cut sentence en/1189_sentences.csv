@@ -1,0 +1,16 @@
+Calculation of wind turbines for electricity generation is mainly used to rigid which will not calculate the deformation.
+"But in reality, the blade is bent, twisting from the wind that hits and the production of electric power requires the thought of deformation of the blade."
+This research focuses on studying the deformation of wind turbine blade.
+"With the properties of sandwich composites, 33.25 meters (WindPact 1.5 MW) of the blade were simulated with computational fluid dynamics (CFD) to study the energy produced."
+Analysis by interaction between fluid and structure to study the deformation from the impact of wind considering that the wind speed is 8-24 meters per second compare the efficiency of the blade from one-way (FSI) calculations.
+Calculate the electrical energy from fluid dynamics (CFD) using the blade shape as designed.
+The deformation is not calculated.
+Then the pressure data was sent to the surface of the blade to be calculated using the finite element method (FEA) to blade the deformation of the blade.
+"And Two-Way FSI began to calculate the deformation of the blade by finite element method (FEA) and then deformed the shape and calculated it with fluid dynamics (CFD) to find electrical energy Then produced in the second round, sent the pressure data to the blade surface to calculate the deformation by the finite element method (FEA) again and then the deformation of the shape from the calculation cycle Two come to find electrical power as well."
+The fluid (CFD) calculations a loop until the moment coefficient convergence.
+Therefore stop calculating.
+The study found that the windpact type 1.5 MW blade is the energy produced by one-way calculations.
+"With the two-way model, the results were not significantly different and therefore change to the blade by reduce the modulus: Ex, Ey value of the material 3 times the wind speed of 12 meters per second."
+"Calculation of the energy produced in two-way 1.54 megawatts and one-way 1.45 megawatts, which are two-way, is more than one-way, accounting for 6.2 percent and wind speed 16 meters per second."
+"The calculation of the energy produced by in two-way 1.57 megawatts and one-way 1.64 megawatts, which is one-way, is more than two-way, accounting for 4.27 percent."
+A structure that is deformed during the work to come to think with and corresponds to the research that has been published.

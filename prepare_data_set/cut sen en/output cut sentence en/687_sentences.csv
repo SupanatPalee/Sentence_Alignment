@@ -1,0 +1,6 @@
+This paper present current based algorithm for the maximum power point tracking of stand-alone system.
+The proposed algorithm can improve the tracking performance compared with the conventional perturb and observe (P&O) method.
+The current based algorithm directly uses the change of photovoltaic current.
+"As a result, the response and the achieved power are better than there of the P&O method."
+"To verify the advantage of the proposed algorithm, the simulation via MATLAB and the experimental results from the hardware implementation are used."
+The results show that the current based algorithm can provide the better performance in both transient and steady-state response compared with the P&O method.

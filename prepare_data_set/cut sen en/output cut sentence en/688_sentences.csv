@@ -1,0 +1,8 @@
+This paper presents the performance comparison of harmonic elimination in electric railway systems with two shunt active power filter (SAPF) structures: split capacitor structure and joint capacitor structure.
+"The indicators of the comparison for the two SAPF structures are the total current harmonic distortion (%THDI), the ripple of DC bus voltage (% VDC(ripple)) and the dynamic response of DC bus voltage during load changes."
+"The harmonic detection, synchronous reference frame (SRF method) is used for calculating the reference current of both SAPF structures."
+The conventional PI controllers are used to control the compensating current and regulate the DC bus voltage of SAPF.
+The hardware in the loop (HIL) simulation technique which process by Simulink/MATLAB program and TMS320C2000TM Experimenter Kit board is applied to simulate harmonic elimination in AC-electric railway systems.
+The simulation results show that both SAPF structures can provide good performance for harmonic elimination and the %THDI of source current after compensation are satisfied under the IEEE std 519-2014.
+"Furthermore, the SAPF with joint capacitor structure gives less ripple of DC bus voltage than the split capacitor structure."
+"However, the split capacitor structure has better dynamic response than the joint capacitor structure when loads in the system have been changed and greatly increased."

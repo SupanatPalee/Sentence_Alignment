@@ -1,0 +1,4 @@
+This paper presents the power converter three phase system with bidirectional power flow control for EV battery charger with connected power distribution.
+This research used the proportional plus resonant controller for regular stability controls of power converter in operation in charge mode and discharge mode.
+"In the demonstrated bidirectional power flow control systems, the Hardware In the Loop (HIL) testing controlled with STM32F704VI microcontroller is used."
+Experimental results demonstrate a good performance for the controlled bidirectional power flow of the operation system and dc output loop of battery side.

@@ -1,0 +1,7 @@
+Asymmetric cryptography or public key cryptography is a popular measure employed to keep information secure.
+"For a long time, it was thought to be very difficult to attack; hence, highly secure."
+"However, the advent of quantum-based attacking algorithms drastically reduces the difficulties of attacking."
+This leads to the development of the post-quantum cryptography.
+Classical and post-quantum asymmetric cryptography systems are based on one-dimension integer.
+"The utilization of Gaussian integer, a two-dimension number system, to enhance the complexity in order to resist the attacks is therefore an interesting topic."
+"In this paper, we have surveyed and summarized the various approaches in applying Gaussian integer with classical and post-quantum cryptography."

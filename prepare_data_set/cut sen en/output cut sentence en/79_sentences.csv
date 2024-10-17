@@ -1,0 +1,7 @@
+This paper presents an application of remote sensing data using LANDSAT-8 satellite images for land use identification to estimate Manning's roughness coefficient.
+"Then, the land use from satellite images with a two-dimensional HEC-RAS mathematical model is presented."
+"The accuracy of the land use classification was tested, and four categories of land use were categorized using the minimum distance which is a supervised classification technique."
+"Then, the Manning’s roughness coefficient determined from the land-use data was used for two-dimensional simulation."
+"To calibrate and validate this study, data from 2011 and 2014 were used."
+"The best result has an NSE of 0.95-0.97 and an R2 of 0.96-0.99, indicating that it is highly accurate."
+This two-dimensional HEC-RAS model has the benefit of being able to simulate flooded regions in varied land use characteristics while using remote sensing data from LANDSAT-8 satellite images.

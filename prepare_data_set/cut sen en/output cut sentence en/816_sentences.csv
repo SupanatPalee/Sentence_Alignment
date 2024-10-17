@@ -1,0 +1,10 @@
+"Plant layout has significant impact on the production efficiency, product quality, safety and workers’ morale."
+Evaluation and decision making processes of alternative layouts with multiple-criteria consideration have become mandatory to organization’s achievement.
+This research aims to propose a systematic methodology for evaluating plant layout based on multiple criteria by integrating Analytic Hierarchy Process (AHP) with Goal Programming (GP).
+The research consists of 3 main phases.
+"In phase 1, which is an application of SLP, the SLP is applied to collect product and processes data, analyze material flows and activity relationship for determining a number of alternative plant layouts."
+"In phase 2, AHP is applied to identify factors and their weights to be used as criteria to evaluate alternative layouts."
+This research classified the criteria into 2 groups as benefit criteria and risk criteria.
+The criteria weights and the alternative layout weights with respect to criteria are then used as input parameters for Goal Programming model (GP) in phase 3.
+The GP is applied to select an optimal plant layout by specifying a target for each goal to solve for a preferred solution that minimizes the summation of the deviations for the prescribed set of target values.
+An application of the proposed methodology is demonstrated by the case study factory producing truck suspension parts.

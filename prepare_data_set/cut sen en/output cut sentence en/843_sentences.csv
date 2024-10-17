@@ -1,0 +1,6 @@
+"This research involves efficiency analysis of the service patients system in the medical records department of the medical center at Suranaree University of Technology by using queuing simulation, due to the continuously increasing number of patients causing the problem of increased waiting time for services."
+This research has focused on increasing efficiency by arranging the order of the waiting system using Flexsim® simulation software to design new alternative model.
+"The result from simulations before improvement shows that the period of the waiting time for the patient is quite long, with the average being 8.83 minutes."
+"After comparing between best alternative models with the current operations before improvement, we founded that simulation model by adding an additional staff and an additional computer for questioning and recording new patient data produced the most appropriate method of reducing waiting times."
+This method reduced the period of the treatment for patients to an average of 3 minutes.
+"The result show that services time is reduced, as a result Suranaree Medical Centre had an increased efficiency up to 66.02%"

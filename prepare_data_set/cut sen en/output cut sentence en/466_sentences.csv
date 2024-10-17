@@ -1,0 +1,6 @@
+This research introduces a method for determining the parameter of cubic nonlinear springs by least square regression method.
+Calculations are conducted in both the time-domain and the frequency-domain.
+"It was observed that both approaches yielded equally accurate results, regardless of whether the system exhibited over-damping or under-damping characteristics."
+"In terms of computational time, the time-domain calculation proved to be approximately 10% faster than the frequency-domain calculation, with a theoretical calculation error of less than 10-10%."
+"Furthermore, it was discovered that the error was directly associated with the type of variables used."
+"When employing double variables, the error remained within the range of 10-10%, while using long double variables ensured that the error did not exceed 10-12%."

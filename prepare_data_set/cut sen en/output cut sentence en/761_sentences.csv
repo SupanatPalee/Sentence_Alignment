@@ -1,0 +1,19 @@
+Efficient mixing is required in various industries to require homogeneity and system consistency.
+DC motor speed control is important for mixing processes.
+"In this study, proportional integral (PI) controllers and proportional integral derivative (PID) controllers with simple first order filters designed in MATLAB/Simulink are compared using three different tuning methods such as Ziegler-Nichols (ZN) step response, Chien-Hrones-Reswick (CHR) step response and Closed-loop Pole placement design methods."
+The purpose of DC motor speed control is to respond quickly without overshoot to prevent damage to the DC motor.
+"Therefore, Kalman filter is considered to eliminate the occurrence of excessive overshoot."
+The motor output signal is detected by an encoder and is then converted to revolutions per minute unit (rpm) before going through the noise reduction and the controller respectively.
+The motor input is a pulse width modulation (PWM) cycle signal which is set in the range of 0-255.
+Experimental results show that the Kalman filter is excellent in all cases the noise and excessive overshoot of the DC motor speed.
+It can also accurately assess its state and can be used to reduce the aggressiveness of DC motor responses.
+The DC motor speed control performance of the controllers based three different tuning methods are also compared.
+It found that the PID controller based pole placement tuning method with the Kalman filter provide the most efficient response without overshoot for all desired speed values.
+"The objective of this research titled vehicle routing by using a saving algorithm: a case study of community drinking water factory of Khok Chan Subdistrict, Utumpornpisai District, Sisaket Province was to compare the current vehicle routing with vehicle routing by using a saving algorithm (SA)."
+The problems found in this factory were a lack of full vehicle capacity and the experience of staffs was the main decision to choose the transport routes.
+"As a result, there is a lack of transportation efficiency."
+"In this study, capacity constraints of transport vehicles had been taken into consideration."
+The result found that using Saving Algorithm (SA) method could reduce the distance by 14.1 kilometers (total distance from 118.7 kilometers to 104.6 kilometers) or 11.88%.
+"As a result, fuel costs were decreased by 47.94 baht per day."
+"This represented a fuel cost savings of 1,438.2 baht per month."
+"From the results of this research, it can be concluded that the saving algorithm method makes this transportation more efficient."

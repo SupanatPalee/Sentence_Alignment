@@ -1,0 +1,4 @@
+This paper proposes application for calibrating the light source using the LabVIEW program.
+A LabVIEW program is used for controlling parameters of optical measuring system (OMS-100).
+"This program allows us to analyze the relative error and display the relation between the relative error and time, according to the consideration for standard criterion of light source equipment."
+"Obviously, our system can obtain the high performance and reduce the error of the calibration."

@@ -1,0 +1,7 @@
+"This research aims to calculate standard time in workstations of vehicle inspection department and shorten the inspection time of workstations which have inspection time higher than 5 minutes per car, which is the factory goal."
+"From the standard time calculation of 15 workstations, there are 4 of them which have inspection time higher than 5 minutes per car."
+"However, due to the constraints of equipment, only 3 workstations, which are Specification Exterior (UK), Specification Interior (UK) and Keyless (UK), can be improved to shorten the inspection time."
+"The research applies DMAIC, ECRS principles along with applying Fishbone Diagram as a root cause finder and Flow Process Chart as an activity observer."
+"After applying all those principles and tools, the inspection times of those 3 workstations are shortened from 6.21, 5.43 and 5.21 minutes per car respectively to 4.22, 4.84 and 4.96 minutes per car respectively (reduced by 32.05%, 10.87% and 4.8% respectively)."
+All 3 improved workstations are now having inspection time less than 5 minutes.
+The researcher also writes Work Instructions (WI) for the change of process in those 3 workstations.

@@ -1,0 +1,8 @@
+Vehicle Routing Problem (VRP) is one of the popular problems in the transportation and logistics industry.
+"With various types of constraints being difficult to solve, VRP with time windows (VRPTW) has received a large amount of attention from researchers."
+"Usually, the objective of VRPTW is to specify the routes for the vehicles such that the total transportation distance is minimized."
+This study proposes an Artificial Bee Colony Optimization with Adaptive Local Search (ALABCO) for VRPTW.
+"In this method, the local search method is adapted to improve the quality solution that adapted for escaping the local optima."
+The repair procedure is used for changing infeasible solutions that exceed capacity and violate time windows to feasible solutions.
+The proposed method has been tested in Solomon instances in different problems and compared to other existing algorithms.
+The results show that the proposed method is effective in solving problem.

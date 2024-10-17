@@ -1,0 +1,8 @@
+This paper presents the design and construction of a lemon sorting machine using embedded system.
+"The machine has four sections, i.e."
+"lemon slot, lemon sorting, lemon counting and lemon weighing sections."
+"The machine can separate three lemon sizes, i.e."
+"small size lemon has diameter less than 27 mm, medium size lemon has diameter 27 - 40 mm, and the large size lemon has diameter above 40 mm."
+The Arduino has been used for process control of the machine.
+Two types of functionalities are available: counting and weighing.
+"The testing results found that the averaged accuracy of sorting and counting the small size lemon, the medium size lemon and the large size lemon in the first case was 97.5, 98.5 and 100 percentage respectively and in the final case of sorting and weighing was 98.7, 99.3 and 100 percentage respectively."

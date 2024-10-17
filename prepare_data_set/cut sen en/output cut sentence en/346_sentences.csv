@@ -1,0 +1,6 @@
+This paper focuses on studying an application of the heuristics algorithms.
+They have developed for parallel machines scheduling in various industries.
+"Three case studies including dishwashing, raw rubber sheet, and sea freight industries have conducted to results comparison."
+"The algorithm used in the production scheduling for all case studies are 6 algorithms, consisting of 4 algorithms derived from the existing algorithms, namely SPT-BL, SPT- UL, EDD-BL, EDD-UL and 2 new algorithms, LBL and LUL."
+"From experimental computing, it founds that  the algorithm suitable for the dishwashing industry and raw rubber sheet industry is the LUL algorithm."
+"The algorithm that is suitable for the sea freight industry is the algorithms namely SPT-UL, EDD-UL and LUL Keywords: Heuristics, Parallel machines, Production scheduling"

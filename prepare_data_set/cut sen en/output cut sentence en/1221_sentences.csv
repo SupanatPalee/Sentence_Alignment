@@ -1,0 +1,7 @@
+Seismic analysis of vertical steel vessels can be performed by using an equivalent static force procedure and a dynamic analysis method.
+The equivalent static method is commonly used to determine earthquake load because it is a simple design method.
+"However, a dynamic analysis may be required in the case of unusual structures that have significant irregularities in mass, such as vertical steel vessels with differences in mass distribution."
+This study aimed to evaluate the seismic response of vertical steel vessels by comparing the results of base shear and overturning moment between the equivalent static method and modal response spectrum analysis by simplified model and 3D finite element model that used STAAD Pro for creating the geometry of a vertical steel vessel.
+"The acceleration used for seismic analysis of Bangkok’s soft soil area (Zone 5), referring to the standard for earthquake-resistant design of structures (DPT."
+"1302-52), depends on the period of vibration on the vertical steel vessel in each load case."
+"The results of the study indicated that almost all analytical models by dynamic analysis method resulted in base shear around 25-36% lower than that analyzed by the equivalent static method for empty condition and 23-32% for operation condition, excluding the simplified model (single lumped mass model), which yielded base shear close to the equivalent static analysis method at 2.7% and 1.7% higher for the empty and operation conditions, respectively."

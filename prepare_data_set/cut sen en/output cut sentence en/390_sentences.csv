@@ -1,0 +1,5 @@
+This research presents the developments of a solar power system measurement system for research studies using the NETPIE platform.
+"In addition, there is the application of Internet of Things technology (IoT) to measurement and display systems for research studies related to solar power generation systems for the convenience of research studies."
+"A work process is a group of electrical measurement circuits with two sets of voltage, current, solar panel temperature, and environmental sensors such as solar radiation, ambient light, wind speed, temperature, and relative humidity."
+"Signals are sent to two NodeMCU ESP32 processor boards, communicated via NETPIE cloud servers with MQTT protocol, the measurement systems can be displayed on a computer laptop or smartphone both on-site and remotely."
+"The result of the evaluation test revealed that the proposed measurement system has an all-day Mean Absolute Error (MAE) of less than 3%, which can be effectively used in a research study on the performance of solar power generation systems."

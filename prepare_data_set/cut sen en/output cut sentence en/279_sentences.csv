@@ -1,0 +1,13 @@
+"Generally, the maintenance of protective relays in substation often faces difficult issues because the number of devices is huge."
+"Besides, the protective relays have different models, brands and technologies, service lifetime, used environments and applications to customer loads, etc."
+The protective relays are also different from other power devices in that they only operate when a fault occurs in the power system.
+"Therefore, the protective relays are less risk of failures, and their deteriorations are not obvious."
+"However, the impacts caused by relays' failures will lead to serious damages to other high-cost equipment and dangers to operators."
+"As a result, they cause power outages or disturbances in a wide area."
+This paper proposes a method for assessing the risk of protective relays in the substation.
+The study consists of two main parts: (1) the condition assessment of the protective relays related to the probability of failure and (2) the criticality assessment of the relays to show the importance of impacts when relays fail to operate.
+The maintenance data from the diagnostic test and the historical operation data are used for assessing the conditions of protective relays.
+"The substation tier, relay scheme, bus configuration, and load importance are used for assessing the criticality of protective relays."
+The results are proposed with the case study of 10 micro-processer protective relays installed at Pathum Thani 2 and Pathum Thani 3 substations of the Provincial Electricity Authority (PEA).
+Each protective relay can be replaced with different risk phases.
+"Moreover, obtaining results can be utilized to prioritize maintenance and select the appropriate protective relay maintenance activities for receiving economic worthiness."

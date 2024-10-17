@@ -1,0 +1,9 @@
+"Thailand has entered an aging society as a result of its population's longevity; in 2020, there were 11.627 million persons in Thailand who were 60 or older, or 17.57 percent of the country's overall population."
+"By 2030, Thailand will have a population that is 60 years of age or older, making up approximately 28% of the total population."
+"Everyone's body naturally deteriorates with age, and dementia, particularly Alzheimer's disease, is one of the more common conditions."
+"The number of individuals who have this disease increases with age, increasing by around double every five years."
+Both treatment and prevention are not possible for this illness.
+Early detection of Alzheimer's disease increases the likelihood that symptoms can be treated to improve or delay further decline.
+"In this study, simple data preparation techniques and magnetic resonance imaging (MRI) data were used to categorize Alzheimer's disease using deep neural network (DNN)."
+"The 5,121 total images used in this study were composed of 2,560 MRI images for the normal case and 2,561 MRI images for the Alzheimer case."
+"According to the data analysis, this model has an accuracy of 97.56%, a precision of 98.22%, a recall of 96.89%, and an F1Score of 97.54%."

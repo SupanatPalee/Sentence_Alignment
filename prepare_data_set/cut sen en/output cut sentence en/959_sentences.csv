@@ -1,0 +1,7 @@
+"Automated manufacturing technology assumes a pivotal role within the framework of Industry 4.0, enhancing productivity, adaptability, precision, and cost-efficiency."
+"Particularly notable is its application in streamlining repetitive tasks such as product sorting, where robotic arms increasingly substitute human labor."
+"Simultaneously, the integration of industrial Internet of Things (IIoT) systems with automation enhances monitoring, control, and data aggregation capacities within production environments."
+"This article aims to integrate an automated workpiece conveying and sorting system with a workpiece feeding mechanism, employing conveyor belts, robotic arms, IIoT systems, and Programmable Logic Controllers (PLCs)."
+It integrates the utilization of the robot arm and industrial-grade control apparatus with a workpiece feeding mechanism driven by an embedded Arduino microcontroller.
+"The evaluation of the synchronization system between the workpiece feeding mechanism, conveyor belt, and robot arm for organizing six cylindrical workpieces onto a pallet, positioned in three rows, was conducted by activating the system via a push-button switch and a cloud-based SCADA system."
+"It was determined that the system functioned as intended, achieving an average process cycle time reduction from 116 seconds to 98 seconds, and the average maximum position error in the x and y axes when placing the object was 0.1 mm, with the robot arm speed increased from 25 percent to 50 percent."

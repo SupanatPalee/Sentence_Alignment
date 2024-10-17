@@ -1,0 +1,8 @@
+This paper aims to design and development experimental set of sound resonance in the pipe by using Arduino.
+The purposes of study were to design and development of experimental set of sound resonance accurate theories for teaching and learning of sound resonance.
+This set of experiments compose of a 1.2 meter long PVC pipe as a closed end pipe.
+The pipe length can adjust by sliding piston within the pipe.
+"Use a smartphone installation application Function Generator connect via Bluetooth speaker as sound source by releasing the frequencies from 400, 500, and 700 Hz."
+Arduino measure a distance meter (x) to calculate the speed of sound.
+The results showed that the speed of sound was close to the theory.
+The error is 14.94%.

@@ -1,0 +1,12 @@
+The study of charging station for supporting electric vehicles was done by simulations.
+"The objectives are studying the electric vehicle charging process, analyzing, and evaluating the service level to obtain the appropriate ratio for slow and fast chargers in the station and to support the use of electric cars in the future."
+"Samples in this research were electric vehicles, both PHEV and BEV types."
+ARENA program was used to study the simulation.
+Queue length and waiting time are the measurement for the model to obtain the appropriate resource for the customer arrival rate and economics analysis provides the return on investment in the electric charging service station business.
+The results showed that BEV type electric vehicles can use both fast and slow chargers while PHEV electric vehicles can only use a slow charger.
+"By studying the pattern that drivers take their electric vehicles to charge and automatically pay for the service, the average duration obtained form the fast chargers was 35.5 min, while the average duration from slow chargers was 28.9 min."
+"To account for the future demand for stations with the small size, the researcher simulated the service management model of 6- charger station and found that the 3rd model with 2 fast chargers and 4 slow chargers is the most suitable because the results of waiting time and the number of queues are significantly less than other types."
+It can accommodate 63 cars per day for fast chargers and 98 cars per day for slow chargers.
+The internal rate of return is 14.23% and the payback period is 6.1 years.
+"If the utilization rate increases by 20 percent, there will be an internal rate of return of 20.90% with the payback period of 5.0 years."
+"If the use of service has decreased by 20%, yielding an internal rate of return of 7.08% with the payback period of 7.6 years."

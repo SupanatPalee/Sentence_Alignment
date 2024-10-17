@@ -1,0 +1,6 @@
+Prototype mapping robot is to study the systems and methods for mapping simulation and control of various functions of the robot.
+An Arduino MEGA2560 is programmed using an integrated development environment (IDE) in order to control the robot motion and odometry.
+Sensors are used to analyze the environment and control the robot path for simulating the map.
+This paper is to focus on the principle of odometry and how to use it on prototype mapping robot.
+Experimental results show that the movement of the robot can move and simulate the map.
+We found that the skid steering and position drift in the direction of the robot’s movement can cause errors.

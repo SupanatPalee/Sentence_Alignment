@@ -1,0 +1,7 @@
+"This research aims to study and design a water-drinking meter for chickens, displaying results through an IoT system (DWMCs)."
+The device is created using a microcontroller to control pressure-sensing sensors for measuring water volume.
+Data is presented through the Internet of Things (IoT) using NETPIE's Cloud Platform service.
+Testing the DWMCs compared to standard meters in measuring water volume in a laboratory setting revealed an average percentage error of 1.32%.
+This indicates that the DWMCs have a low percentage error in measuring water volume and can be used to test chicken drinking behavior.
+"In practical application tests, measuring chicken water consumption using DWMCs compared to standard meters showed an average percentage error of 1.35%."
+"The research concludes that DWMCs can be applied for beneficial measuring chicken water consumption, and users can monitor chicken drinking behavior through the internet at any time."

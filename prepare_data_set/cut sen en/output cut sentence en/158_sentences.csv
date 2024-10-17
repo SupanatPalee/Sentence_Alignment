@@ -1,0 +1,8 @@
+"Planning can be regarded as management to increase efficiency, but it was found that the Thap Kaew drinking water plant at Nakhon Ratchasima Rajabhat University does not have a transport schedule, causing problems in transportation for customers who do not follow the appointment."
+"Based on the aforementioned problems, this research aims to manage the transportation of drinking water according to the customer's appointment and deliver drinking water within a limited time."
+"This problem was solved by using mathematical models and the allocation of tasks by smooth production, with the purpose of ensuring that the daily tasks are distributed evenly."
+The solution is divided into two levels: 1) the routing of potable water transport under truck capacity conditions and 2) transportation planning under a production time frame.
+"However, this case study has production capacity constraints as follows: the capacity to produce drinking water at an amount of 150 dozen/day, the total number of 22 customers, and a delivery time of 2 hours/day."
+"The results of this study found that the production quantity and drinking water transportation schedule can be arranged using a total of 3 days, consisting of: on Day 1, delivery for 142 dozen of drinking water to 5 customers took 1 hour, 47 minutes, and 41 seconds."
+"On Day 2, water delivery takes 1 hour, 47 minutes, and 20 seconds for 146 dozen to 8 customers."
+"On Day 3, water delivery for 144 dozen to 9 customers took 1 hour, 39 minutes, and 39 seconds; furthermore, fuel costs can be reduced by 91.5 percent."

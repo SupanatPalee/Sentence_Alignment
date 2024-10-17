@@ -1,0 +1,16 @@
+"Nowadays, users can make a decision to order online goods and services from searching information related to goods and services."
+These may be based on opinions and reviews from previous purchasers as a guideline for purchasing decisions.
+"Moreover, the current opinions information and reviews are enormous and increased all the time."
+consumers have to spend time for information analytics.
+"Therefore, the model of sentiment analysis regarding goods and services reviews is needed."
+This research aims to build a model of Sentiment analysis with 3-level of emotion.
+"they are positive neutral and negative, regarding previous user’s reviews and opinions towards online products and services."
+"The techniques used in this research are Machine Learning including Word Segmentation and Bag of Words which compared four categories of sentiment analysis methods: LSTM, SGD, Logistic Regression and Support Vector Machines."
+There are 5 steps for model building as following: 1) Data Preparation Phase 2) Word Tokenization Phase 3) Training & Streaming Phase 4) Classification phase and 5) Model Evaluation Phase.
+"The consumers’ opinions were gathered the datasets from open data with number of 12,900 comments."
+"The model can help consumers to make a decision for purchasing of goods and services, and help entrepreneurs gain the information."
+This is to improve products and services in the future.
+"This proposed method can classify the opinions into 3 scales which are positive, neutral and negative opinions."
+"In summary, the proposed sentiment analysis model can perform LSTM accuracy is at 81.27%, Logistic Regression accuracy is at 69%, SGD accuracy is at 66% and Support Vector Machines accuracy is at 65%."
+"However, the LSTM shows better performance on the classification compared to other techniques with deep learning approach."
+It also found that the F1-score can be implemented for Thai text appropriately.

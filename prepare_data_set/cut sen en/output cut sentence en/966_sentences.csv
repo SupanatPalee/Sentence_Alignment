@@ -1,0 +1,7 @@
+"Corn silage, a high-quality animal feed is well-known for ruminants."
+"In corn silage production, the main problem is the lack of corn plants."
+The purpose of this study is to reinforce procurement management for a corn silage production company.
+"This research implemented mixed integer linear programming (MILP) to solve the truck allocation problem and simultaneously helping make decisions in the resource procurement selection planning, aiming to minimize total cost regarding transportation and procurement costs, resource demand, customer demand, supply sources, production capacity, and transport planning decisions for different vehicles."
+"Regarding the test of the proposed model, it used the data obtained from a corn silage production company in Sukhothai province, Thailand, and employed Microsoft Excel Solver to find the solutions."
+"The results found that the minimum total costs were 318,757.60 Baht, comprising transportation costs from the planting areas to the plant of 7,507.60 Baht and resource purchasing costs of 311,250 Baht."
+"In conclusion, this research has proposed that mixed integer linear programming can gain a suitable and exact cost for a real-world application."

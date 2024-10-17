@@ -1,0 +1,6 @@
+The paper presents the theoretical behavior of hydrodynamic air lubrication of Tapered-land type air thrust bearing under steady state condition.
+When not considering the effect of temperature changes on the air film in thrust bearing.
+"Using the finite difference method and multi-grid multileveltechnique with Newton-Raphson method for solving modified Reynolds Equation to obtain the air film pressure and air film thickness profiles in thrust bearing surface with various the applied load, shaft speeds, thrust tapered height and air inlet temperature."
+"The simulation results shown the increasing of applied load, the maximum film pressure increases but the minimum film thickness decreases."
+When shaft speed increases cause the maximum film pressure decreases but minimum film thickness increases.
+"For increasing of thrust tapered height, the maximum film pressure increases but minimum film thickness decreases, and air inlet temperature increases cause the maximum film pressure decreases but minimum film thickness increases."

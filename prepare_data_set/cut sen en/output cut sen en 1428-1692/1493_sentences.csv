@@ -1,0 +1,5 @@
+"The objectives of this study to study CA-Markov model and CLUE-S model for land use prediction in National Reserved Forest, Nan Province and land use prediction in National Reserved Forest, Nan Province in 2020."
+This study found that CA-Markov model indicated that overall accuracy percentage 90.95 and Kappa statistic at 0.80 and CLUE-S model indicated that overall accuracy percentage 91.96 and Kappa statistic at 0.82.
+The result indicate the CA-Markov model could predict land use from data in both period.
+And CLUE-S model must have the factor for finding relationship between class of land use and other factor.
+"Therefore, the result of CLUE-S model was usefulness than CA-Markov model."

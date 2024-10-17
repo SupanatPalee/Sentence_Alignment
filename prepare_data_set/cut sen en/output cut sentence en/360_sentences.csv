@@ -1,0 +1,8 @@
+"In general, the oil and gas petroleum industry or petrochemicals use the pipeline inspection gauges (PIG) by entering the PIG inside the pipeline to inspect the corrosion or deterioration of the pipeline."
+"During the inspection process, this PIG will often be trapped in the pipeline because the uneven surface or bending of pipeline."
+"In this research, we present the design and development of electromagnetic transmitter and receiver for pipeline inspection gauge to reduce dependence on foreign technology."
+We use the property of electromagnetic wave frequency 22 Hz for communication between transmitter and receiver.
+Microcontroller is used for processing to detect and calculate the position of PIG in the pipeline.
+It will be tested with the diameter of pipeline size 6 inches and the thickness 7.11 millimeters.
+"From our experiment results, the transmitter and receiver can communicate effectively at the frequency of 22 Hz."
+"The farthest distance detection in the vertical and horizontal is 12 and 10 cm, respectively, and provides the average correctness of position detection as 94%."

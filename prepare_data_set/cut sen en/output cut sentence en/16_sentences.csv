@@ -1,0 +1,7 @@
+Development of mask classification and wearing detection program with image processing technology which is purpose to classify and detect wearing masks.
+There are three steps 1) data set preparation 2) model training and 3) mask classification and wearing.
+"Our research collected datasets with 4 classes; class 1: non-wearing mask, class 2: surgical mask, class 3: cloth mask, and class 4: N95 mask."
+"Our mask classification and wearing detection experiment, two algorithms which are YOLOv4 on Tensorflow and YOLOv5 on Pytorch are compared with 2,311 datasets."
+We found that the average of accuracy (mAP) of the YOLOv5 (0.9943) is better than the YOLOv4 (0.9057) while the YOLOv5 can classify the cloth mask with the maximum F1-score at 0.9995.
+Twelve persons are set in the real situation with webcam.
+The result shown that the YOLOv5 model can correctly detect the 11 persons (0.91%).

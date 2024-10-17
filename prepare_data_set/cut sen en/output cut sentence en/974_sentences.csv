@@ -1,0 +1,8 @@
+"People entering the workplace should be screened for COVID-19 by having their masks checked, their body temperatures taken, and their hand hygiene kept with alcohol gel."
+"In order to detect mask wearing, this study applied image processing and a deep learning neural network using a Raspberry Pi board as a technology for preliminary assessments."
+A wireless temperature sensor and spoken instructions were also used to display the body temperature on an LCD panel.
+"When someone passed the mask-wearing inspection, the system alerted them to use the gel dispenser, which was turned on by a servo motor instruction and a palm detecting ultrasonic sensor."
+The gate barrier would open to provide entrance to the service once the screening was complete.
+The computer algorithm used in this study achieved a 97.2% accuracy rate in detecting masks.
+The effectiveness of the workplace screening system was 21.54 seconds per person.
+It was found that the system could be used to screen people entering the workplace.

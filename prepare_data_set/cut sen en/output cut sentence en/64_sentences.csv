@@ -1,0 +1,16 @@
+This article studies the application of unmanned aerial vehicles (UAVs) for measuring earthwork volume by using the surface-to-surface method.
+It compares embankment volume between total station survey and UAV.
+"The aerial photographs are controlled using Ground Control Points (GCPs), with a total of 5 points."
+The GCPs are measured using a Global Navigation Satellite System (GNSS) receiver in a Network Real-Time Kinematic (RTK) system.
+The study area is a local road in Lampang Province.
+The flying heights were 131 meters above the terrain with total of 35 images at average ground sampling distance (GSD) about 3.60 cm per pixel.
+Frontal and side overlap settings were at 85% and 75% respectively.
+"The positional accuracy of the aerial photographs acquired by the UAV is compared to the check points, and the displacements in the X, Y, and Z axes are found to be 6.787 4.023 and 5.048 cm."
+respectively.
+The horizontal and vertical positional accuracies are evaluated against the ASPRS standards.
+"The horizontal accuracy is within the class 12.5 cm, and the vertical accuracy is within the class 20 cm for vegetated areas."
+"The earth volume calculation is performed using the Earthwork Reports method, employing the Surface-to-Surface calculation approach."
+The calculated earth volumes from the surveying camera and aerial photographs are determined to be 620.5 cu.m.
+and 570.7 cu.m.
+"respectively, resulting in a difference of 49.8 cubic meters or approximately 8%."
+This study shows the application of unmanned aerial vehicles and GNSS-Based DEMs for evaluating earthwork volume which can be applied road construction and maintenance works.

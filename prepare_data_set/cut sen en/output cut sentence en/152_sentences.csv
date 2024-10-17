@@ -1,0 +1,7 @@
+This research presents the development of a low-cost optical measurement system for the detection of methanol in the methanol – ethanol mixtures.
+"The developed system consists of a laser diode, photodiode, and single-board computer as light source, photodetector, and processing unit, respectively."
+"In the experiment, the transparent adhesive tape becomes translucent tape when exposed to vapors from the methanol-ethanol mixture."
+The rate of change to translucent tape varies with the concentration of methanol in the mixture.
+It was found that both the transmitted light intensity obtained from a commercial device and the reflected light intensity obtained from a developed system decrease when the concentration of methanol in the mixtures increases.
+"In addition, a developed system has a nonlinear response, while extending the measurement time increases the sensitivity of the system."
+"These results show the feasibility to detect methanol in a methanol-ethanol mixture using a developed system, which is low-cost, simple, and easy to use."

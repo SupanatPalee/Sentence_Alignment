@@ -1,0 +1,6 @@
+"This article focuses on the queuing system study in outpatient services, Laem Chabang hospital, Chonburi."
+"Due to increasing number of patients continuously, the hospital has met a long waiting time problem for patients."
+"The service procedures are as follow (1) enrollment (2)  weighing/measuring height/pressure measurement (3) history review (4) examination (5) Bloodshed (6) wait after the doctor (7) get medication, then service completion."
+Thus work improvement concepts have been developed and the simulation theory is applied instead of real system.
+Ten scenarios come from 3 approaches: (1) combining service points; (2) doctor’s schedule adjustment; and (3) Type 2 patient appointment with service starting at noon.
+"Experimental results show that the best plan improves efficiencies as follow: the number of patients receiving the service increases with 10 persons per day; the total duration of the first patient type is reduced as 45.48 minutes; the total duration of the second patient type is reduced as 23:53 minutes, and the total duration of the third patient type is reduced as 49.13 minutes."

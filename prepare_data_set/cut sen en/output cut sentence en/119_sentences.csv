@@ -1,0 +1,5 @@
+"This paper proposes using Microcontroller system to control internal environment of farming by controlling the temperature to humidity ratio with a resolution of +/- 5%, by calculating the average of measurements from four sensors."
+"In this experiment, the system was installed in a small Greenhouse to record information Data-log into Database for analysis and control to improve the productivity of crops in each condition."
+"However, due to limitations in certain areas, i.e."
+"no Internet access, this research has solved the problem by sending temperature and humidity information to the receiving station over RF (Radio Frequency) waves using the transmission APRS (Automatic Position Report System) protocol."
+This protocol enables database access via the Internet in another location that is not more than 1-2 km away.

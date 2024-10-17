@@ -1,0 +1,6 @@
+The control system of solar-energy conversion into electricity incorporates a PV panel served as DC power supply and needs a sensor sensing solar-array DC current.
+The control scheme utilizes the average of solar-array current for seeking a MPP of the PV panel.
+This paper presents the average-current estimator which computes the mean current flowing out from a DC power supply and also reviews the first-order sliding-mode observer which evaluates an instantaneous current that issues from the same DC power supply.
+The proposed estimator and the previous observer are formulated in order to further supplant such a sensor.
+"When the PV panel is displaced by a single-phase rectifier, performance comparison between the estimator and the observer will be facilitated."
+Simulation and experiment results point out the closeness of the estimated and measured average currents.

@@ -1,0 +1,13 @@
+3D printing machines are very influential for engineering design.
+This machine is widely used in industry and educational institutions.
+"There are many types of plastics used as printing material, such as PLA, ABS, PET, Nylon, TPU, PA, and HDPE."
+Some types are expensive.
+"In addition, the problem of plastics waste is increased every day."
+"Therefore, in this research, the objective was as follows: Recycled plastic extrusion quality, Print quality with a 3D printer and economic analysis."
+"Recycled plastics of HDPE, ABS, and PLA were used as sample materials."
+The plastics extruder machine was designed and built.
+This machine was controlled by a Programmable Logic Controller (PLC) including an automatic extrusion heat control system and a rolling storage system.
+The results showed that PLA recycled plastics could not be extruded and stabilized according to the die design.
+Recycled plastics of HDPE and ABS could be extruded into filaments but the quality of filaments was approximately 60% for HDPE and 78% for ABS comparing with the standard size of the filament.
+"When these filaments were used to print the 3D part, the quality of the ABS recycled plastics is greater than HDPE recycled plastics such as surface finishing, printing convenience and adhesiveness between layers."
+"In economics, ABS recycled plastics can be used as a good substitute for 3D printing with 83.4% materials cost reduction."

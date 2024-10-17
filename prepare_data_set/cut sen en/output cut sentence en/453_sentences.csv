@@ -1,0 +1,6 @@
+"In image processing, the methods to detect the edge of image by Prewitt, Sobel and Candy are based on the principle of gradient by finding the maximum and minimum points in the form of the first derivative of the image."
+"In addition, there is a one of method to identify ambiguous edge, called fuzzy logic edge detection."
+"However, those methods cannot calculate the distance between the pixels of line of the image."
+"In this research, the Euclidean distance method is applied to measure the pixel distance of image to identify water level of natural canals."
+"The experiment results show that the mean square error and mean absolute deviation of Prewitt, Sobel and Kandy methods are greater than the fuzzy logic edge detection method."
+"Therefore, the fuzzy logic edge detection is very effective method to identify the water level of image."

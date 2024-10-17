@@ -1,0 +1,9 @@
+The purpose of this study was to investigate service user queuing behavior of customers at service points and problem analysis of service system at SAPHAN-TAKSIN BTS station by study of simulation for queuing system using PTV VIiswalk.
+"Case study, the critical point of service is the ticket office and Ticket Issuing Machine (TIM)."
+With station space restrictions which has a different building structure from the general station.
+The research therefore simulated 2 scenarios in order to find suitable solutions.
+This research compared the original scenario with scenario 1 and scenario 2.
+"According to PTV Viswalk, there is indicators consist of aggregated total average time in queue of each model and total average queue length of each model."
+All parameters indicate that the model 1 is the most efficient model.
+It has been renovated by adding 1 ticket office and 2 ticket vending machines (TVM) at Exit 1-2 and Exit 3-4.
+Which had the minimum average queuing time was 25.54 seconds and the minimum average queuing length was 0.53 people.

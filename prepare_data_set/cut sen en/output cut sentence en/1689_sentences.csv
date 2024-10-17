@@ -1,0 +1,9 @@
+"This research aimed to 1) compare the effectiveness of using deep convolutional neural networks to classify the gender of guppy fish from images taken at different angles, and 2) test the efficiency of counting guppy fish using image processing technology with a dataset of 19,665 images captured in the real environment in Mueang Nakhon Pathom and Nakhon Chai Si districts, Nakhon Pathom province."
+The data were processed and analyzed using Python software with deep convolutional neural networks and image processing technology.
+The results revealed that the classification of guppy fish gender from side-view images using deep convolutional neural networks The highest average accuracy value was obtained: mAP = 0.98.
+"This was followed by images that combined both top and side views, and then by top-view images, respectively."
+"A detailed consideration found that side-view images provided the highest accuracy as they distinctly displayed the fish body, color, and tail fin."
+"Furthermore, the efficiency of counting guppy fish using image processing technology with images taken under LED lighting resulted in a root mean squared error of 1.92, which is lower than images captured under natural light."
+This is because LED lighting allows clearer image captures and consistent light control throughout the day.
+The research outcomes can be integrated with hardware to develop a system for classifying gender and counting guppy fish.
+"This will assist guppy fish breeders in accurately, swiftly, and effectively segregating by gender and counting their guppy fish populations."

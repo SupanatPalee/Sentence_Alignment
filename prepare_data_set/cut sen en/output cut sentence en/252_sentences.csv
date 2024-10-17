@@ -1,0 +1,7 @@
+"Generally, the mathematical model of power converters is time-varying due to the switching action."
+This model is very complex for the system stability analysis and controller design.
+"In this paper, the time invariant model derivation will be presented by using the DQ method."
+The proposed model is suitable for the controller design via the artificial intelligences in which the adaptive Tabu search will be applied.
+"To confirm the model, the MATLAB/SimPowerSystem® is used for the model validation."
+"In addition, the hardware-in-loop simulation is used to ensure that the output voltage from the PWM rectifier can be regulated by using the PI controller in which the coefficient values of this controller are identified by the proposed method."
+The simulation results show that the proposed PI controller design can provide the better responses compared with the conventional design in both transient and steady-state.

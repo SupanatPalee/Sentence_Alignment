@@ -1,0 +1,8 @@
+The electric furnace temperature control system is one of the real-world second-order systems plus time delay (SOSPD) widely used as the process control in industries.
+It is normally operated under the PID feedback control loop.
+"The PIDA controller, however, performed better response than the PID controller for higher order plant."
+"In this paper, an optimal PIDA controller design for the electric furnace temperature control system is presented."
+"Regarding to modern optimization context, the Bat-inspired Algorithm (BA) which is one of the most efficient population-based metaheuristic optimization techniques is applied to search for the appropriate PIDA’s parameters."
+The proposed BA-based PIDA design framework is considered as the constrained optimization problem.
+System responses obtained by the PIDA controller designed by the BA will be compared with those obtained by the PIDA controller also designed by the BA.
+"As results, it was found that the PIDA can provides the very satisfactory tracking and regulating responses of the electric furnace temperature control system superior to the PIDA, significantly."

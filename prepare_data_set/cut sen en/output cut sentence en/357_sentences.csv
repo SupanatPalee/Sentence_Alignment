@@ -1,0 +1,4 @@
+The designs and applications of a circuit building block called as Current Differencing Buffered Amplifier (CDBA) are reviewed in this article.
+The basic concept of CDBA is outlined and then 5 realization methods in CMOS integrated circuit forms are explained and their performances are compared.
+"Since it is a cascade connection of unity gain current amplifier and unity gain voltage amplifier, the CDBA circuits are simple, wide bandwidth and can be employed to implement voltage-mode and current-mode analog signal processing systems."
+"The applications of CDBA to synthesis filter and oscillator are reviewed as follows: The use of CDBA to synthesize current-mode passive RLC ladder network using block substitution process, Signal flow graph synthesis of general th order current-mode transfer function, first-order and second-order filter sections, single phase oscillators, quadrature oscillators, multiphase oscillators and analog function circuits."

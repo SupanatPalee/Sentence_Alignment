@@ -1,0 +1,11 @@
+This paper presents the transceiver design of LED-based visible light communication system at the range of 7 meters.
+Dimensions of transceiver box are of 7.5 cm x 10.5 cm x 6 cm.
+This box consists of a light transmission controller module with development board: Arduino Nano V3.0.
+The transmitter consists of a LED-based driver circuit.
+The receiver consists of a TEMT6000 ambient light sensor module and a LM358 power amplifier.
+Types of used files are text and image files.
+The experiments are included with light transmission program with Visual Studio C # software.
+Experimented and installed in a wide area without any obstructions during data transmission is used.
+"Results of experiment show that the transmitted light data are sent at 50, 100, 150 and 200 cm."
+"At the distance of 200 cm, the received data is distorted for image file."
+It can be concluded that the received data will cause more distortion when the distance is more than 200 cm.

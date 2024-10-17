@@ -1,0 +1,8 @@
+The tree drawing test is one of the most popular projective test tools used by clinical psychologists to determine the mental state of the person taking the test.
+"There are many characteristics of tree drawing that clinical psychologists have used in their analysis, such as crown, trunk, branch, root, ground of tree."
+The advantages of using the tree drawing test are that it allows you to know the mental state of the person and can be used on people of all ages.
+"On the other hand, the disadvantage is that it requires an expert to interpret the results."
+"This research aimed to develop a prototype of an automated screening system for mentally ill patients using tree drawings by starting with the detection of crown and trunk objects, one of the key features in tree drawings."
+"Using deep learning, clinical psychologists automatically detect crown and trunk for width and length, and then use the data for subsequent analysis."
+The deep learning model used in this research was the SSD MobileNet model.
+"As a result, the model was able to detect crown and trunk with average accuracy of 86.38% and 54.21%, respectively."

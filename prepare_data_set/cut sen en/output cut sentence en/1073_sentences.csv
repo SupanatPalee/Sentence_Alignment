@@ -1,0 +1,9 @@
+"In this study, the concept of utilizing the low-temperature heat from solar energy for power generation by a small-scale Organic Rankine Cycle system is proposed."
+"The system is mathematically modeled and simulated to evaluate an appropriate of solar collectors and size of the thermal energy storage (TES) to produce the highest electricity, and the lowest levelized cost of electricity (LCOE) of the power system."
+The weather condition of Bangkok was taken as the input data of the simulation.
+"The system is analyzed by using three different capacities (20, 40, and 60 kWe) of the ORC system with R-245fa in combination with solar water heating system (SWHS), using four different models."
+"Flat-plate, evacuated-tube, and compound parabolic concentrator (CPC) solar collectors were used to generate heat with optical efficiency   of 0.74, 0.57, 0.72, overall heat transfer coefficient  of 3.62, 0.75, 0.97 W/m2-K, and collector area of 2.08, 2.37, 2.61 m2 per unit, respectively."
+"Each type of the collectors was connected in parallel between 100 and 1200 units, and size of the TES between 2500 and 50000 litres."
+The results of the evaluation showed that the greater number of solar collectors are the more electricity of the systems can generate.
+"It can generate the highest electricity of 97.02 MWh/Year, with the lowest of the LCOE of 0.999 USD/kWh when a 60 kWe of ORC power generation combined with 2000 units of solar collectors and the TES of 42500 litres with initial investment of the collectors and the TES taken into consideration."
+"Moreover, in terms of the environment impact, as the same number of solar collectors the system can reduce CO2 emission of 67.06 Ton CO2 eq./Year."

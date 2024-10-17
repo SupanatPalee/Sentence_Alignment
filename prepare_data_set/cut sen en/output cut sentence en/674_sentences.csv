@@ -1,0 +1,7 @@
+The paper presents a wind power generator from an evaporative cooling system by wind turbine generator system.
+"Generally, the output power of wind turbines extracted from wind energy depends on wind speed in which the characteristic is non-linear."
+Only one operating point providing the maximum power is available.
+"Therefore, the maximum power point tracking control is important."
+The proposed technique will show that the maximum power can be obtained.
+The simulation and experiment are used to study and develop the maximum power point tracking algorithm.
+Hardware experimental results from prototype are presented to verify performance of the proposed power generation from evaporative cooling system.

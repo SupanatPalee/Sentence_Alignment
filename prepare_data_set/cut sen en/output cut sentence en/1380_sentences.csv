@@ -1,0 +1,5 @@
+This paper presents the spline adaptive filtering based on normalized least mean square (NLMS) algorithm.
+"The proposed spline adaptive filtering can improve and develop their coefficient vectors, which can converge to optimum values."
+The basic theory of spline adaptive filtering is based on adaptive NLMS algorithm in comparison with the conventional adaptive least mean square (LMS) algorithm.
+Adaptive step-size algorithm is derived with an adaptive averaging algorithm.
+Simulation results show that the proposed NLMS based on spline adaptive filtering with adaptive averaging step-size algorithm can reduce the estimated error rate of proposed NLMS algorithm lower than the conventional LMS algorithm and converge dramatically to the steady-state.

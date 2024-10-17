@@ -1,0 +1,7 @@
+This paper describes the development of a trajectory control algorithm for a Para rubber tapping manipulator.
+The trajectory was designed in accordance with an elliptical tapping cut.
+A two-axis cartesian robot was used as a prototype of the tapping manipulator.
+The objective of this study was to guide the manipulator in tracking the designed trajectory.
+The experiment was conducted in a laboratory using a cylindrical model of Para rubber tree.
+"The experimental results showed that the trajectory control employing a PID controller could help the manipulator to track the desired trajectory smoothly, even though maximum positional error in  Z axis was 14.8 mm at the final position of movement."
+"In conclusion, the developed trajectory control algorithm has a great potential in adaptability for practical use."

@@ -1,0 +1,7 @@
+This research was to develop a coil model of the HDD actuator arm by using finite element software.
+"Since the HDD actuator arm model still had a high percentage error of natural frequencies on the coil side, compared with the PSV400 test results."
+"Three types of coil models were created by making a solid body coil model made of isotropic material, a solid body coil model made of orthotropic material, and a spring-like coil model made of isotropic material."
+"From the research results, the spring-like coil model made of isotropic material, the solid body coil model made of isotropic material and the solid body coil model made of orthotropic material had a similar percentage error of natural frequencies, which are the natural frequencies of these models compared with the natural frequencies from the samples which were tested by the PSV400."
+The arm side had a percentage error of natural frequencies of less than 1%.
+"On the coil side, the percentage error of natural frequencies was less than 12%."
+"However, it took more time to produce the model as well as to process it."

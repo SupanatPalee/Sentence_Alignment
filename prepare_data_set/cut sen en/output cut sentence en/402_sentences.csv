@@ -1,0 +1,7 @@
+The aim of this research is to design a tool which helps to plan the suitable traveling route by applying Travelling Salesman Problem (TSP) to find the shortest distance and the highest popularity rating.
+Comparing between the heuristics technique which is the nearest neighbor method and the metaheuristics technique which is the genetic algorithm method to find the appropriate route for a case study; Nakhon Nayok Province.
+"Then, using the results to develop the website which displays tourism information and route planning."
+"The website consists of four parts; recommendation of tourist attractions, tourism in each district, tourism based on category of travelling, and tourism based on traveler’s need."
+"In particular, the fourth part, the users can select four choices out of totally forty-two choices of tourist attractions by writing JavaScript code to search for the routes on Google Maps and show the routes on the website."
+One hundred respondents are requested to answer questionnaires regarding the website usage.
+"The assessment is revealed by the result of average and standard deviation, 4.33 and 0.56 respectively, with the highest level of satisfaction."

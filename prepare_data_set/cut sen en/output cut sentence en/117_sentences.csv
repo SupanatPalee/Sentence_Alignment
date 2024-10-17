@@ -1,0 +1,10 @@
+This article describes research entitled the simulation of effect from mobile phone to human head and brain.
+"Based on three variables, they are comprised of electrical properties, averaged mass tissues of human head and brain and frequencies of electromagnetic wave from the phone."
+"The results of this simulation are power pattern of mobile phone, Specific Absorption Rate (SAR) and power loss density in human head."
+The research uses Flat Specific Anthropomorphic Mannequin (SAM) combined with IEEE mobile phone.
+The two methods named Perfect Boundary Approximation (PBA) and Thin Sheet Technique (TST) are used to be mesh dividing.
+Finite Difference Time Domain numerical method is used to analyze.
+The results are found that SAR values in all conditions are in the range of 0.013-9.95 W/kg.
+"The second point, the SAR values are increased according to averaged mass tissues and frequencies."
+"Then, the area of SAR values of 1800 MHz is the narrowest due to - 60 degree Main Lobe direction."
+"Finally, the power loss density varies directly with frequencies."

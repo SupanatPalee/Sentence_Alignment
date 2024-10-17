@@ -1,0 +1,9 @@
+"There are various studies about the capability, performance and stability of combinedcycle power plant."
+"Thus, the power plant model is important for the further studies.Nowadays, there are several models that are acceptable and suitable for applying in thereal system."
+"However, most of the models are the single-shaft combined cycle power plant,focusing on studies of the gas turbine whereas only a few models of multi-shaft combinedcycle power plant is available."
+This article presents a modeling of multi-shaft combinedcycle power plant developed through DIgSILENT PowerFactory software by applying gasturbine model which is proposed by W.I.
+Rowen to develop and combine steam turbine inthe system model.
+As a result the multi-shaft system model was functional.
+"Studies ofdeveloped model were carried out by simulating the dynamic stability when disturbanceevents occur in the power system, for instance, the instantaneous changes of load and shortcircuit faults occurred regularly in power system."
+The simulation results showed that thedeveloped model was accurate and consistent with the model in the reference documentso that it could be well used in power system studies.
+"In addition, this developed modelcould be applied the several number of turbines and generators."

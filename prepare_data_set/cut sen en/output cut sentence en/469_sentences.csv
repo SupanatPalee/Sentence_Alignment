@@ -1,0 +1,7 @@
+This research presents an economic estimation of the transformer size suitable for the distribution system to match the load and reduce power losses.
+It calculates the cost by combining the energy loss of the transformer with the transformer price.
+"The parameter for the analyzation includes the initial price of transformer, the service life, the interest rate, the depreciation, the loss rate of transformer and the electricity energy rate per unit."
+The analyzation will calculate the cost to own transformer (COT) by varying the transformer capacities while keeping the load constant.
+"In this research, the load for analysis is set at 350 kVA and a comparison is made among three transformer follow to PEA standard size: 400 kVA, 500 kVA and 630 kVA."
+The research finding indicate that the 630 kVA transformer has the lowest COT.
+"The results of this study can serve as a guideline for selecting an appropriate transformer size for the load, help in deciding to choose a transformer to future load, help saving investment costs and effectively reduce energy expenses."

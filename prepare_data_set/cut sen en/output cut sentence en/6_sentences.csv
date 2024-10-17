@@ -1,0 +1,6 @@
+This research presents a model and tests the performance of a credit approval determination model by using principal component analysis with machine learning techniques.
+"Four algorithms: Naïve Bayes, Decision Tree, Random Forest, and Support Vector Machine were tested with 441,335 examples of lending data."
+"There are four model performance test results: Accuracy, Precision, Recall, and F-Measure.From the experiment, it was found that the random forest model provides the best accuracy performance of 92.90 percent, followed by support vector machine and decision tree is 87.00 percent, and Naïve Bayes is 83.40 percent, respectively."
+It was found that reducing the data dimensions resulted in improved model performance by eliminating insignificant features and solve the problem of the traditional credit approval model that considers the old attribute variables.
+The model's performance has improved by considering new attribute variables.
+"The results of the completeness value (Recall) and the overall performance measurement value (F-Measure) from the experiment found that Random forest model provides the best performance as well as accuracy values were 99.64 and 99.35 percent, respectively, and the highest precision value was 99.07 percent for the random forest model and decision trees."

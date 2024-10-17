@@ -1,0 +1,9 @@
+The objective of this research aims to apply a machine learning model to detect and separate the quality of cement paper bags on the production line manufacture process.
+"There are three proposed models to implement including 1) model for checking the unqualified and blurred trademark on cement paper bags, 2) model for checking incomplete letter and trademark on cement paper bags and 3) model for detecting unclear adhesive of the cement paper bag valve."
+"This study has applied a convolutional neural network (CNN) and VGG 16, based on python programming language, to learn the types of an image from cement paper bags."
+There are three scenarios to consider in this study.
+"The first scenario focuses on a letter and trademark on a cement paper bag, which is blurred and incomplete."
+The second scenario only pays attention to an incomplete letter and trademark.
+The third scenario considers unclear adhesive of the cement paper bag valve.
+The image of cement paper bags on the production line manufacture process was collected and the Python language programming was selected to implement proposed models.
+"The results of this research revealed that the first scenario shows F1-Score 95% for qualified cement paper bags and F1-Score 92% for unqualified cement paper bags, the second scenario shows F1-Score 100%, and the third scenario shows F1-Score 100% for qualified and unqualified cement paper bags, respectively."

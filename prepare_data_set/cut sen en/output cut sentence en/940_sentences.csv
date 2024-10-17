@@ -1,0 +1,11 @@
+This article provides a way to improve local search using the golden section ratio in the bee colony optimization method for the problem of economic dispatch.
+This modification adjusts the movement process to find new sources of bee feed.
+"From the original, the multiplication factor has to be multiplied, which results in a fairly wide distribution."
+This process of refinement uses the gold ratio as a multiplicative component in the equation of motion of the bee population instead of the random step.
+"Operations will consider power system requirements, transmission line losses, and regulatory conditions."
+The MATLAB program was used for simulation and testing with 2 standard case studies consisting of 3 generators and 6 units.
+"Testing to evaluate the effectiveness of the methods presented used traditional BCO, HLBCO and MSA methods."
+Comparisons were made in terms of response efficiency and convergence speed.
+From the results of the tests it can be concluded that the proposed method provides a valid and effective solution to solve the problem of the quality of the answer- the convergence feature.
+"In case 1, the proposed method calculated the average number of rounds was 256.8- 59 per cent faster than usual- with the lowest cost at 1957.48."
+"In case 2, the proposed method calculated the average number of rounds was 145.9 rounds- 33.27 per cent faster than usual- with the lowest cost at 15439.51."

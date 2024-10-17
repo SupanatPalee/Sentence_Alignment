@@ -1,0 +1,12 @@
+Heat exchangers form a vital part of absorption chillers.
+Majority of research works utilizeLMTD (Log Mean Temperature Difference) methodfor their analysis anddevelopmentof absorptionchillers.
+"However, this method has some limitations."
+The fluid inlet and outlet temperaturesmust be known or readily determined from the energy balance equations.
+The value of log meantemperature difference for the heat exchanger may then be determined.
+"Practically, the outlettemperatures are unknown for the design of absorption chillers."
+"If only the inlet temperatures areknown, use of the LMTD method requires an iterative procedure."
+"This research work proposedan alternative approach, termed the effectiveness-NTU method."
+"The study results show that coldfluid heat capacity rate is always higher than hot fluid heat capacity rate because of 3 factors.Firstly, the mass flow rate of solution leaving from absorber is always higher than the massflow rate of solution leaving from the generator."
+"Secondary, the specific heat of LiBr solution isa function of solution concentration and the concentration of solution leaving from absorber isalways lower than the concentration of solution leaving from the generator."
+"Thirdly, the fluidheat capacity rate is the product of mass flow rate and specific heat of LiBr solution."
+This effectto the constraint of designed temperature outlets and also the performance of heat exchangerused in absorption chiller.

@@ -1,0 +1,5 @@
+"The research aims to create a model for screening patients with kidney stones in the kidney, using images of patients diagnosed."
+"A total of 6,454 images were collected from various hospitals in the city of Thakarpa, Bangladesh."
+"The data was analyzed using the cross industry standard process for data mining (CRISP-DM), using the 4 techniques of image classification: Support Vector Machines, k-Nearest Neighbors, Naive Bayes and Random Forest."
+"To test the performance of Image classification using Accuracy, Sensitivity, Specificity, and F-measure."
+The research found that the K-NN nearest neighbor is the most suitable for building a model to screen kidney stones effectively and efficiently in patients.

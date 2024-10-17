@@ -1,0 +1,8 @@
+"Listening is the most common way to detect copyright infringement or identify unknown music data, but it is difficult to analyze a large amount of music data."
+The accuracy also depends on the listener's level of expertise.
+"As mentioned earlier, music recognition is applied to solve this problem and the audio fingerprint is a widely used as data feature."
+Audio fingerprint analysis is effective at finding audio tracks which are duplicate content (exactly match) however it cannot detect in the case of similar content.
+This research proposes a method for finding the similarity between two songs using relation functions for comparing audio fingerprints instead of comparing bigger music content.
+"For a case study, we try to find the original song from the cover song to assess the efficiency of our approach."
+The findings of this study indicate that proposed approach can be use effectively to identify the original song covered with many genres.
+Overall average area under curve (Average AUC) is 0.790.

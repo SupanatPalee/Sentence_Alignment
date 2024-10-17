@@ -1,0 +1,9 @@
+The research aimed to develop and improve the monitoring and the control system of refrigeration or chillers through the internet network.
+"This case study of Panuwat Engineering Service Limited Partnership used the Internet of Things (IoT) in combination with a programmable logic controller (PLC), which is a device used in the industry that acts as the main controller to control various equipment in the cooling system, along with the use of 1tool software to write PLC control commands."
+"In the past the relay was the only source of control for the control system of the refrigerator, so it was difficult to modify the operation of the control system."
+"As a result, the researcher designed and developed the operation of the cooling system which was divided into 2 systems: an automatic system and a manual control system through the display on the control panel."
+The results showed that the monitoring and controlling of chillers using IoT technology could operate as planned.
+The designed control system could control the chillers to work both automatically with the PLC and manually with the display on the control panel.
+"In addition, users could also check the status and control the operation in real-time via the internet."
+"In addition, the results of the statistical analysis under the simulation of the control system showed that the chiller control system worked 100 percent correctly."
+This makes it possible to process the data to solve problems quickly.

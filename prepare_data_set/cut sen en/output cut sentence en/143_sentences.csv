@@ -1,0 +1,5 @@
+Tracking the maximum power point of a PV system is essential for both stand-alone and grid-connected PV systems to ensure that the solar cells can produce the highest power for different environmental conditions.
+This paper proposes the maximum power point tracking for a PV stand-alone system using incremental conductance method.
+The control principle of the proposed method uses the duty cycle adjustment via the buck converter to obtain the maximum power output of stand-alone PV system.
+The control performance was confirmed by MATLAB/Simulink simulation and experiment results.
+It has been demonstrated that the maximum power point tracking of stand-alone PV system by incremental conductance method can follow the peak power point in all environmental changes.

@@ -1,0 +1,6 @@
+Heat removal from a steam power plant using a thermal chimney is an innovation whereby the air underneath the chimney is heated up by receiving the removed heat from the power plant through a surface heat exchanger.
+The heated air flows up the chimney due to a natural convection.
+"Theoretical analysis was performed by creating a mathematical model from the fundamental conservation equations in order to study the effect of the chimney shape such as constant area chimney, convergent top chimney, and divergent top chimney."
+"Results are presented in comparison with numerical results obtained from ANSYS-CFX, a commercial CFD (computational fluid dynamics) code."
+The results obtained from both approaches were found to be in good agreements.
+The divergent top chimney leads to an augmentation of flow and shows good potential in the removal of heat from the power plant.

@@ -1,0 +1,7 @@
+This paper presents a parametric study of the critical loads on the concrete-filled steel pipe column (CFT) under axial compression by ABAQUS program based on C3D8R element.
+"The diameter and height of CFT column are 150 mm and 300 mm, respectively."
+"The thicknesses of the pipe steel columns are varied from 3.0, 4.5, and 6.0 mm."
+These values were used to validate the finite element model of the CFT column.
+The results indicate that the accuracy results of the finite element model showed good agreement with the experimental results.
+"Therefore, the finite element model, which is calibrated with the experimental results, is used to study the parametric effects on the failure behavior of CFT columns are thicknesses and heights of steel columns, friction coefficients, which are investigated."
+"The results show that the thickness variation has a major effect on the critical loads, that is, the values of critical load increase as the thickness becomes higher, while the height of CFT column and friction coefficient have a little effect on the critical loads."

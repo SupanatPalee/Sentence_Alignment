@@ -1,0 +1,7 @@
+"This research was aimed to design inspection system of the rice grain phenotypic quality, by using digital images combining machine learning."
+"The research methodology divided into two part were hardware, and software."
+The research objective was developed rice grain phenotypic quality inspection system prototype.
+"Hardware development was created shooting device for reducing noise, and burden for improving image quality before importing images into the process."
+"And created geometric reference ruler to define the object size on the image, set to width of 0.5 centimeters, length of 1.5 centimeters."
+Software development was to created system to check the rice grain phenotype quality by using digital images combined with machines learning for classifying rice grain quality group according to the Thai jasmine rice standard product criteria under the Ministry of Commerce 2016.
+"The research found that, the classification between the full rice grain and the stomach egg rice grain with only a small amount of egg contents was only characteristic that makes the discriminant characteristics of both naked eye specialist and the system designed."

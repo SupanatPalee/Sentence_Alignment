@@ -1,0 +1,7 @@
+This paper focus on factor analysis for biomass combustion in a bubbling fluidized bed boiler.
+"Considering low cost and available types of fuel, this study applies to the proportion of wood chip: rice husk:  fiber: sawdust of 8:6:1:1."
+"The regression found factors that affect the high pressure steam production and percent excess oxygen are moisture content, fuel feed rate, air feed rate, boiler pressure and boiler temperature."
+"Using best subset regression method for high pressure steam production and stepwise regression method for excess percentage of oxygen, R – Squared Adjusted: (R2adj) of high pressure steam production and excess percentage of oxygen were 95.01% and 71.65% respectively."
+Then the optimal operating condition were explored using response surface methodology.
+"With the best operating condition, high pressure stream production rate increased from 39.96 kg/s to 43.24 kg/s, which is an increase of 8.20% and the fuel cost of steam generation can be reduce from 580.77 baht/ton-steam to 572.94 baht/ton-steam, which is a decrease by 1.35%."
+"Finally, the company can save 9.66 billion baht per year."

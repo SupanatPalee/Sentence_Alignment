@@ -1,0 +1,11 @@
+Different digital images have occurred from digital cameras and different ways of taking images.
+"Therefore, methods to improve the quality of these images have been developed."
+This paper has presented a method to improve a quality image which is four steps.
+The first step is to apply the CLAHE method to improve image quality.
+"Next step, take the histogram images of the previous step divided into many sections that are determined by the local maxima method."
+"In the third step, each section is adjusted by the histogram equalization."
+"Finally step, the new histogram is converted to a new gray-level color image."
+The experiment results of research show that the mean absolute luminance error values of images.
+These values are compared with values the traditional method.
+It was found that this method gave better results.
+Although this method takes more time to process than the traditional method.

@@ -1,0 +1,5 @@
+A multi-objective evolutionary algorithm based on decomposition (MOEA/D) is an evolutionary meta-heuristic which uses the concept of solving problems with many objectives simultaneously by classification problem into various subproblems.
+"This paper applies MOEA/D algorithm in conjunction with the bisection method for solving line balancing and allocation problems of multi-skilled workers whom some are disable on parallel assembly lines under four objectives, i.e."
+"minimize cycle time, minimize the number of stations, minimize different workload between workstations, and minimize index of task-unrelated."
+The experiment results show that MOEA/D obtains better performance than the Combinatorial Optimization with Coincidence (COIN) algorithm in terms of convergence which is the main concern of algorithm comparison.
+"Although, its spread and CPU time are inferior to COIN."

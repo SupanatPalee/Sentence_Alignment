@@ -1,0 +1,9 @@
+This article analyzes the impact of maximum voltage and maximum current ​​in the event of a lightning incident in the solar power generation system installed on the ground not more than 10 MW.
+With the installation protection devices for 1 phase and 3 phase.
+"The simulating the direct lightning at waveform, 10/350 ms, which the lightning current in 3 levels is 5 kA, 10 kA and 20 kA, which is not more than the lightning current value of Thailand."
+"By using the PSCAD version 4.6 program to create a model and analyze the results from the waveform graph for maximum voltage and maximum current, which defines the DC side points of the solar cells to the inverter and Point 2 on the DC and AC."
+The results of the comparison of the maximum voltage level after the design of the lightning protection device is installed.
+"In the case of direct lightning, the DC side has a voltage drop in the DC system equal to 0.77 kV 0.55 kV and 0.12 kV, respectively."
+The voltage in the AC system is reduced to 0.41 kV in the case of direct lightning on the AC side with the voltage in the system.
+"DC has a constant value of 0.96 kV and the voltage in the AC system is reduced by -2.40 kV -4.50 kV -8.66 kV, respectively."
+The design and analysis of results can be used as a guideline for the lightning protection system in solar power generation located on the ground.

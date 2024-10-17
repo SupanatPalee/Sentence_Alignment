@@ -1,0 +1,5 @@
+This research studies the production planning process in an automotive parts manufacturer case study with the Heijunka method and studies to apply of linear programming (LP) model in the case study to compare the manufacturing costs of two method.
+"This study considers the costs incurred by labor produced during regular production hours and overtime production hours, including the holding cost."
+Study results show that the total cost of the linear programming method is less than the Heijunka method about 15%.
+"Although the LP method has a lower total cost, the daily production plan is highly fluctuated."
+"In contrast, the Heijunka method, production plans were adjusted more smoothly by consolidating data all week which makes the production plan in each day less fluctuated than linear programming method."

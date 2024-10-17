@@ -1,0 +1,9 @@
+The objective of this study is to construct the appropriate forecasting model for the BBL Stock Price via the use of Box-Jenkins method and Grey models.
+"The daily average data, which were collected during July 2022 to June 2023 of 240 days were divided into 2 datasets."
+"The first dataset, which consisted of 222 months from July 2022 to May 2023 was used for constructing the forecasting models via the use of 3 statistical methods, namely, Box-Jenkins, GM(1,1) and  Grey Verhulst Model (GVM) methods."
+"The second dataset, which consisted of 18 days from June 2023 was used for comparing the accuracy of the forecasting model."
+The criteria of the lowest mean absolute percentage error (MAPE) and root mean squared error (RMSE) were used for comparing the accuracy of the forecasting model.
+"Research findings indicated that for all forecasting methods that were studied, the most accurate method was the GM(1,1) method."
+This forecasting method was 0.724 percent forecasting error (MAPE = 0.724) or was forecasting error of 1.463 (RMSE = 1.463).
+The comparison of the accuracy of the forecasting model for both criteria provided the same result.
+"Therefore, it made more reliable that the GM (1,1) method was the most suitable method for this time series."

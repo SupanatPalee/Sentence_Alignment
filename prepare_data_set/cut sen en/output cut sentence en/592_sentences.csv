@@ -1,0 +1,10 @@
+This research aimed to study kinematics and motion modeling of a robot arm using MATLAB program for the identification of the end-effector (EE) coordinates.
+The robot arm has a 4 degree-of-freedom (DOF) which was created by a 3-D modeling program.
+"After that, the kinematics model was analyzed, and the program was simulated by MATLAB/Simulation program."
+The test consisted of two parts.
+The first part is to validate the kinematics model while the second part is to simulate continuous motion by writing an English alphabet.
+The test method uses the display of a robotic arm from a 3-D model compared with the kinematic model.
+"the results showed that the kinematic calculation of the model revealed the EE coordinates, and all the joint angle values were accurate, causing the work area along x, y, and z-axes in the range of 52 to 239, -234 to 234, and 0 to 228 mm."
+respectively.
+The simulation showed correct and perfect writing.
+"In addition, it was found that the round-off of the joint angle value affects the error in specifying the coordinates of the EE."

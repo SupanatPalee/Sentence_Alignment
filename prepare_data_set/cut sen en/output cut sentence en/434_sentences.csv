@@ -1,0 +1,7 @@
+"The Closed Circuit Television (CCTV) was a great device for recording a wholesome image and moving well, it can be used to recorded events that occur at any time."
+"However, there has been a problem with resolution and sharpness form the CCTV."
+"This is caused by the features of the CCTV system and various recording environments, affecting the image from the recording to be noise or blur."
+"This research proposed an image enhancement technique for low-quality CCTV caused by noise in terms of resolution and sharpness, using the Interpolation-Based Technique (IB-T)."
+The experiments are conducted using by a set of enlarged image.
+"PSNR and SSIM are used to measure the performances of proposed technique, and also compared other techniques."
+The results show that this technique can be used for image enhancement.

@@ -1,0 +1,5 @@
+"Satellite imaging technology is essential for various applications such as real estate analysis, disaster monitoring, and more."
+"However, as satellite data is big data, it is time-consuming and challenging for humans to analyze it, even a simple task such as detecting the types of buildings in a large area."
+"In this paper, we develop a satellite imaging-analytics technique by applying the transfer learning algorithm to learn and classify different types of buildings in Thailand."
+"The proposed model is learnt and tested on our created datasets, namely 4CateSAT, including the images of buildings including (1) airports, (2) stadiums (football fields), (3) schools, and (4) temples in Thailand."
+"We also apply well-known algorithms to handle the imbalanced data, and the experimental results show that the accuracy of the best model is 96.88%."

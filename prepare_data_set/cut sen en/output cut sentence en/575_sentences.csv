@@ -1,0 +1,3 @@
+This paper is to present how to design an equilateral triangular microstrip antenna using the radial basis function neural network to determine the length of each side of the antenna using the MATLAB program.
+"The optimized length of the antenna is designed at the operating frequency of 2.45 GHz, calculated by the neural network method and applied to simulate the antenna model on the CST program to determine the antenna model's operating frequency."
+"As a result, the operating frequency obtained from the Neural Network method and from the CST program are corresponded."

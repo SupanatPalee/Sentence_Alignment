@@ -1,0 +1,8 @@
+This paper presents the comparison of compensating current controllers of Shunt Active Power Filter (SAPF) for single-phase power systems.
+"The three compensating current controllers: PI controller, Hysteresis controller and Predictive controller are compared."
+Hardware in loop simulation technique by Simulink/MATLAB program and TMS320C2000TM Experimental Kit DSP board is applied for the testing of controller’s performance.
+The total harmonic distortion percentage (%THDi) value of the source current after compensation is considered to indicate the performance of three controllers.
+The simulation results show that the compensating currents of SAPF controlled by the three controllers are tracked the reference current correctly even though the system load was changed.
+The %THDi of the source current after compensation from all controllers are decreased and satisfied under the IEEE std 519-2014.
+Where the predictive controller provides the best result %THDi value.
+"In addition, when the signal of reference current has high slope shapes, the predictive and hysteresis controllers have response sensitivity in tracking the reference current more than the PI controller."

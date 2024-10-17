@@ -1,0 +1,13 @@
+"The purpose of this work is to develop an automatic water, fertilizer, insecticide dispenser system for rose garden based on timers set via a smartphone and Blynk IoT platform."
+"With the aim to reduce manual labor and save resources, the system is able to control the water supply, fertilizer, and insecticide amount through a relay module connected to the solenoid valve."
+Fertilizer and pesticide mixture stored in separated tanks are dispensed into the rose garden plot of size 1m x 4.5m via PVC and PE pipes.
+A dropper is installed above the base of each rose plant for water and fertilizer distribution.
+"As for dispensing of the pesticide, five spray nozzles are attached to the pipe at the top of the plot."
+"To monitor the condition of the plot, soil moisture, air humidity and temperature sensors are installed and the sensor data are collected and displayed on the application."
+All control and data transmission are handled by an ESP8266 module in conjunction with a Blynk IoT platform.
+"In addition, the system is able to send alert messages about the solenoid valve operations via Line Notify."
+"The proposed control system and application were deployed and tested at Ponpimol Rose Garden in Chiang Mai, Thailand for a period of one month."
+"Throughout this period, the system was able to continuously operate without any errors or downtime, and all LINE notifications were correctly sent."
+The target rose plot carried 45 rose plants which were between 30 – 50 cm in height.
+"The amount of water, fertilizer, and insecticide dispensed at each instance were 42.75 l, 453 ml, 2.26 l, respectively."
+"According to the cost analysis, the proposed system can help reduce the labor cost by 52%, and after considering the cost of equipment and installation, the break-even point is around 94 days."

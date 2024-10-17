@@ -1,0 +1,11 @@
+The research aims to determine the schedule of multiple jobs waiting to be processed by limited number of workers.
+Each job has its own minimum and maximum number of workers required.
+The processing time of each job is flexible depended on number of workers being assigned to perform the job.
+The scheduling objective is to minimize the system makespan.
+"In order to determine a proper solution for the research problem, a two-phase heuristic is presented."
+The first phase is to cluster jobs according to the maximum number of workers required and assign workers to each job considering their availabilities.
+The second phase is to reduce number of jobs being assigned to the worker having maximum completion time.
+"For the performance evolution of proposed heuristic, 30 small size and 30 large size problems are randomly generated."
+The solution obtained from the heuristic has been compared with the solution yielded from searching for the solution of a mathematical model by the evolutionary method.
+"According to the results of small size problems, the solution provided by the proposed heuristic has the makespan value of 1.57 percent greater than the solution yielded from the evolutionary search."
+"For those large size problems, the proposed heuristic yields better solution than the evolutionary search with the average percentage deviation of 15.54 percent."

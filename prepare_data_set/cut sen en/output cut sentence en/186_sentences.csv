@@ -1,0 +1,8 @@
+"This research aim to determine the appropriate forecasting method for sales of 0.33, 0.6 and 1.5 liter bottled water to reduce discrepancies amount in production planning of bottled water industry, we have studied analyzing undulation of time series and created the forecasting equation with amount of 120 months since January 2008 to December 2017 to find an appropriate forecasting model and apply the latter to forecast for the bottled water sales with amount three sizes within 36 months since January 2018 to December 2020."
+Those empirical data are compared with the forecasting model.
+"According to the research results, at the statistical level of 0.05, the time series of bottled water sales of three sizes have a tendency but have no seasonal influence."
+"There are three methods to be compared in the study: double exponential smoothing method, linear trend line method, and Box-Jenkins method."
+"Comparison of forecasting values employs the criteria of Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE) and the lowest Root Mean Square Error (RMSE)."
+"The suitable forecasting method of bottled water size 0.33 liter is Box-Jenkins method ARIMA (1,1,1) while, the appropriate forecasting method of the bottled water size 0.6 liter is double exponential smoothing method."
+"Last, the suitable forecasting method of the bottled water size 1.5 liter is linear trend line method."
+"All methods result in Mean Absolute Error of the production plan of three-size bottled water during 2018 to 2020 reducing to 1.35, 4.95, and 1.13 respectively (unit: a million bottles) significantly at the confidential level of 95 percent."

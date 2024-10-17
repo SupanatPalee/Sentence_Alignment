@@ -1,0 +1,7 @@
+This article is an introduction to the application of data mining techniques to determine the factors and patterns that affect the choice of study in the Faculty of Industrial Technology at Lampang Rajabhat University.
+The research method used was to collect data from two sample groups: 1) basic information of students from the Faculty of Industrial Technology received from the Educational Service Division of Lampang Rajabhat University (1068 students); 2) factors for choosing to study in the Faculty of Industrial Technology from present students in 1st - 3rd year (334 students).
+The collected data was reduced to dimension using the Evolutionary Selection technique and the FP-Growth technique was then applied to this dimensionless data.
+Data analysis revealed that there were 36 factors out of 57 factors.
+"Regarding the deciding factors for further study, the rule of relationships consisted of 20 rules."
+"The best rules were the relationship between the course titles, the popularity of the course, and the content of the course."
+The confidence was 0.894 or 89.4 per cent and support was 0.456 or 45.6 per cent.

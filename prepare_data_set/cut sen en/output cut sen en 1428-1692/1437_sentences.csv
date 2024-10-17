@@ -1,0 +1,6 @@
+"The objective of this research is to study the relationship between countries in Southeast Asia (ASEAN), the total confirmed cases of COVID-19, the reproduction rate, the stringency index, and the new deaths attributed to COVID-19."
+Another purpose of this research is to find a suitable statistical model to study the incidence rate of deaths among people infected with COVID-19 in Southeast Asian countries (ASEAN).
+"The online secondary data is used in this study, and the models considered are the Poisson regression model and the negative-binomial regression model."
+The results show that the Poisson regression model is unsuitable for the data used in this study because the variance of this data is significantly higher than its mean; this is called the overdispersion problem.
+"On the other hand, the negative-binomial regression model is the most suitable model for studying the incidence rate of deaths among people infected with COVID-19 in Southeast Asian countries."
+"Moreover, Thailand has been found to have a higher incidence rate of death from COVID-19 than other Southeast Asian countries; the incidence rate of death from COVID-19 in Cambodia, Indonesia, Laos, Malaysia, Philippines, Singapore, and Vietnam is lower than in Thailand by 99.5%, 99.4%, 28.1%, 99.4%, 72.0%, 99.7%, 56.0%, 97.9%, and 45.4%, respectively."

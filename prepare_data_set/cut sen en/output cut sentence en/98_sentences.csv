@@ -1,0 +1,15 @@
+The objective of this research is to develop a prototype machine for purchasing empty plastic bottles of 3 sizes for recycling with notification via LINE Notify.
+"At the initial use, the user must create an account."
+The user can then sign in and insert empty bottles into the front slot.
+"When a bottle is inserted, the system checks whether the weight is within the specified range by using a weighing sensor."
+"In addition, a camera is used to capture the object’s image and the system determines whether or not it is a bottle using MobileNet-SSD object detector."
+"If not, a servo motor immediately turned over the tray to return that object."
+"Otherwise, the system proceeds to measure the size of the bottle by its width."
+The weight and size of the bottle are then compared to the pre-defined standard values.
+A 600 ml bottle should weigh between 60-70 unit (which is read by the HX711 amplifier module) and have a width of 171-184 pixels.
+A 750 ml bottle should weigh between 85-90 units and have a width of 186-219 pixels and a 1500ml bottle should weigh between 120-150 units and have a width of 226-299 pixels.
+"If the conditions are met, the bottle will be accepted, otherwise it was returned by rotating the tray holding the bottle with a servo motor."
+"After accepting the bottle, the system will update the bottle number, make a payment to the account, as well as send a message to the user through LINE Notify."
+The experiment results showed that the proposed system was able to accept bottles 26 times out of the 30 tests (an accuracy of about 87 percent).
+"In addition, three different types of erroneous objects were tested for rejection including paper, a PVC pipe and a glue stick for 30 times."
+The system was able to correctly reject such objects with 100 percent accuracy.

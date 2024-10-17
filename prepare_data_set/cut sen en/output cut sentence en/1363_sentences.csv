@@ -1,0 +1,4 @@
+This paper proposes the PVC socket inspection using application of fuzzy logic algorithm and image processing in LabVIEW programming.
+The image processing to find information such as area of objects in pixel and area of objects per area of frame in percent.
+The fuzzy logic algorithm utilizing TSK's method.
+"The experiment results show inspection accuracy of PVC equal tee, PVC elbow 90 degree and PVC coupling between 92 percent and 94 percent."

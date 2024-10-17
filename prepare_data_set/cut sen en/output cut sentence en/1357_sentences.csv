@@ -1,0 +1,4 @@
+This paper presents the application of the semi-blind principle to an LS algorithm to estimate the channel state information of the TDD massive MIMO systems.
+The mixing parameter is used to mix the channel coefficients that are estimated from the pilot and data signals.
+The orthogonal codes are used to identify base stations and users to reduce the effect of full pilot contamination.
+"The simulation results show that the proposed semi-blind algorithm can improve the SINR performance and the achievable downlink rate of downlink systems, which are higher than those of the LS algorithm using the orthogonal code and the conventional LS algorithm."

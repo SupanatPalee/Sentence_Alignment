@@ -1,0 +1,11 @@
+This paper presents Bayesian approach for mango classification based on digital image processing.
+We design algorithm to classify mango into two groups: green mango and ripe mango.
+Color features are extracted from RGB mango image and red intensity of the mango image using statistic calculation.
+The Bayesian is applied to classify the color-based feature of the mango image.
+We evaluate the performance of the Bayesian approach against another technique; the support vector machine (SVM).
+Both methods were implemented and tested with 100 mango images.
+"The experimental results show the superiority of the proposed method, with an accuracy of 88%, as compared to SVM-based method, with an accuracy of 83%."
+"This project studies behaviors of landslides in term of shear strengths with an analysis for the next 50 years in Bo Kluea District, Nan Province."
+The analysis is based on field test data and the manual of soil research.
+"To analyze, Finite Element Method is applied to consider 2-dimension problems to estimate the results from pore-water pressure, and this leads to understanding such incidence and this can be fundamental knowledge to prepare protection against landslides."
+"The results on the impact from the pore-water pressure of the soil or its shear strength range during landslides are studied by considering other constant factors influencing slope stability gained from the field test in Nakhoi Village, Nan Province."

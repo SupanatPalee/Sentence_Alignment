@@ -1,0 +1,9 @@
+Coral reefs are an important coastal ecosystem in terms of biological and economic points of view.
+They are vulnerable to both environment change and resource utilization.
+"Therefore, continuous monitoring is necessary for applying the appropriate management."
+"However, the in-situ coral reefs standard method survey is expensive and time-consuming."
+This study presents the use of Google Earth Engine (GEE) using Sentinel-2 satellite data with a minimum distance classification technique to map coral reefs.
+Ground truth data for satellite data training and validating was collected using drones.
+Coral reefs at Rawai beach are classified using this method as 348 rai.
+The total accuracy of classification is 71% and the kappa coefficient is 0.57.
+"The accuracy of individual classification of sand, coral, and sandy coral is 86.2%, 68.8%, and 58.6%, respectively."

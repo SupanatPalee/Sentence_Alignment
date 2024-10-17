@@ -1,0 +1,4 @@
+This paper presents the optimal fourth-order active low-pass filter design based on the Sallen-Key topology by using the intensified current search (ICuS) algorithm.
+The sum of squared error between the ideal characteristic curve and the actual characteristic curve of the considered active low-pass filter is set as the objective function to be minimized.
+Results obtained by the ICuS will be compared with those obtained by other algorithms appeared in the literatures.
+"As design results, the fourth-order active low-pass filter designed by the ICuS provides the satisfactory characteristic closer to the ideal curve than other existing algorithms."

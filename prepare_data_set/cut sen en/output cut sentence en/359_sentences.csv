@@ -1,0 +1,5 @@
+This article presents an approach to identify the electrical appliances with leakage current in a low voltage 220VAC network by frequency analysis.
+A voltage with particular frequency that corresponds to each electrical appliance is injected into its ground point when leakage current occurs.
+A particular frequency will be found at the ground link in the main distribution board (MDB) using the Fast Fourier Transform (FFT) technique.
+The performance of this method is verified by using the simulation program PSpice.
+"Moreover, the prototype hardware with program LabVIEW is also implemented with the electrical appliances to show the effectiveness of this method."

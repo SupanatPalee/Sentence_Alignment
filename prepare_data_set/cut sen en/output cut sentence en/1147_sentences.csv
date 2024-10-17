@@ -1,0 +1,4 @@
+"This paper presents using a SCADA model system in prediction, the lifetime of SF6 12 kV/1600A-2500A/40 kA gas circuit breaker to prevent the damage of an 11 kV power supply system in a switchgear from the deterioration of the main contacts and arcing contacts, inside the gas circuit breaker because of the short circuit current during operation."
+The SCADA will predict the lifetime of a circuit breaker from the deterioration of the electrical property of material equation of the main contacts and arcing contacts.
+The result of two-times virtual short circuit current testing in the SCADA model system at the first phase of SF6 gas circuit breaker of 36.9 and 40.05 kA.
+"Found that the SCADA model system could display accurately the numeric value of the predictions by 8,636 and 7,034 times, respectively."

@@ -1,0 +1,7 @@
+"Online platforms and information technology are developing quickly, which boosts the popularity of online e-commerce."
+"Nowadays, posting content from client sentiments is vital for product makers to improve product quality as much as possible to exceed customers' expectations."
+"Sentiment analysis is a process of natural language processing that finds out the sentiment and attitudes of users towards a product, whether positive or negative."
+Most sentiment and text classification research use term weighting with inverse document frequency (idf).
+"However, assigning term weights using the idf method alone may not be effective enough to classify sentiment because this weight does not consider vital information classification views."
+This paper presents a supervised term weighting using the class mutual information calculated with the term frequency and the inverse document frequency.
+"Experimental results show that the proposed method performs more effectively than term distribution and the term weighting that use only the inverse document frequency when considering by the performance indicator value: Accuracy, Precision, Recall and F1-Measure."

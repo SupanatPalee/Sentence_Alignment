@@ -1,0 +1,7 @@
+The objective of this research was to apply the Flexsim® simulation program to find the most suitable production sequence for the case study factory.
+"The researchers experimented and found the most appropriate production sequence by entering 25 jobs with the total production amount of 520 tons into the simulation model and experimenting with the production order of Earliest Due Date (EDD), Least Work Remaining (LWKR) and Most Work Remaining (MWKR) by experimenting with 30 replications in each format."
+"Based on the analysis of the experimental results, it was found that the current production sequence of the factory has a makespan time of 200.71 hours and the number of tardy jobs is 3 jobs."
+The EDD production sequence has a makespan time of 170.58 hours without tardy jobs.
+The LWKR production sequence has a makespan time of 167.54 hours without tardy jobs.
+The MWKR production sequence has a makespan time of 171.73 hours and the number of tardy jobs is 6 jobs.
+"From the experimental results, it was found that the LWKR production sequence is most suitable because the makespan time is 167.54 hours which is the smallest production time and can reduce operation time by 19.8 % without tardy jobs."

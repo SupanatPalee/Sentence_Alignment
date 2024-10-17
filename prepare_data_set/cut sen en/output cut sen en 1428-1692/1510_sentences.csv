@@ -1,0 +1,4 @@
+"This research aimed to compare the effectiveness of two forecasting models, ANN-GARCH and ANN-EGARCH."
+"The two hybrid models were formed by a combination of Generalized Auto Regressive Conditional Heteroskedasticity (GARCH) and Artificial Neural Network (ANN) models, used to forecast the volatility of the Stock Exchange of Thailand index (SET)."
+"The results showed that both of the ANN-GARCH and ANN-EGARCH forecasts were highly accurate, measured by root mean square error (RMSE) and mean absolute percentage error (MAPE) values."
+"With key variables included, the models accurately described volatility forecasts."

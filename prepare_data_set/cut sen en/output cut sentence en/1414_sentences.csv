@@ -1,0 +1,3 @@
+This paper proposes an application of artificial neural network for Thai sign language recognition using image processing.
+A camera takes images of the movement of a person’s hands as Thai sign language for black and white image processing for the input of artificial neural network.
+The experiment results show that the average of all the errors in Thai sign language recognition using artificial neural network will not exceed 16%.

@@ -1,0 +1,12 @@
+"The research studied and utilized annealing algorithm to find optimal shipping routes in real traffic conditions for the area closed to Kasetsart University, Khamphaeng Saen campus."
+The objective was to find breakeven point and profit from the shipping routes.
+The study found that farmers sold their products to merchants who would buy their products at central markets.
+"The selling price at the market was high, followed by high fuel costs of transportation."
+"The researchers randomly collected data of product weights, distances and market times into three groups according to market segmentation as morning market, evening market and Chatchawan Imports and Packaging Ltd.  A solution was created in order to transport the goods each time by using the simulated annealing (SA) method, coded with python language, applied to the problem which is divided into two models to find a good result under conditions at different time periods."
+"Then all the solutions obtained are analyzed for the total cost, breakeven point and profit."
+The study found that the utilized annealing algorithms are able to provide the results of the vehicle route.
+The routes are ranked by weight and the number of vehicles used.
+"Then taking the distance, weight and the number of vehicles to calculate for the break-even point."
+"With the break-even point of 56,820,360.44 kg."
+"within 5 years, the algorithm was able show the result of packing 38,739.12 kg/day."
+"It is found that it will take 4.02 years to break even and generate a profit of 1,379.10 baht/day."

@@ -1,0 +1,1 @@
+docker run -d --name some-name -v C:\Users\natchaphon_pa64\Desktop\Prepro\sentence_alignment\webscrap_v2\thai_sentences:/thai_sentences -e MAX_WORKERS="1" sumethy/tran_sent_cut:0.3cpu

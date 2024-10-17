@@ -1,0 +1,7 @@
+The purpose of this study were to design and construct the mechanism of mechanic arm to enhance automatic battery with cartesian model to control the working system by Arduino in opening and closing the cover of water type storage battery as well as lifting the cover while charging the 12 V 35 A battery.
+The design of mechanic arm with driving power initial from stepping motor of Y axis movement.
+"For the efficiency in accuracy rate at the 100 millimeters of up movement, the approximation error was 0.21% and at the 100 millimeters of down movement, the approximation error was 0.26%."
+"For the time in catching the battery cover while charging with driving movement in Y axis of up and down at 50 millimeters, the approximation error in efficiency of accuracy rate was 0.44% and the approximation error in movement was 0.26%."
+"In addition, the working process in order to open and close the battery cover was to circulate the screw and the torque must be applied together with direct current motor."
+The highest torque in turning on was 0.3 N-n with 0.33 A.
+"Finally, it was found that there was no mistake occurrence from the testing on opening and closing the battery cover."

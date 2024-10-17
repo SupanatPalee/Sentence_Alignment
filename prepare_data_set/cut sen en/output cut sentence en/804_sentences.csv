@@ -1,0 +1,10 @@
+This research proposes an application of the NI myRIO device for the detection of knitted fabrics.
+"In the textile industry, the fabric inspection is an important process in controlling the quality of the fabric."
+"The NI myRIO microcontroller in conjunction with the LabVIEW program and the Web Camera is installed on an inspection machine, designed as a prototype."
+"The machine rolls up knitted fabrics and then the fabrics moves through a detection area, in which the camera is connected to the NI myRIO device."
+"Next, an image captured after a deflect exists is sent to be processed and analyzed by the NI myRIO device."
+An area pixel is computed based on HSL system and interpreted for defect selection.
+This procedure is performed on Region of interest (ROI) to verify the defect.
+"Three defects, examined in this research, consist of drop stitches, threads, and tongues."
+"These are distorted from the testing and adjustment of the space through the image HSL system, it was found that the defects of 3 knitted fabrics can be accurately checked."
+The proposed method can be available to the textile industry.

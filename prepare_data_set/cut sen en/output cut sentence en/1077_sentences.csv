@@ -1,0 +1,9 @@
+"Nowadays, inventory management plays an important role in the success and sustainability of                 a business."
+"Moreover, the current demand and price of steel fluctuate significantly."
+"As a result, the objective of this research is to propose inventory management based on the sales forecast of the steel wire mesh."
+"It performed predictions using three methods: Holt-Winters, Random Forest, and XGBoost."
+"The data were divided into a train set and a test set, with two ratios."
+"From the comparison, it was found that the Random Forest method yielded the highest forecast accuracy at a ratio of 90:10 with a mean absolute percentage error of 4.50."
+"After obtaining an accurate forecast model, the research incorporated demand data into mathematical models to plan inventory policies (Q, r) and determine raw material purchasing policies."
+It determined the most economical order quantity and re-ordering points for the minimum inventory management costs.
+The results from the mathematical model revealed that it is possible to reduce the overall cost of factory operations in inventory management planning by up to 4.75% and the costs obtained from the forecast data were close to the actual data values.

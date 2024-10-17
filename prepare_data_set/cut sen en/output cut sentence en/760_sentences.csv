@@ -1,0 +1,15 @@
+This research was to construct the relationship equation between the geometric ratios and the natural frequencies of [0/90]s laminated rectangular plates with three edges clamped and the other edge free.
+The natural frequencies with the geometric ratios from 1.00: 1.00 to 5.00: 1.00 of composite rectangular plate obtained from the approximate method to create the relationship equation between the geometric ratios and the natural frequencies by using the regression analysis method.
+The results showed that The natural frequencies can be predicted by the seventh order polynomial equation with a deviation from the approximate method of 0.3%.
+The important factors in controlling the quality of the solid-liquid mixing process in a mixing tank for solid-liquid suspension are the optimum and sufficient rotational speed that can induce a uniform suspension of solids in the liquid.
+"To design an optimum rotational speed, one must understand the deep understanding theory of liquid mixing technology and utilize complex mathematical equations for calculation."
+"Designers need practical experience in real-world testing to analyze and predict accurately, reducing the complexity while maintaining the practical validity of the design."
+The objective of this research is to develop an artificial neural network model in the form of variable relationships for screening suitable factors and predicting the rotational speed to determine uniform suspension speed in the mixing tank.
+The research consists of two steps: Step 1: Developing an artificial neural network to analyze 8 relevant factors and identify suitable factors for design.
+Step 2: Developing an artificial neural network to predict the rotational speed for achieving uniform suspension speed in the mixing tank.
+The research utilizes data from the actual design and operation of a solid-liquid mixing tank in the industrial sector.
+This involves 1440 data points for Step 1 and 630 data points for Step 2.
+The results showed that the developed artificial neural network model employs backpropagation learning.
+"In Step 1, the neural network model can accurately analyze and decide on suitable factors with an R2 value of 1.0 and an error of 0%."
+"For Step 2, the neural network model can accurately predict the rotational speed with an R2 value of 0.91 and MAPE of 4.47%."
+"Therefore, utilizing the artificial neural network as a model for designing the mixing process that aims to achieve uniform suspension of solid powder in a liquid can be as effective as designs created by professionals specializing in fluid mixing system design."

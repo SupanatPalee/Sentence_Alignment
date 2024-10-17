@@ -1,0 +1,3 @@
+"In this paper, equations for two parasitic zeros of fully-differential op amp-RC ladder filters are derived."
+"These zeros, which were caused by op amp non-idealities especially finite gain, can have significant impact on frequency response of the filters by degrading their stop-band attenuation."
+Simulation results are in good agreements with the derived equations.

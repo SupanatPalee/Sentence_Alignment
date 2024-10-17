@@ -1,0 +1,4 @@
+This paper proposes a technique to reduce the effect of pilot contamination in LTE-TDD Massive MIMO Systems.
+Orthogonal code is modulated with pilot symbol to identify base station (BS).
+The suboptimal linear LS criterion is applied to BS to estimate channel state information (CSI) and mitigates the pilot contamination in multi-cell scenarios.
+The simulation results in case of full pilot reuse show that SINR and achievable downlink rate performances obtained from the proposed technique is higher than that of the LS conventional algorithm without BS identity code in fading channel and high cross gain.

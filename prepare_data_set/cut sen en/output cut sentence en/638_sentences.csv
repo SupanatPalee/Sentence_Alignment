@@ -1,0 +1,4 @@
+Solving many-objective cockpit crew pairing problem of low-cost airline is classified as many- objective optimization problems (MaOPs) and non-deterministic polynomial hard (NP-Hard).
+The purpose of research is to compare the efficiency of two algorithms as follows multi-objective evolutionary algorithm based on decomposition (MOEA/D) and non-dominated sorting genetic algorithm III (NSGA-III).
+"The objectives considered in this research are minimizing idle time, balancing workload, minimizing repeat flight leg, minimizing the difference of nautical mile between each flight code, and minimizing number of pair of cockpit crews."
+"The experiments show that MOEA/D outperforms NSGAIII in terms of GD, IGD, Spread, RNDS1, RNDS2, and CPU Time"

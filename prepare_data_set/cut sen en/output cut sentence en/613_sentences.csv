@@ -1,0 +1,5 @@
+This research presents the controller design of LEDs intensity using the adaptive TABU search.
+The aim of the research is the control the LEDs intensity within the response as fast as possible.
+The mathematical model of the proposed system derived from the generalized state – space averaging technique was used as the objective function for the adaptive TABU search algorithm.
+The results show that the LEDs intensity response is better than the response using the controller designed by the conventional method.
+"Moreover, the simulation and experimental results were used to validate the efficiency of the proposed controller design algorithm."

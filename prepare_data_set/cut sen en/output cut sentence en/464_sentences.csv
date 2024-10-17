@@ -1,0 +1,7 @@
+The somatic cells count in milk: SCC.
+There is a critical need to evaluate milk quality and mastitis diagnosis.
+"The somatic cell count in milk by direct microscopy relies on expert analysis and cell counting and need to perform at least 20 vision images, which take longer depending on the capacity of analysis and cause eye strain and are time consuming."
+"This paper presents a method to classify and count somatic cells in cow’s milk from microscopic image which contained cells staining with methylene blue, using image processing techniques."
+The proposed algorithm for segment cells from background.
+The type of somatic cells classification and touching cells segmentation using Neural Network.
+"From the experimental results, it is found that the proposed algorithm can classify and count somatic cells correctly with average performance evaluations of Recall, Precision at 0.95 and 0.92 respectively."

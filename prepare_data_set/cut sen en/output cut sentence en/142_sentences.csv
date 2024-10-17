@@ -1,0 +1,7 @@
+This research presents bending and large deflection behaviors of the beams with horizontally moveable support subjected to self-weight and compressive force at a beam tip.
+"A variational formulation of a beam system has been developed based on principle of virtual work, which is written in term of intrinsic coordinate."
+The geometric relation of deformed infinitesimal length of the beam is derived by considering the elastica theory.
+The non-linear finite element method incorporated with the Newton-Raphson iterative procedure is used to solve the numerical solution.
+"In addition, the set of nonlinear first-order differential equations obtained from the force and moment equilibrium, moment-curvature relationship, and nonlinear geometric relations of the beam segment, which is categorized as two-point boundary value problem is numerically solved by using the shooting method."
+Then the numerical results from the finite element method are independently verified by those results from the shooting method.
+"The results also show that the beam self-weight and the compressive force at the beam tip cause the support movement, which induce large deflection."

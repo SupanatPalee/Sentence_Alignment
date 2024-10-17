@@ -1,0 +1,11 @@
+The purposes of this study were to design and develop a Spatial Research Data Center for Uttaradit Rajabhat University.
+The study used the information system of data center management and reused the database to support the work of academics and spatial officials to create a data center for Uttaradit Province.
+The results show that the development of the Spatial Research Data Center systems using Single Sign On technology for creating account centers can be used for data connection by the Web Service via REST design.
+The data center consists of 6 modules: Account Management; Data Connection Management; Web Services Management; System Log Management; Information Management; and Data Management for Academic and Local Applications.
+Users can be divided into 4 groups- Administrators; Academic; Government; and Community.
+The system result was successful at the highest level.
+The program can be used in every module with stable processing.
+The best function is the linking of the member system.
+The function to be improved concerns importing data from client applications due to the variety of applications data.
+The results of the implementation achieved a high level of satisfaction.
+The search system needs to be improved because the client application is within direct connection to the database system meaning it is limited in searching for all details.

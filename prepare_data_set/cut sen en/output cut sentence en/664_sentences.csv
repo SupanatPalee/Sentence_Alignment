@@ -1,0 +1,5 @@
+This paper proposes the use of artificial neural network (ANN) for the effectiveness and overall heat transfer coefficient using water as working fluid.
+"The experiments are performed using the average inlet hot water temperature between 40 – 50 oC, the average inlet cold water temperature between 20 – 30 oC, the average mass flow rate of hot water between 0.0273 - 0.0444 kg/s and the average mass flow rate of hot water is 0.0196 kg/s."
+"For the ANN model, a single hidden layer structure is chosen and various learning algorithms are applied to adjust errors for obtaining the optimal ANN model."
+From the experimental results show that the 5 hidden neurons and Levenberg-Marquardt backpropagation learning algorithms is the optimal ANN model.
+"The predicted results are verified with the experimental data and gives R = 0.99631, 0.98469 for effectiveness and overall heat transfer coefficient, respectively."

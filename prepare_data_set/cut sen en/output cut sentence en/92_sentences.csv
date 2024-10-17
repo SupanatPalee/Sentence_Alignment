@@ -1,0 +1,9 @@
+This research article presents a design and implementation of an Internet of Things (IoT) application for detecting people in smart buildings.
+Most occupancy detection systems use motion sensors to detect people indoor and often requires a highly stable internet connection to ensure reliable communication between devices.
+"To lessen network-related issues, we propose a cloud-based platform that is suitable for the smart building environment."
+"An IoT application that consists of image processing system, control system, and statistics display system is developed and deployed on an on-premise cloud."
+The images captured from surveillance cameras are processed by artificial intelligence with Intel’s pre-trained model in order to detect people in each zone of the building.
+"Based on the detection results, the control system automatically adjusts lighting and air conditioning in rooms to preserve energy, as well as opens or closes building gates."
+The application also sends out safety alert in case detection occurs outside of the specified time via LINE Notify.
+"In addition, the platform is designed to scale to support more zones in the future."
+The experiment results showed that our system was able to reduce overall energy usage hours of the building by 31.47 percent.

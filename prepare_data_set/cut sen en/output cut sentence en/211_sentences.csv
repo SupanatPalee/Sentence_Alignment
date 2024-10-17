@@ -1,0 +1,7 @@
+This research aims to reduce the amount of expired blood and to find the optimal amount of platelets (PLT) and red blood cells (RBC) reserve in the Blood Bank and Transfusion Medicine department of Songklanagarind Hospital.
+Survey of current problems in the blood bank was conducted to initiate the study.
+IDEF0 (Integration Definition for Function Modeling) was used to simulate real-world activities within the hospital.
+"Microsoft Access was used to manage the database of blood collection, preparation, use, and expiration of blood."
+Waste management within the blood bank is processed per the FIFO principle.
+Monte Carlo Simulation was used to prove the waste reduction concept in the blood bank and seek the optimal amount of blood reserve.
+"It could be concluded that the blood bank should maintain, of the type A, B, AB, and O, 3-day PLT at 33, 43, 13, and 56 units daily, 7-day RBC at 100, 123, 31, and 177 units daily, and 10-day RBC at 143, 176, 44, and 253 units daily at all times respectively, which effectively reduced the amount of expired PLT by 87% and expired RBC by 100%."

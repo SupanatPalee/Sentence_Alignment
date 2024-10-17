@@ -1,0 +1,4 @@
+This research aims to present the color classification of banana chips from their photographs.
+Color characterization analysis from RGB and HSV model is very useful for the semi-automatic banana chip machine which lacks of automatic systems for banana chip color classification.
+"Therefore, this research develops the method to classify if banana chips are completely cooked by image processing techniques."
+"The results of performance tests reveal that the percentages of color detection, recall, and precision were 86.27%, 83.06%, and 84.06% accuracy."

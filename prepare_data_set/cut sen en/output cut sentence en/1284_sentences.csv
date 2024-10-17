@@ -1,0 +1,14 @@
+Repetitive construction such as housing development projects can be scheduled by various methods including Critical Path Method (CPM) and Repetitive Scheduling Method (RSM).
+This paper presents the effects of using different work schedules between CPM and RSM by using STROBOSCOPE to simulate the construction of 40 housing units based on the data from a real construction project.
+The result shows that different scheduling criteria result in different activity schedules and critical activities.
+"Given the first scenario which work is performed as planned, CPM schedule has shorter project duration with less average throughput time compared to those of RSM."
+"However, with unbalanced activity production rates, CPM schedule results in work discontinuity leading to high value of total worker idle time, while RSM schedule results no idle time at all."
+The second scenario is actual work condition.
+Activity durations are input in the form of density functions based on data collected from field.
+The result shows that the variations of activities’ durations have high impacts on CPM in all aspects.
+"Project duration, average throughput time, and total worker idle time become double."
+"However, these particular work conditions have slight impacts on RSM."
+"This is because, to promote work continuity, the start dates of many activities are delayed, and this creates gaps between two adjacent activities."
+These gaps turn into time buffers which will alleviate adversity of delay to the successors.
+"In the last scenario, controllable causes of disruption are assumed to be diminished."
+"The results of this scenario are relatively similar to those of the first scenario as, in this case study, most of obstacles are avoidable."

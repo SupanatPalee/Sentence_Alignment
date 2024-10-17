@@ -1,0 +1,5 @@
+"The purpose of this research was to obtain the rainfall forecasting model, by forecasting the monthly rainfall in Buriram province."
+January 2010 to December 2019 of 120 value were used and divided into 2 sets.
+"The first 108 values from January 2010 until December 2018 were used for the modeling by Decomposition Method, Simple Exponential Smoothing Method, and Transfer Function Method."
+The last 12 values from January to December 2019 were used for checking the accuracy of the forecasting models via the determination of Mean Absolute Percentage Error.
+"The research results find that the for all the forecasting methods the had been studied, Transfer Function Method is the most suitable for this time series."

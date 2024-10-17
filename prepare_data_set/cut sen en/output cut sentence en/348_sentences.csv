@@ -1,0 +1,9 @@
+This research aims to study the effects of cracked concrete that affects the adhesive anchoring system using a three-dimensional finite element model.
+Adhesive anchoring system under the pull-out force was modeled under cracked condition with different vertical cracks zone.
+"The failure response of anchor model, adhesive model and concrete model are defined failure response types Ductile Damage, Shear Damage and Concrete Damage Plasticity Model respectively."
+For the model of adhesive/concrete interface are used cohesive elements and defined failure response type Traction-Separation Behavior.
+"The results showed that when the position of cracked in concrete is deep, their behavior and the pull-out strength of the adhesive anchor was closed to the case of adhesive anchor in the uncracked concrete."
+The effect of the crack zone was increased when the cracks were closed to the top surface of the concrete.
+The cracks under the embedding phase do not affect the behavior and strength of the system.
+It also found that increasing of the cracked plane of one-plane and two-plane would result in the reduction of maximum pull-out strength by 25% and 39% respectively.
+Keywords Finite element model; Adhesive anchoring system; Cracked concrete

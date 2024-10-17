@@ -1,0 +1,7 @@
+"This research aimed to compare the performance of the one-way analysis of variance (F test), Welch's test, Kruskal-Wallis test, Van der Waerden test, and Median test for testing the difference between central values of more than two independent populations using counting data with binomial and Poisson distributions."
+The criteria used to evaluate and compare the efficiency of the proposed tests are the ability to control the probability of type I error and power.
+"The results showed that for the binomial distribution data, all tests could control the probability of type I error for most situations, except when the sample size of each group was 10, and the variance of each group was less than 4, and when the sample size of each group was 15 and (n, p) were (10, 0.1) and (10, 0.7)."
+"For the Poisson distribution data, all tests could also control the probability of type I error in almost situations."
+"However, except for the Welch's Test, the Van der Waerden Test, and the Median Test, the probability of type 1 error could not be controlled in cases when the sample size of each group was ten and  = 30."
+"When considering the power, it was found that the analysis of variance provided the highest power than other tests in almost situations."
+The results of this study will guide data analysts in choosing an appropriate statistic for testing the difference between central values of more than two independent populations when data is count data.

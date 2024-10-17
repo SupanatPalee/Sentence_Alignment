@@ -1,0 +1,12 @@
+"Industrial robots are the equipment that is widely used in the industry, medical, military because they are highly flexible, accurate, precision and reliable."
+It is very necessary to work for complex tasks that require more accuracy and precision of automation system.
+In this research present an analysis of the uncertainty of the accuracy and precision of 6-axis robotic arm by using laser tracker as comply with the requirements of ISO 9283.
+"In this paper, the measurement is separated into 2 measuring tests, post accuracy and repeatability tests and path accuracy and repeatability tests."
+"In the measuring test, a laser reflector is installed at the robot end effector to measure the designed position while testing and selected plane and measured plane, the measurement point, the number of repeated measurement and the measurement pose and path sequence meet the ISO 9283."
+"The test results of the pose measuring tests were evaluated by 5 measurement points, the average pose accuracy (APP) is 0.5679 mm."
+The average pose repeatability (RPl) is 0.0163 mm.
+The measurement uncertainty is ± 0.0236 millimeters.
+"The test results of the path measuring test were evaluated by the 11 measurement points, the average path accuracy (ATP) is 0.5818 mm."
+The average repeatability (RTP) is 0.0264 mm.
+The measurement uncertainty is ± 0.0243 millimeters.
+"The reported expanded uncertainty of measurement is based on a standard uncertainty multiplied by a coverage factor k =2, providing a level of confidence of approximately 95%."

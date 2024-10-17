@@ -1,0 +1,7 @@
+Smart phone application for estimating smoke level is an application for assessing level of smoke in the surrounding environment.
+The propose of this application is to report the level of smoke and broadcast smoke level to the user who subscribes via LINE application.
+The smoke level report is also available on a Google Maps by showing source location as the circle with colour according to smoke level.
+The application appraises the level of smoke from colour in the picture by using K-means clustering to indicate the medium tone of the image and comparing the level of smoke using the Ringelmann scale.
+The application is working with Web service and implemented with Java and Python programming language.
+The experiment shows that the application could use as a tool for assessing the level of smoke and distance from the source of the smoke to the smartphone affects the performance of the application.
+It's better to take a picture near the source of the smoke.

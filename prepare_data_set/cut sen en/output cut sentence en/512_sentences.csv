@@ -1,0 +1,6 @@
+This paper presents the reduction of peak demand during on peak period by replacing the energy during off peak period with battery energy storage system (BESS).
+Then this period was reference from time of use rate (TOU) of Metropolitan Electricity Authority (MEA) or Provincial Electricity Authority (PEA) of Thailand.
+The research has proposed a model of Grid-connected of Medium General Service with BESS to design to algorithm for finding the discharge time periods (FDTP).
+The Algorithm has to the results from forecasting with trend line estimation to predict optimal of load profile and discharged time.
+This research will be forecast and analyze the results of 15 days from 20 days of data.
+The results of case study showed that the value average from the power trend line estimation could reduced the peak demand and consumption the most are 34.94% and 40.62% and the linear trend is worst estimation will be reduced the peak demand and consumption are 30.50% and 39.48%.

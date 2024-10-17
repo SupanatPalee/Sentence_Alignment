@@ -1,0 +1,4 @@
+The paper presents the comparison results about the energy saving of separately excited DC motor.
+The conventional and optimization methods are concerned for this comparison.
+The optimization method is applied to calculate the appropriate field current for loss minimization or energy saving.
+The experimental results show that the drive approach using the optimization method can save the energy consumed by the motor to 85.92% in maximum.

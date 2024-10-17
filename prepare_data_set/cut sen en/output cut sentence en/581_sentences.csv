@@ -1,0 +1,5 @@
+This research is to develop a prototype of a salinity intrusion monitoring system using fuzzy logic to extract salinity values.
+"A system is developed according to a fuzzy logic model using FAO's for appropriate agricultural water quality data, considering the Electrical Conductivity (EC) and total dissolved solids (TDS) as indicators of the salinity value by using the Fuzzy Logic Toolbox to produce and test the generated model."
+Transformation of the generated models to Embedded C format using the Simulink Coder tool installed in the Arm Cortex-M4 microcontroller and a 10-fold cross-validation test was used to validate the data extraction.
+The Root Mean Square Error (RMSE) for the test results was 0.58175 on average.
+This research result indicates that the generated model is able to extract data that very closely matches the specified data.

@@ -1,0 +1,11 @@
+This paper presents the model of brushless direct current motor including the commercial driver board.
+"Generally, the motor speed is controlled by setting the desired conditions."
+The accurate model for the controller design is very important.
+"However, the exact mathematical model is very complicated."
+"As a result, this paper presents the black-box model to explain the response of the brushless direct current motor driven by the commercial driver board."
+The identification of the proposed model is necessary to search the transfer function coefficients.
+"Therefore, this paper presents the artificial intelligence techniques to identify the black-box model represented by the transfer function."
+"The proposed genetic algorithm (GA), particle swarm optimization (PSO) and adaptive tabu search (ATS) will tune the unknown parameters until the minimum fitness value is obtained."
+It can be found that the proposed methods can provide the accurate dynamic model.
+The performance of the presented methodology is verified by the comparison results of the speed responses from the proposed model and experimentation.
+The results can show that the proposed technique can provide the accurate model useful for the controller design.

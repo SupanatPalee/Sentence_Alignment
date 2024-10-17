@@ -1,0 +1,8 @@
+The purpose of this research tostudy the parameters that give the lowest shrinkage.
+"In the injection molding process of recycled polypropylene (r-PP), bring therecycled plastic of runner from injection process of headphone to test the melt flow index and mechanical property then take the data to use finite element method by Solidwork plastic programto simulation."
+"The parameters were studied are injection pressure, injectiontime, coolingtime, injection temperature, and molding temperature."
+This research was used Taguchi methodto finding the parameters that lowest shrinkage.
+"The result of this research was 100% injection pressure ,25 second injection time ,10 second Cooling time ,220 ◦C injection temperature and 30◦C Molding temperature."
+"The lowest shrinkage was 15.2758 % but after put this value in the Solidwork plastic program, can found that the lowest shrinkage was 15.1719%."
+"So, it error 0.1039% difference from Taguchi design."
+"Keywords: polypropylene, shrinkage, finite element, Taguchi Method"

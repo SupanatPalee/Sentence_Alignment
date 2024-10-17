@@ -1,0 +1,10 @@
+This paper focuses on reducing defectives in an inkjet coding process of a can product.
+The two main defectives are code removing and code shear problems.
+The approach used to solve code removing problem is heating can surface before printing and preventive maintenance of coding machine is used to solve code shear problem.
+"From an analysis, three factors including temperature, air flow level, and heating time must be considered in a surface preparing process."
+Box Behnken is used in experimental design and response surface is then applied to find proper levels of these factors.
+"The most appropriate conditions are temperature 512 .C, Air flow level 3, and heating time 0.66 second."
+The result shows that the can surface preparation reduces code removing problem to 0.014 percent remaining.
+"The preventive maintenance plan is adjusted by increasing cleaning cycle of printing head, increasing cycle of ink mixing system and make instrument checking plan."
+It reduces code shear problem to 0.006 percent remaining.
+Overall defective reduction in production line 1 reduces from 0.2 percent to 0.02 percent.

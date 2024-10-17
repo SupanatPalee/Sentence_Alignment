@@ -1,0 +1,7 @@
+The objective of this research is to apply mathematical model for selecting delivery truck with various truck capacities and customers’ constraints.
+"Currently, employees manually planned the truck scheduling based on their experiences."
+"However, the analytical results of vehicle planning in the past indicated that most truck delivery plans were not matched between numbers of goods and the truck capacity."
+"Consequently, the freight cost was increased and could not guarantee that the actual shipping is compiled to the plans."
+"Therefore, a mathematical model was developed and applied to assist in the decision making on the vehicle planning."
+The proposed model resulted in reducing number of trips and transportation costs compared to the existing vehicle planning methods.
+The result for transportation costs was reduced by 5.76% as well as the total number of shipments was decreased by 3.35% within 30 days.

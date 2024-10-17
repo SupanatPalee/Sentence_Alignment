@@ -1,0 +1,6 @@
+"The purpose of this research is to compare the efficiency detection of process parameter shift for gamma distribution Control Chart, Triple Exponentially Weighted Moving Average Control Chart (TEWMA), Double Homogeneously Weighted Moving Average Control Chart (DHWMA), and Double-Modified Exponentially Weighted Moving Average Control Chart (DMEWMA)."
+"The process of this research is imitated by using Monte Carlo Simulation Technique for 20,000 iterations."
+"The data is defined by gamma distribution with scale and location parameter those are 1, 2, and 8."
+"Smoothing parameter () are 0.03, 0.05, 0.07, 0.1, 0.3, 0.5 and process shift sizes () are 0.01 - 0.5 respectively."
+The criterion is considered by out-of-control process (Average Run Length:) which is the most efficiency control chart will show the least average run length .
+The result indicates that three control charts of efficiency control chart are not different for detecting the process parameter shift for gamma distribution

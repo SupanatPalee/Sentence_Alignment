@@ -1,0 +1,8 @@
+This paper presents the harmonic detection using PQF in combination with the fundamental positive sequence voltage detector (Fundamental Positive Sequence Voltage Detector : FPSVD) for co-phase AC railway systems.
+"The proposed method is used to calculate the reference current for harmonic compensation of the shunt active power filter (Shunt Active Power Filter : SAPF), both in cases where the voltage source of the railway system is a pure sinusoidal waveform and in cases where the voltage source of the railway system is distorted due to harmonics."
+Harmonic detection tests in co-phase AC railway systems apply hardware in the loop simulation techniques using Simulink/MATLAB software with the TMS320C2000TM Experimenter Kit DSP board.
+The simulation results for the case where the voltage source of the railway systems is a pure sinusoidal waveform found that harmonic detection using the PQF method can calculate the reference current more accurately and flexibly than the conventional PQ method.
+"As a result, the percentage of total harmonic distortion (%THD) after compensation at the three-phase power system, which is the Point of Common Coupling (PCC) is less than 0.42%."
+In cases where the voltage supply of the railway systems is distorted.
+"It was found that harmonic detection by the PQF method combined with the FPSVD method has better performance than using only the PQF method, resulting in the shunt active power filter effectively removing harmonics in co-phase AC railway systems, and %THD after compensation at the PCC point is less than 0.86%."
+"Moreover, the %THD after compensation of the source current decreases within the framework of IEEE Standard 519-2014."

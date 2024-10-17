@@ -1,0 +1,4 @@
+"In this paper presents the design of M-ary phase modulation, especially when M is odd number."
+"By adding dummy input data into a DAC circuit, in order to make an input balance on both sides of DACs by using the relation of all inputs to reduce the complexity of circuit with K-Map before multiplying this signal by carrier signal."
+"After that, combine those signals to obtain the phase modulated signal as desired."
+"The simulation results shown that the status of phase signals is changed correctly.In addition, the proposed method can be used for cases where M is even value."

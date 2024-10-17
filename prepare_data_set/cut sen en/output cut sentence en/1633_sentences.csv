@@ -1,0 +1,7 @@
+The research aims to construct the forecasting model for the remaining amount of spare parts storage at suitable inventory level to forecast minimum and maximum levels for material inventory management using machine learning techniques.
+This research collected from a real data of a cement factory in Thailand.
+"The dataset has 7,258 instances."
+"We selected five algorithms for forecasting the data including Random forest, Multi-layer perceptron, K-nearest neighbor, K-star, and Random tree."
+The results of the comparison performance of algorithms for forecasting the amount of spare parts storage in the warehouse showed that the Random forest algorithm provided the highest root mean square error (RMSE) at 2.040 while the Random tree algorithm provided the similar RMSE at 2.117 for forecasting MAX value (Model MAX).
+"On the other hand, for forecasting MIN value, Random tree algorithm obtained the highest RMSE at 0.803 while the Random forest algorithm showed the RMSE at 0.906."
+"However, in this paper, the Random forest algorithm is selected as a forecasting model of both MIN and MAX values because it has the most appropriate performance value both the results of forecasting on unseen data and RMSE values."

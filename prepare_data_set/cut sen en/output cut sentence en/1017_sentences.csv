@@ -1,0 +1,6 @@
+This research aims to design and create a wall cleaning machine based on the principle of material rotation.
+"This machine was designed and controlled by motor to scrub the cylindrical wall with vertical movement, up and down along the exterior wall of the building by using a wireless control system for the maximal height of 100 meters."
+"After comparing the images before and after scrubbing, it was found that the quantity of the dirt on the wall was reduced."
+"Moreover, when the machine was tested with the algae-filled wall, it was found that the darkness of the color became lighter."
+The images of the building wall were collected for image processing.
+"After their histogram graphs were analyzed, it was found that the pixels of the grayscale images were dropped from 5,000 pixels to 3,150 pixels and the dirtiness of the building surface was also decreased."

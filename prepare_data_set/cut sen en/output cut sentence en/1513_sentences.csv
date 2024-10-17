@@ -1,0 +1,6 @@
+"This objective of this research is to present a mixed double exponentially weighted moving average-Tukey control chart (DEWMA-Tukey) using a range to detect variation in process variability, when the process is symmetric and asymmetric."
+"And to compare performance in detecting variation among Tukey's Control Chart (Tukey), Double Exponentially Weighted Moving Average charts (DEWMA),  Exponentially Weighted Moving Average-Tukey Control Chart (EWMA-Tukey) and the Double-Exponentially Weighted Moving Average-Tukey Control Chart (DEWMA-Tukey)."
+Criteria used to determine performance is the out of control average run length  when in control average run length is set at 370 and 500.
+"From Monte Carlo simulation found that when the value and the sub sample size (n) are equal to 1, the DEWMA-Tukey control chart is more effective in detecting changes in the distribution value than the EWMA-Tukey control charts, DEWMA control charts, and Tukey control charts when the process is symmetric distribution."
+"And for asymmetric distribution and the sub sample size (n) are equal to 5, DEWMA-Tukey control charts are better than other control charts when the change size is small  and when the sub-sample size (n) is 1."
+EWMA-Tukey control charts are better than other control charts.

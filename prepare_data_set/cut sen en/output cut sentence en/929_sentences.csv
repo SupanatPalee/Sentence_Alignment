@@ -1,0 +1,9 @@
+"The purposes of this research were 1) to numerically investigate the soil resistance against the pile group supporting a large billboard sign in the Bangkok area, and 2) to study the p-multipliers for a laterally-loaded pile in a group subjected to wind load."
+The three-dimensional finite element analysis was performed and created graphically using a standard set of commands in the ABAQUS/CAE package.
+"To simulate the behaviors of soil and pile foundations subjected to wind load acting on a large billboard sign, the virtual interface element technique was employed to relatively control and monitor the pile-soil-pile interaction when the lateral movement was induced."
+The effective interface element thickness was assigned to be 10% of the pile diameter.
+The research results revealed two findings.
+"First, the lateral soil resistance against the piles was found to be at its ultimate value at the topmost layer near the existing ground, the so-called critical depth at about 2 times of the pile diameter at its widest part, when considering the maximum wind loads applied to the billboard sign according to Building Control Acts."
+It was found that piles installed in the leading row resisted larger lateral stress distribution than those in the trailing row.
+"Second, the  p-multipliers of piles in the leading and trailing row were equal to 0.884 and 0.772, respectively."
+"This is due to the fact that the pile-soil-pile interaction induced among piles within a group and surrounding soil, are dependent on the position of each pile in a group and also the direction of the lateral load applied to the pile foundation."

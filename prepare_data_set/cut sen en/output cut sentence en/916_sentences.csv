@@ -1,0 +1,6 @@
+This paper presents a new locomotion concept for a reconfigurable Spherical Robot.
+The robot is a spherical shape that can be transformed into two hemispherical shapes with three omnidirectional wheels.
+Each side of hemispherical shapes can split into three shell segments where each segment is connected to a leg with three degrees of freedom.
+At the tip of each leg kept inside this shell is equipped with an omnidirectional wheel.
+The robot can perform two locomotions: (1) rolling using shell transformation and (2) moving with three omnidirectional wheels.
+The test results show that this robot can go forward with rolling using shell transformation and moving with three omnidirectional wheels successfully.

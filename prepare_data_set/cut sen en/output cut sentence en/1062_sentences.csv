@@ -1,0 +1,6 @@
+The objective of this research aimed to solve scheduling problem for a Truck Part Production Company in Phitsanulok province using Mathematical Programming Model in order to minimize makespan.
+"The data on purchasing from the customers, product and machine, and all related constraints were collected and generated to be datasets for this case study.Then, a Mathematical Programming Model for the datasets was developed before adopting Solver program, which is an add-in option provided for Microsoft Excel to find the optimal production schedule."
+The experimental results indicated that the proposed model can be applied to construct the optimal production schedule for all of the datasets within acceptable execution time.
+The optimal schedules also reduced the number of unnecessary machine usage by 29% in some datasets.
+"Moreover, the makespan obtained from the optimal production schedule for this case study of this company was 4,678.90 minutes."
+This is better than the makespan of the current production schedule by 36.48%.

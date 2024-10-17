@@ -1,0 +1,11 @@
+This paper deals with the determination of parameters of polyethylene foam using Curve Fitting Method.
+This method is useful for calculating parameters from Stress-Strain relation obtained from uniaxial compressive test in case of large deformation.
+Polyethylene foam is selected as specimens with 20-millimeter minimum thickness and contacted area is more than 2500 square millimeter.
+ASTM D3574 type C is chosen to be testing standard.
+"Since Polyethylene foam is assumed to be hyperelastic material, large deformation theory with strain energy function is applied to derive the equation obtained from engineering stress and strain."
+Blatz-Ko hyperelastic model is used to identify a hyperelastic parameter as initial shear modulus from mechanical response using Curve-Fitting Method.
+Result which is found in term of initial shear modulus of Polyethylene foam was satisfied.
+"Which is hyperelastic material, those parameters describe the mechanical response under uniaxial compression testing, ASTM D3574 type C, Standard specification for testing."
+The relation between compressive force and stretch is investigated.
+Then the test data is calculated to the relationship between stress and strain and the result found in term of initial shear modulus is 34.230 kPa.
+"Substitute Poisson ratio of this foam as 0.25 in Hooke’s Law, modulus of elasticity is 85.577 kPa."

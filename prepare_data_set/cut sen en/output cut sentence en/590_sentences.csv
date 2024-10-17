@@ -1,0 +1,4 @@
+"In the process of identification in RFID systems, a number of tags were required to send signals to nearby readers, a collision would occur."
+"It is very important because it affects the access delay in identification, power consumption of tags, or bandwidth utilization."
+"In this research, we present a novel mathematical models for the performance analysis of tag anti-collision algorithms for RFID systems, including AF-SA, AFS-SA, TA-AF and TA-AFSS."
+From the experimental results we found that the TA-AFSS algorithm provides the highest efficiency as 0.52 for the number of 100 collided tags in the system

@@ -1,0 +1,8 @@
+"Tuberculosis is a contagious disease caused by Mycobacterium tuberculosis which can spread from person to person through the air by breathing, coughing and sneezing or staying with the patients for a long time."
+"In Thailand, there is a high tuberculosis problem since each year the number of patients and resistant patients increased."
+"In this project, we construct a mathematical model of Tuberculosis in Thailand with vaccination and anti-drug treatment."
+"The model consists of susceptible, vaccination, exposed, infected, resistant and recovered."
+"Then we find equilibrium points, investigate the stability of equilibrium points, a basic reproduction number by using next-generation method and sensitivity analysis on the basic reproduction number."
+"Next, we provide numerical solutions by using Fourth order Runge-Kutta and then comparing numerical solutions with information of patients from 2014 to 2017 found that the error was 9.6024 percent."
+"Furthermore, we improve the numerical solution by simple linear regression and polynomial regression."
+We found that the error decreased by about 2 percent.

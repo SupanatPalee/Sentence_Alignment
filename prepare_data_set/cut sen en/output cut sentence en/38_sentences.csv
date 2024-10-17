@@ -1,0 +1,15 @@
+Bangkok Mass Transit Authority (BMTA) has a webboard for service user complaints on public buses.
+This information is important and improving service efficiency.
+"Now, the complaints are increasing, more different and lexical error problem affect the accuracy of the complaints classification."
+Because the person has to analyze the data by self.
+"This research aims 1) to the design and development of public bus complaint classification process from BMTA webboard by Thai dictionary-based approach and keywords selection by TF-IDF to create a corpus-based divided into 4 classes: driving class, person class, vehicle class and schedule class."
+"The result of text classification algorithms, found that it was at a very good level."
+2) to evaluation the accuracy of the public bus complaint classification.
+"Then, keywords matching with user complaints again and increase the accuracy of keywords by Levenshtein Distance."
+In case that found the incorrectly keywords for create complaint classification tag.
+"The accuracy assessment of complaint classification is a very good level, especially one complaint issue."
+The results show performance of dictionary-based approach on Thai word segmentation is suitable for the terminology that has definite scope.
+"However, found problems in same keywords to be duplicated in some class."
+"For example, loudness can be attribute from the person class or the vehicle-equipment class according to the origin of the sound."
+As well as the unique compounding of Thai language affects to the accuracy of word tokenization.
+These results will present an approach to data classification and will benefit to those responsible to improve the service for customers.

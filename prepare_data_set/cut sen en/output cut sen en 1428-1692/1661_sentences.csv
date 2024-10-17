@@ -1,0 +1,5 @@
+The juvenile delinquency is one of the most important problems of many countries because juvenile will be important forces of the nation in the future and the recidivism of juvenile tend to increase continuously.
+The research also studies the forms of juvenile delinquency to predict juvenile recidivism by applying the AI: Artificial Intelligence algorithm.
+"The result shows the predictions based on factors that cause juvenile delinquency and selected by the XGBoost algorithm consists of 6 characteristics: 1) Living by making a living 2) Tamper behavior into someone else's house, building, or car 3) Accepting employment, purchasing and / or selling drugs 4) History of prosecution 5) Training history / Imprisonment / Probation / Rehabilitation of drug addicts 6) Age while committing crime."
+The results of the performance evaluation are as follows.
+97.80 percent of the accuracy accounted for 97.80 percent and the gift accounted for 100 percent

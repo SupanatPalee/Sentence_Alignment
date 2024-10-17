@@ -1,0 +1,5 @@
+Gas-solid two-phase flow is the main phenomena in the fluidized bed system.
+This paper presents a coupled Computational Fluid Dynamics and Discrete Element Method (CFD–DEM) approach to simulate the behavior of fluid–particle interaction in a continuous fluidized bed dryer.
+"DEM is employed to model the granular particle system, whilst the CFD is used to simulate the fluid flow by solving the locally averaged Navier–Stokes equation."
+"Influence of the superficial gas velocity, mass flow rate, particle temperature and residence time of solid particles on the drying process have been reported."
+The prediction of residence time can help to optimize continuously operated fluidized process.

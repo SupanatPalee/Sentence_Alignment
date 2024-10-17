@@ -1,0 +1,9 @@
+This paper proposes a multi-input high step-up boost converter topology for renewable energy system.
+"The proposed converter provides a high voltage conversion ratio, approximately 20 times, in order to boost up the low input voltage generated from renewable energy sources about 20V – 40V to the high output voltage level of 400V."
+"In addition, this proposed multi-input converter can employ with the multi-input sources to increase power to the load."
+"In this paper, the configuration of the proposed converter and its principle of operation will be described."
+The converter parameters such as inductors and capacitors are designed to reduce the current and voltage ripples.
+The PI controller with one voltage control loop and multi current control loops is also designed to regulate the output voltage at the desired constant levels.
+The current control is based on the current weighting technique in order to provide the proper reference current for each current control loop.
+Simulation and experimental results show that the proposed high step-up multi-input boost converter can increase the voltage conversion ratio of 20.
+The PI controller based on the current weighting technique can satisfactorily regulate the output voltage at the desired constant levels under different operating conditions.

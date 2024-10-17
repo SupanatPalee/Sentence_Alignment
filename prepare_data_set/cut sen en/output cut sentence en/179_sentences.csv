@@ -1,0 +1,11 @@
+The objective of this research is to develop a program for planning the maintenance of machines at a kraft paper factory.
+To reduce the number of times from sudden stops of the machine Which affects the production process by creating a database system for managing preventive maintenance work Which has an information system to support maintenance operations It is a system for alerting messages to those involved for maintenance.
+By applying the system to have online qualifications using a wireless network via a mobile phone by sending automatic message notifications via LINE application via LINE Notify from the study of maintenance systems found that the current factory condition problem No preventive maintenance in which the maintenance of the machinery will repair the machine when it is damaged.
+In helping to analyze the root cause of problems with cause-and-effect diagramming analysis techniques to be used as information in planning preventive maintenance.
+Then try the program for planning maintenance of machines.
+The collect data to calculate the mean time of each failure and the average time of maintenance by comparison with the maintenance system before improvement The results of the development of the program Found to be able to bring information for machine maintenance it was processed to create a preventive maintenance program for the Hydra Pulper machine.
+The MTBF value increased from 15 hours per episode to 20 hours.
+MTBF decreased from 1.18 hours per episode to 1.12 hours per episode.
+The Wire Section machinery MTBF value increased from 29 hours per time to 46 hours per time.
+"MTBF value decreased from 30 minutes per time to 28 minutes per time, which resulted in lower downtime rates of machinery."
+"Then it is ready for use all the time or accounting for 99.60% in addition, the developed program can be applied to plan the maintenance of machinery in other industries as well."
