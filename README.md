@@ -122,8 +122,55 @@ $LASER/tasks/embed/embed.sh "/home/tristan/vecalign/EN-THA_data/overlap/abstract
 --> model ก่อนเเละหลังเพิ่มชุดข้อมูลจาก vecalign
 --> ไฟล์ตัวอย่างของ vecalign เเละ laser ที่ได้ทำการตืดตั้งเเละใช้งานจริง
 ```
+```
+Sentence_Alignment/
+├── Dataset train mt5/
+│   ├── dataset ที่แบ่งเป็นหลายชุด/
+│   ├── eval_manual.csv # data ที่จัดทำด้วยมนุษย์
+│   ├── eval.csv # data ที่จัดทำด้วย vecalign
+│   ├── test.csv # data ที่จัดทำด้วย vecalign
+│   └── train.csv # data ที่จัดทำด้วย vecalign
+├──media/
+├── Prepare_data_set/
+│   ├── combined_sentences/ # โฟลเดอร์ที่ทำการ รวมไฟล์เอกสาร csv ที่ตัดประโยคเเบบเเยกไฟล์ มารวมเป็นไฟล์เดียว
+│   │	  ├── ennglish_abstract.csv # ไฟล์เอกสาร ภาษาอังกฤษ ที่ผ่านการตัดประโยค
+│   │	  └── thai_abstract.csv # ไฟล์เอกสาร ภาษาไทย ที่ผ่านการตัดประโยค
+│   ├── data/ # โฟลเดอร์ที่เก็บ ไฟล์บทคัดย่อที่ผ่านการดึงมาจาก website
+│   ├── english_sentences/ # โฟลเดอร์ที่เก็บ ไฟล์บทคัดย่อที่ผ่านการดึงมาจาก website โดยมีเฉพาะข้อมูลของ Abstract
+│   ├── journal/ # รูปแบบรวบรวมลิงค์ของวารสารที่ต้องการดึงลิงค์
+│   ├── media/
+│   ├── thai_sentences/ # โฟลเดอร์ที่เก็บ ไฟล์บทคัดย่อที่ผ่านการดึงมาจาก website โดยมีเฉพาะข้อมูลของ Abstract
+│   ├── Combined_file.py # โปรเเกรมรวมไฟล์ csv จากไฟล์ csv หลายๆไฟล์ รวมเป็นไฟล์เดียว
+│   ├── Cut_en.py # โปรเเกรมตัดประโยคภาษาอังกฤษ
+│   ├── Cut_th.py # โปรเเกรมตัดประโยคภาษาไทย
+│   ├── Pull_article_link.py #โปรเเกรมดึงลิงค์ของวารสาร
+│   ├── Pull_journal.py #โปรเเกรมดึงวารสาร
+│   ├── Pull_text.py #โปรเเกรมดึง text ของวารสาร
+│   ├── README.md
+│   └──  script_install_container.md # scrip การติดตั้ง tran_sent_cut ตัดประโยคภาษาไทย
+└── command_howto use vecalign and laser.txt
 
 
+Project Sentence Aligment( Google Drive)/
+├── Model ก่อนเพิ่ม dataset จาก vecalign/
+├── Model หลังเพิ่ม dataset จาก vecalign/
+├── Program Vecalign and Laser/
+│   │	  ├── LASER/
+│   │    │	     ├── LASER/
+│   │	  └── Vecalign/
+│   │    │	     ├── EN-THA_data/
+│   │    │	     │	     ├── dataset_input/ # โฟลเดอร์ไฟล์ที่มาจากการรวมไฟล์ที่ตัดประโยค ภาษาไทยเเละอังกฤษ
+│   │    │	     │	     ├── embed/ # โฟลเดอร์ไฟล์ที่ผ่านการเข้าหรัส
+│   │    │	     │	     ├── overlap/  # โฟลเดอร์ไฟล์ที่ผ่านการ overlap
+│   │    │	     ├── ground_truth/ # โฟลเดอร์ที่เก็บไฟล์ groundtruth
+│   │    │	     ├── dp_utils.py
+│   │    │	     ├── overlap.py
+│   │    │	     ├── score.py
+│   │    │	     └── vecalign.py
+├── Test_translate_VEC-MT5.ipynb # โปรเเกรมทดสอบ model โดยใช้ api จาก huggingface มาทดสอบการเเปล
+└── Train_mt5_sentence-alignment  # โปรเเกรมการฝึกเเบบจำลอง
+
+```
 Github Vecalign --> https://github.com/thompsonb/vecalign
 
 Github Laser    --> https://github.com/facebookresearch/LASER
