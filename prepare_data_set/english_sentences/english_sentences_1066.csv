@@ -1,0 +1,8 @@
+sentences
+This paper presents Bayesian approach for mango classification based on digital image processing.
+We design algorithm to classify mango into two groups: green mango and ripe mango.
+Color features are extracted from RGB mango image and red intensity of the mango image using statistic calculation.
+The Bayesian is applied to classify the color-based feature of the mango image.
+We evaluate the performance of the Bayesian approach against another technique; the support vector machine (SVM).
+Both methods were implemented and tested with 100 mango images.
+"The experimental results show the superiority of the proposed method, with an accuracy of 88%, as compared to SVM-based method, with an accuracy of 83%."

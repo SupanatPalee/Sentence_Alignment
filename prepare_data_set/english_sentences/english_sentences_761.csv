@@ -1,0 +1,12 @@
+sentences
+Efficient mixing is required in various industries to require homogeneity and system consistency.
+DC motor speed control is important for mixing processes.
+"In this study, proportional integral (PI) controllers and proportional integral derivative (PID) controllers with simple first order filters designed in MATLAB/Simulink are compared using three different tuning methods such as Ziegler-Nichols (ZN) step response, Chien-Hrones-Reswick (CHR) step response and Closed-loop Pole placement design methods."
+The purpose of DC motor speed control is to respond quickly without overshoot to prevent damage to the DC motor.
+"Therefore, Kalman filter is considered to eliminate the occurrence of excessive overshoot."
+The motor output signal is detected by an encoder and is then converted to revolutions per minute unit (rpm) before going through the noise reduction and the controller respectively.
+The motor input is a pulse width modulation (PWM) cycle signal which is set in the range of 0-255.
+Experimental results show that the Kalman filter is excellent in all cases the noise and excessive overshoot of the DC motor speed.
+It can also accurately assess its state and can be used to reduce the aggressiveness of DC motor responses.
+The DC motor speed control performance of the controllers based three different tuning methods are also compared.
+It found that the PID controller based pole placement tuning method with the Kalman filter provide the most efficient response without overshoot for all desired speed values.

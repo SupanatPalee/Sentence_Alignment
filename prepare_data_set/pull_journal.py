@@ -4,7 +4,7 @@ import pandas
 import os
 from lxml import etree
 
-def pull_journal( save_path, search_key, tear ) :
+def pull_journal( save_path, search_key, tier ) :
     url = "https://tci-thailand.org/list%20journal.php"
     soup = web_pull( url )
     journals = soup.find_all('tr')
@@ -13,19 +13,19 @@ def pull_journal( save_path, search_key, tear ) :
         parser = etree.HTMLParser()
         tree = etree.fromstring(html_string, parser)
         journal_link = tree.xpath('//a[starts-with(@href, "http")]/@href') # ใช้ XPath เพื่อค้นหาแท็ก a ที่ href ขึ้นต้นด้วย "http"
-        journal_tear = tree.xpath('//td[5]/font//text()')
-        journal_tear = [text.replace(u'\xa0', '') for text in journal_tear]
-        if ( check_tears( journal_tear ) <= tear ) and check_link( journal_link ) and ( search_key.lower() in str( journal ).lower() ) :
-            print( f"{journal_tear[ 0 ]} {journal_link[0]}" )
+        journal_tier = tree.xpath('//td[5]/font//text()')
+        journal_tier = [text.replace(u'\xa0', '') for text in journal_tier]
+        if ( check_tiers( journal_tier ) <= tier ) and check_link( journal_link ) and ( search_key.lower() in str( journal ).lower() ) :
+            print( f"{journal_tier[ 0 ]} {journal_link[0]}" )
             if check_journal( save_path, journal_link ) :
-                save_text( save_path, journal_tear[0], journal_link[0] )
+                save_text( save_path, journal_tier[0], journal_link[0] )
             else :
                 print( "ลิงค์ซ้ำกัน" )
     print("end................")
 
-def check_tears( journals_tears ) :
+def check_tiers( journals_tiers ) :
     try :
-        return int( journals_tears[0] )
+        return int( journals_tiers[0] )
     except :
         return 99
     
@@ -38,12 +38,12 @@ def check_link( journal ) :
     except :
         return False
 
-def save_text( save_path, journals_tear, journal ) :
+def save_text( save_path, journals_tier, journal ) :
     if os.path.exists(save_path) and os.stat(save_path).st_size > 0:
-        df = pandas.DataFrame( { 'tear' : [journals_tear], 'journal' : [journal] } )
+        df = pandas.DataFrame( { 'tier' : [journals_tier], 'journal' : [journal] } )
         df.to_csv(save_path, mode='a', header=False, index=False) # ถ้ามีข้อมูลอยู่ในไฟล์ CSV ให้เปิดไฟล์และเขียนข้อมูลใหม่โดยไม่เขียนชื่อคอลัมน์
     else:
-        df = pandas.DataFrame( { 'tear' : [journals_tear], 'journal' : [journal] } )
+        df = pandas.DataFrame( { 'tier' : [journals_tier], 'journal' : [journal] } )
         df.to_csv( save_path, mode='w', header=True, index=False )
 
 def web_pull( url ) :
@@ -63,6 +63,7 @@ def check_journal( path, journal_link ) :
     for i in range( len( journals ) ) :
         if journals[ i ] == journal_link[ 0 ] :
             check = False
+            return check
     return check
 
-pull_journal( './journal/journal.csv', 'engineering', 2 )
+pull_journal( './Prepare_data_set/journal/journal.csv', 'Physical Sciences', 3 )

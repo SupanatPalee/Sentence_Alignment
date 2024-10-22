@@ -1,0 +1,1 @@
+docker run -d --name tran_sent_cut -v C:/Users/natchaphon_pa64/Desktop/Prepare_data_set/thai_sentences:/app/thai_sentences -v C:/Users/natchaphon_pa64/Desktop/Prepare_data_set/data:/app/data -e MAX_WORKERS="1" sumethy/tran_sent_cut:0.3cpu

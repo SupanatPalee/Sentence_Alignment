@@ -1,0 +1,12 @@
+sentences
+Induction machines have widely been used in many industrial factories.
+"In the case of emergency, braking torque is always needed."
+One of the simple braking methods is dc current injection.
+"In order to stop the machines in efficient manner with a desired operating time, their accurate speed-torque curves in the braking zone are often required."
+It has been reported in the open literature that machine’s braking torque curve calculations have not yet been fully completed so far due to an ignorance of their nonlinear effects.
+"Thus, this paper presents an extension to the braking torque-speed curve calculation of induction machines under dc injection braking."
+The saturation of mutual and rotor-leakage reactances as well as the slip-dependent rotor resistance are entirely taken into account.
+"To validate the proposed model, the braking torque-speed curves between calculation and laboratory measurement are compared."
+A good agreement is observed in the satisfactory manner.
+"Moreover, an application of the proposed torque-speed curve in determining the machine’s braking time is demonstrated."
+An acceptable accuracy in the breaking times between calculation and measurement approaches is shown.

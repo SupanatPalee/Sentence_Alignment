@@ -1,6 +1,5 @@
 import bs4
 import requests
-import time
 import langdetect
 import pandas
 import os
@@ -30,41 +29,43 @@ def pull_abstract( url, save_paths, Text, count ) :
             paragraphs = abstract.find_all('p') #('p', string=lambda text: text and len(text) > 10) #ค้นหาแท็ก <p> ในตัวแปร abstract ที่มีข้อความมากกว่า 10 ตัวอักษร เพื่อตัดหัวข้อที่ไม่จำเป็น
             if paragraphs :
                 for temp in paragraphs :
-                    if temp.text.strip() != '' : #ป้องกันกรณีที่มีข้อความว่างเปล่าใน array
-                        if check_language( temp.text.strip() ) == 'th' : #เช็คว่าเป็นภาษาอะไร
+                    sentence = temp.text.strip()
+                    if sentence != '' : #ป้องกันกรณีที่มีข้อความว่างเปล่าใน array
+                        if check_language( sentence ) == 'th' : #เช็คว่าเป็นภาษาอะไร
                             if Thai == '' :
-                                Thai += temp.text.strip()
+                                Thai += sentence
                             else :
-                                Thai += ' ' + temp.text.strip()
+                                Thai += ' ' + sentence
                         else :
                             if English == '' :
-                                English += temp.text.strip()
+                                English += sentence
                             else :
-                                English += ' ' + temp.text.strip() #แบบไม่ตัดการเว้นวรรคหัวท้ายออก
+                                English += ' ' + sentence #แบบไม่ตัดการเว้นวรรคหัวท้ายออก
             else :
-                if check_language( abstract.text.strip() ) == 'th' : #เช็คว่าเป็นภาษาอะไร
-                    Thai = abstract.text.strip()
+                sentence = temp.text.strip() #แบบไม่ตัดการเว้นวรรคหัวท้ายออก
+                if check_language( sentence ) == 'th' : #เช็คว่าเป็นภาษาอะไร
+                    Thai = sentence
                 else :
-                    English = abstract.text.strip() #แบบไม่ตัดการเว้นวรรคหัวท้ายออก
-            if Thai == '' :
+                    English = sentence
+            if Thai == '' : #ตรวจสอบเพื่อใช้เลือกดึงภาษาที่สอง
                 for thai_url in thai_urls :
                     second = soup.find(thai_url[ 0 ],{thai_url[ 1 ]:thai_url[ 2 ]})
                     if second :
                         second_url = second.a['href']
-                        Thai = second_pull( class_title, second_url )
+                        Thai = second_pull( class_title, second_url ) #ดึงภาษาที่สอง
                         break
-            if English == '' :
+            if English == '' : #ตรวจสอบเพื่อใช้เลือกดึงภาษาที่สอง
                 for eng_url in eng_urls :
                     second = soup.find(eng_url[ 0 ],{eng_url[ 1 ]:eng_url[ 2 ]})
                     if second :
                         second_url = second.a['href']
-                        English = second_pull( class_title, second_url )
+                        English = second_pull( class_title, second_url ) #ดึงภาษาที่สอง
                         break
-            if English[ 0 : 20 ] != Thai[ 0 : 20 ] and ( len( English ) > 15  and len( Thai ) > 15 ) :
+            if English[ 0 : 20 ] != Thai[ 0 : 20 ] and ( len( English ) > 15  and len( Thai ) > 15 ) : #ตรวจสอบว่าควรหยุดหรือยัง หากยังให้ recursive
                 Text[4] = English #=================
                 Text[5] = Thai #=================
                 save_path = save_paths + str( count ) + '.csv'
-                save_text( save_path, Text )
+                save_text( save_path, Text ) #ข้อมูลของบทคัดย่อทั้งหมด
                 print( f'English : {English}' )
                 print( f'Thai : {Thai}' )
                 count += 1
@@ -94,11 +95,12 @@ def second_pull( class_title, second_url ) :
             paragraphs = abstract.find_all('p')
             if paragraphs :
                 for temp in paragraphs :
-                    if temp.text.strip() != '' : #ป้องกันกรณีที่มีข้อความว่างเปล่าใน array
+                    sentence = temp.text.strip()
+                    if sentence != '' : #ป้องกันกรณีที่มีข้อความว่างเปล่าใน array
                         if( Text == '' ) :
-                            Text += temp.text.strip()
+                            Text += sentence
                         else :
-                            Text += ' ' + temp.text.strip()
+                            Text += ' ' + sentence
             else :
                 Text = abstract.text.strip()
             break
@@ -107,7 +109,6 @@ def second_pull( class_title, second_url ) :
     return Text
 
 def web_pull( url ) :
-    time.sleep( 2 )
     header1 = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0'} # สร้าง Agent เพื่อให้เหมือนกับการที่มีคนใช้งาน
     cookies = dict(cookies='value') # กดยอมรัย cookie
     response = requests.get(url, headers = header1 ,cookies=cookies ).text #ดึงข้อมูลจาก URL
