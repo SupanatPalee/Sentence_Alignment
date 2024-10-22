@@ -175,15 +175,13 @@ Github Vecalign --> https://github.com/thompsonb/vecalign
 
 Github Laser    --> https://github.com/facebookresearch/LASER
 
-### Document Alignment
+### การจัดเรียงคู่ประโยคเอกสาร
 
-[We propose](https://aclanthology.org/2020.emnlp-main.483) using Vecalign to rescore document alignment candidates, 
-in conjunction with candidate generation using a document embedding method that retains sentence order information.
-Example code for our document embedding method is provided [here](standalone_document_embedding_demo.py).
+[เราขอเสนอ](https://aclanthology.org/2020.emnlp-main.483) การใช้ Vecalign เพื่อการจัดเรียงคู่ประโยคเอกสาร โดยทำงานร่วมกับวิธีการเข้ารหัสเอกสารที่ยังคงลำดับประโยคไว้ ตัวอย่างโค้ดสำหรับวิธีการเข้ารหัสเอกสารของเราอยู่ที่นี่ [here](standalone_document_embedding_demo.py).
 
 ### Publications
 
-If you use Vecalign, please cite our [Vecalign paper](https://www.aclweb.org/anthology/D19-1136):
+หากคุณใช้ Vecalign โปรดอ้างอิง [Vecalign paper](https://www.aclweb.org/anthology/D19-1136):
 
 ```
 @inproceedings{thompson-koehn-2019-vecalign,
@@ -200,7 +198,7 @@ If you use Vecalign, please cite our [Vecalign paper](https://www.aclweb.org/ant
 }
 ```
 
-If you use the provided document embedding code or use Vecalign for document alignment, please cite our [document alignment paper](https://aclanthology.org/2020.emnlp-main.483):
+หากคุณใช้โค้ดเข้ารหัสเอกสารที่ให้มาหรือใช้ Vecalign เพื่อจัดเรียงเอกสาร โปรดอ้างอิง [document alignment paper](https://aclanthology.org/2020.emnlp-main.483):
 
 ```
 @inproceedings{thompson-koehn-2020-exploiting,
